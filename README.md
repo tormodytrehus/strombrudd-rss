@@ -1,11 +1,15 @@
 # Strømbrudd-RSS
 
-Automatisk RSS-feed for strømbrudd hos Tensio og Nettselskapet AS.
+Direkteoppdatert RSS-feed for strømbrudd hos Tensio og Nettselskapet AS.
 
-Feedene publiseres på GitHub Pages:
+## Hovedfeed
 
-- `https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml`
-- `https://tormodytrehus.github.io/strombrudd-rss/tensio.xml`
-- `https://tormodytrehus.github.io/strombrudd-rss/nettselskapet.xml`
+https://strombrudd-rss.tormod-ytrehus.workers.dev/strombrudd.xml
 
-Arbeidsflyten kan startes manuelt under **Actions**, og kjører ellers automatisk.
+Feeden lages av en Cloudflare Worker og oppdateres ved forespørsel, med omtrent 10 sekunders mellomlagring.
+
+## Reservefeed
+
+https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml
+
+Reservefeeden oppdateres automatisk via GitHub Actions hvert 15. minutt.
