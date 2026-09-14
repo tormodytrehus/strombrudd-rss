@@ -4,41 +4,20 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 12:10:45 GMT</lastBuildDate>
-    <item>
-      <title>Nytt strømbrudd hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">2c5e1ddfe437b0c70594</guid>
-      <pubDate>Mon, 14 Sep 2026 12:10:45 GMT</pubDate>
-      <description>Avbrudd (strøm)</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">83beeb0287e5610e3e3e</guid>
-      <pubDate>Mon, 14 Sep 2026 12:10:45 GMT</pubDate>
-      <description>1: Strøm | 2: Fjernvarme/kjøling | 3: Fjernvarme | 4: Fjernkjøling | 5: Gass | 6: Vann | 7: Telekom | 101: Ikke verifisert | 102: Verifisert | 103: Utbedret | 104: Avsluttet | 105: Ugyldig | 106: Pågående | 111: Planlagt strømstans | 112: Avbrudd | 113: Driftordre | 114: Forstyrrelse | 200: Avsluttet | 201: Planlagt | 1000: Informasjon om forstyrrelser | 1001: Berørte kunder | 1002: Status | 1003: Start | 1004: Planlagt slutt | 1005: Slutt | 1006: Informasjon | 1007: Vise | 1008: Ingen pågående strømbrudd | 1009: Pågående strømbrudd | 1010: Lukke | 1012: Pågående | 1013: Avsluttede | 1014: Planlagt | 1018: Liste over strømbrudd | 1019: Denne seksjonen lister opp alle pågående og nylig fiksede strømbrudd. Hvert objekt i listen går å ekspandere for å få mer informasjon. | 1020: Denne seksjonen lister opp alle pågående og nylig fiksede strømbrudd for tidsperioden vist nedenfor. Hvert objekt i listen går å ekspandere for å få mer informasjon. | 1021: Driftstatus | 1022: Historiske strømbruddsdata | 1023: Hent historisk data | 1024: Tids kontroll | 1025: Tidskontroll lar deg utforske historisk avbruddsdata. Dra glidebrytereren for å endre tidsintervallet som vises. Kartet oppdateres for å vise driftstatus til satt tidspunkt. | 1026: Gjenopprettede kunder | 1027: Vis informasjonskort automatisk | 1028: Driftstatus | 1029: Ingen historisk data. | 1030: Diagram historiske strømbrudd | 1031: Viser forandringer i driftstatus og påvirkede kunder over tid. x-aksen viser antall påvirkede kunder og y-aksen viser tid. | 1032: Ukjent | 1033: Søk plassering | 1034: Gå tilbake | 1035: kunder gjenopprettet | 1036: kunder påvirkes | 1037: Type | 1038: ID | 1040: Planlagt start | 1041: Planlagte | 1042: Feil | 1043: Historikk | 1044: Avbrudd | 1045: Fant ingen resultat | 1046: Nullstill | 1052: Avbruddet oppgitt i URL-en ble ikke funnet | 1053: Bruk to fingre for å panorere kartet</description>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 12:18:08 GMT</lastBuildDate>
     <item>
       <title>Nytt strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">2f018e623b4a224617b5</guid>
-      <pubDate>Mon, 14 Sep 2026 12:10:45 GMT</pubDate>
-      <description>Selbu Vedlikehold 1</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">a45585c4b6c2a0670742</guid>
-      <pubDate>Mon, 14 Sep 2026 12:10:45 GMT</pubDate>
+      <guid isPermaLink="false">695e482198c7f27ec83d</guid>
+      <pubDate>Mon, 14 Sep 2026 12:18:08 GMT</pubDate>
       <description>Frøya Vedlikehold 122</description>
     </item>
     <item>
       <title>Nytt strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">1b63135821da7a52bf8e</guid>
-      <pubDate>Mon, 14 Sep 2026 12:10:45 GMT</pubDate>
-      <description>Trondheim Vedlikehold 60</description>
+      <guid isPermaLink="false">a0977ae17a41a06fb70d</guid>
+      <pubDate>Mon, 14 Sep 2026 12:18:08 GMT</pubDate>
+      <description>Selbu Vedlikehold 1</description>
     </item>
   </channel>
 </rss>
