@@ -1,0 +1,59 @@
+name: Oppdater strømbrudd-RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: strombrudd-rss
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Hent prosjektet
+        uses: actions/checkout@v6
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Installer avhengigheter
+        run: npm install
+
+      - name: Installer nettleser
+        run: npx playwright install --with-deps chromium
+
+      - name: Hent strømbrudd og bygg RSS
+        run: npm run update
+
+      - name: Lagre ny tilstand og RSS
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json public
+          git diff --cached --quiet || git commit -m "Oppdater strømbrudd-RSS"
+          git push
+
+      - name: Klargjør GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Last opp nettsiden
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+      - name: Publiser GitHub Pages
+        uses: actions/deploy-pages@v4
+        id: deployment
