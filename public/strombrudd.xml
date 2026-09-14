@@ -4,7 +4,14 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 12:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:00:47 GMT</lastBuildDate>
+    <item>
+      <title>Strømbrudd avsluttet hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">fe68776cadadb07f1f66</guid>
+      <pubDate>Mon, 14 Sep 2026 13:00:47 GMT</pubDate>
+      <description>Tydal Feil 11</description>
+    </item>
     <item>
       <title>Nytt strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>

@@ -10,16 +10,19 @@
         "key": "eee8b1963c45c95e42d8",
         "contentHash": "88f09e25e6f81dbf3026",
         "text": "Frøya Vedlikehold 122"
-      },
-      "57ef00ad63bfbec6a72d": {
-        "key": "57ef00ad63bfbec6a72d",
-        "contentHash": "4b94f399f37ca3ec6295",
-        "text": "Tydal Feil 11"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "fe68776cadadb07f1f66",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Tydal Feil 11",
+      "date": "2026-09-14T13:00:47.048Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "1081272cfed223c0e045",
       "sourceId": "tensio",
