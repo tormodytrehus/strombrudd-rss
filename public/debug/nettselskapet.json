@@ -1,0 +1,95 @@
+{
+  "checkedAt": "2026-09-14T12:10:45.150Z",
+  "url": "https://nettselskapetpg.digpro.se/outagemap2/?app=fpp&cust=nsl",
+  "title": "Outage Map",
+  "bodyText": "search menu check_circle Ingen pågående strømbrudd my_location + - © OpenStreetMap Contributors",
+  "domCandidates": [
+    {
+      "index": 0,
+      "tag": "DIV",
+      "className": "outageName",
+      "text": "Avbrudd (strøm)"
+    },
+    {
+      "index": 1,
+      "tag": "DIV",
+      "className": "outageTimeContainer",
+      "text": "scheduleStart2026-09-13 12:31access_time_filledSlutt2026-09-13 13:02"
+    },
+    {
+      "index": 2,
+      "tag": "DIV",
+      "className": "outageName",
+      "text": "Avbrudd (strøm)"
+    },
+    {
+      "index": 3,
+      "tag": "DIV",
+      "className": "outageTimeContainer",
+      "text": "scheduleStart2026-09-13 14:01access_time_filledSlutt2026-09-13 15:59"
+    },
+    {
+      "index": 4,
+      "tag": "DIV",
+      "className": "outageName",
+      "text": "Avbrudd (strøm)"
+    },
+    {
+      "index": 5,
+      "tag": "DIV",
+      "className": "outageTimeContainer",
+      "text": "scheduleStart2026-09-14 09:15access_time_filledSlutt2026-09-14 12:09"
+    },
+    {
+      "index": 6,
+      "tag": "DIV",
+      "className": "cdk-describedby-message-container cdk-visually-hidden",
+      "text": "55 Gjenopprettede kunder0 Berørte kunder4 Gjenopprettede kunder1 Gjenopprettede kunder"
+    }
+  ],
+  "responseUrls": [
+    {
+      "status": 200,
+      "url": "https://nettselskapetpg.digpro.se/bios/rest/outagemap/config/nsl"
+    },
+    {
+      "status": 200,
+      "url": "https://nettselskapetpg.digpro.se/bios/rest/outagemap/lang/nsl/no"
+    },
+    {
+      "status": 404,
+      "url": "https://nettselskapetpg.digpro.se/bios/site/concession.kml"
+    },
+    {
+      "status": 200,
+      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
+    },
+    {
+      "status": 200,
+      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
+    },
+    {
+      "status": 200,
+      "url": "https://openstreetmap.digpro.se/photon/api?q=&limit=5&lat=63.5&lon=9.66&bbox=7.645145988218088,62.60067963627547,11.674854011781912,64.39932036372454"
+    },
+    {
+      "status": 200,
+      "url": "https://openstreetmap.digpro.se/photon/api?q=&limit=5&lat=63.5&lon=9.66&bbox=7.645145988218088,62.60067963627547,11.674854011781912,64.39932036372454"
+    },
+    {
+      "status": 200,
+      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesKML?app=fpp_nsl"
+    }
+  ],
+  "jsonCandidates": [
+    {
+      "url": "https://nettselskapetpg.digpro.se/bios/rest/outagemap/lang/nsl/no",
+      "matches": [
+        {
+          "path": "7005",
+          "text": "1: Strøm | 2: Fjernvarme/kjøling | 3: Fjernvarme | 4: Fjernkjøling | 5: Gass | 6: Vann | 7: Telekom | 101: Ikke verifisert | 102: Verifisert | 103: Utbedret | 104: Avsluttet | 105: Ugyldig | 106: Pågående | 111: Planlagt strømstans | 112: Avbrudd | 113: Driftordre | 114: Forstyrrelse | 200: Avsluttet | 201: Planlagt | 1000: Informasjon om forstyrrelser | 1001: Berørte kunder | 1002: Status | 1003: Start | 1004: Planlagt slutt | 1005: Slutt | 1006: Informasjon | 1007: Vise | 1008: Ingen pågående strømbrudd | 1009: Pågående strømbrudd | 1010: Lukke | 1012: Pågående | 1013: Avsluttede | 1014: Planlagt | 1018: Liste over strømbrudd | 1019: Denne seksjonen lister opp alle pågående og nylig fiksede strømbrudd. Hvert objekt i listen går å ekspandere for å få mer informasjon. | 1020: Denne seksjonen lister opp alle pågående og nylig fiksede strømbrudd for tidsperioden vist nedenfor. Hvert objekt i listen går å ekspandere for å få mer informasjon. | 1021: Driftstatus | 1022: Historiske strømbruddsdata | 1023: Hent historisk data | 1024: Tids kontroll | 1025: Tidskontroll lar deg utforske historisk avbruddsdata. Dra glidebrytereren for å endre tidsintervallet som vises. Kartet oppdateres for å vise driftstatus til satt tidspunkt. | 1026: Gjenopprettede kunder | 1027: Vis informasjonskort automatisk | 1028: Driftstatus | 1029: Ingen historisk data. | 1030: Diagram historiske strømbrudd | 1031: Viser forandringer i driftstatus og påvirkede kunder over tid. x-aksen viser antall påvirkede kunder og y-aksen viser tid. | 1032: Ukjent | 1033: Søk plassering | 1034: Gå tilbake | 1035: kunder gjenopprettet | 1036: kunder påvirkes | 1037: Type | 1038: ID | 1040: Planlagt start | 1041: Planlagte | 1042: Feil | 1043: Historikk | 1044: Avbrudd | 1045: Fant ingen resultat | 1046: Nullstill | 1052: Avbruddet oppgitt i URL-en ble ikke funnet | 1053: Bruk to fingre for å panorere kartet"
+        }
+      ]
+    }
+  ]
+}
