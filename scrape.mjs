@@ -65,20 +65,28 @@ function flattenObject(value, prefix = "", depth = 0, result = []) {
 async function scrapeSource(browser, id, source) {
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 }, locale: "nb-NO" });
   const jsonCandidates = [];
+  const apiResponses = [];
   const responseUrls = [];
+  const responseTasks = [];
 
-  page.on("response", async response => {
+  page.on("response", response => {
     const type = response.request().resourceType();
     if (type !== "xhr" && type !== "fetch") return;
     responseUrls.push({ status: response.status(), url: response.url() });
-    const contentType = response.headers()["content-type"] || "";
-    if (!contentType.includes("json")) return;
-    try {
-      const data = await response.json();
-      jsonCandidates.push({ url: response.url(), matches: flattenObject(data) });
-    } catch {
-      // Enkelte svar merkes som JSON uten å være gyldig JSON.
-    }
+    responseTasks.push((async () => {
+      try {
+        const body = await response.text();
+        const isOutageApi = /GetOutages(?:DisturbanceInfo|KML)/i.test(response.url());
+        if (isOutageApi) apiResponses.push({ url: response.url(), body: body.slice(0, 100000) });
+        const contentType = response.headers()["content-type"] || "";
+        if (contentType.includes("json") || /^[\s\n]*[\[{]/.test(body)) {
+          const data = JSON.parse(body);
+          jsonCandidates.push({ url: response.url(), matches: flattenObject(data) });
+        }
+      } catch {
+        // Noen nettverkssvar kan ikke leses eller er ikke gyldig JSON.
+      }
+    })());
   });
 
   await page.goto(source.map, { waitUntil: "domcontentloaded", timeout: 60000 });
@@ -108,6 +116,8 @@ async function scrapeSource(browser, id, source) {
     })).filter(item => item.text.length >= 3 && item.text.length <= 1000))
     .catch(() => []);
 
+  await Promise.allSettled(responseTasks);
+
   await page.screenshot({ path: `${outputDir}/debug/${id}.png`, fullPage: true }).catch(() => {});
   await fs.writeFile(`${outputDir}/debug/${id}.json`, JSON.stringify({
     checkedAt: now,
@@ -116,6 +126,7 @@ async function scrapeSource(browser, id, source) {
     bodyText: bodyText.slice(0, 20000),
     domCandidates,
     responseUrls,
+    apiResponses,
     jsonCandidates: jsonCandidates.filter(item => item.matches.length)
   }, null, 2));
 
@@ -127,10 +138,37 @@ async function scrapeSource(browser, id, source) {
       .filter(item => /\d/.test(item.text) && !/meny|cookie|personvern|sjekkliste/i.test(item.text))
       .map(item => item.text);
   } else {
-    const jsonTexts = jsonCandidates.flatMap(candidate => candidate.matches.map(match => match.text));
-    const domTexts = domCandidates.map(item => item.text);
-    items = [...jsonTexts, ...domTexts]
-      .filter(text => /(avbrudd|strøm|strom|stans|feil|planlagt|outage|fault|incident)/i.test(text));
+    if (/Ingen pågående strømbrudd/i.test(bodyText)) {
+      items = [];
+    } else {
+      const jsonTexts = jsonCandidates
+        .filter(candidate => !/\/lang\//i.test(candidate.url))
+        .flatMap(candidate => candidate.matches.map(match => match.text));
+      const domTexts = domCandidates.map(item => item.text);
+      const apiTexts = [];
+
+      for (const response of apiResponses) {
+        try {
+          apiTexts.push(...flattenObject(JSON.parse(response.body)).map(match => match.text));
+        } catch {
+          const placemarks = response.body.match(/<Placemark\b[\s\S]*?<\/Placemark>/gi) || [];
+          for (const placemark of placemarks) {
+            const text = clean(placemark
+              .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+              .replace(/<[^>]+>/g, " ")
+              .replaceAll("&lt;", "<")
+              .replaceAll("&gt;", ">")
+              .replaceAll("&amp;", "&"));
+            if (text) apiTexts.push(text);
+          }
+        }
+      }
+
+      items = [...apiTexts, ...jsonTexts, ...domTexts]
+        .filter(text => text !== "0" && text.length >= 8 && text.length <= 1500)
+        .filter(text => /(avbrudd|strøm|strom|stans|feil|planlagt|outage|fault|incident|berørte kunder|pågående)/i.test(text))
+        .filter(text => !/Denne seksjonen lister|Bruk to fingre|Ingen pågående strømbrudd/i.test(text));
+    }
   }
 
   items = [...new Set(items.map(clean))].slice(0, 200);
