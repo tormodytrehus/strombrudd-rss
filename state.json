@@ -1,20 +1,25 @@
 {
   "current": {
-    "tensio": {
-      "e7e9c42d2a02b91fdcfd": {
-        "key": "e7e9c42d2a02b91fdcfd",
-        "contentHash": "57dafe521ee26ab778c3",
-        "text": "Selbu Vedlikehold 1"
-      },
-      "eee8b1963c45c95e42d8": {
-        "key": "eee8b1963c45c95e42d8",
-        "contentHash": "88f09e25e6f81dbf3026",
-        "text": "Frøya Vedlikehold 122"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "50d26354fdf4d4c7e741",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Frøya Vedlikehold 122",
+      "date": "2026-09-14T14:48:28.909Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "72d592d0eea45ca49cfc",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Selbu Vedlikehold 1",
+      "date": "2026-09-14T14:48:28.909Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "fe68776cadadb07f1f66",
       "sourceId": "tensio",
