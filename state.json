@@ -20,11 +20,24 @@
         "key": "9093f0e9222e32993cfa",
         "contentHash": "cd7c4699d65ba2f9cbbc",
         "text": "Flatanger Vedlikehold 16"
+      },
+      "85ff6358796bff6993bb": {
+        "key": "85ff6358796bff6993bb",
+        "contentHash": "8fe8f30d100fc0c9338d",
+        "text": "Steinkjer Feil 1"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "5809484690a089fd3e04",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Steinkjer Feil 1",
+      "date": "2026-09-15T08:48:21.993Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "aa42dd2957a651da47c7",
       "sourceId": "tensio",
