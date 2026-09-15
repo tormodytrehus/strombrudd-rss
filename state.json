@@ -5,16 +5,19 @@
         "key": "962fb702874b0c718803",
         "contentHash": "717414e107d6628913b2",
         "text": "Steinkjer Vedlikehold 2"
-      },
-      "4223e467e385aae49c3f": {
-        "key": "4223e467e385aae49c3f",
-        "contentHash": "d71d6808fecf5389c094",
-        "text": "Frosta Vedlikehold 13"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "55704ed0e61ec2cad41d",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Frosta Vedlikehold 13",
+      "date": "2026-09-15T11:43:53.270Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "7aad0845c6286d3b0702",
       "sourceId": "tensio",
