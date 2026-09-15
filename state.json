@@ -10,11 +10,37 @@
         "key": "4223e467e385aae49c3f",
         "contentHash": "d71d6808fecf5389c094",
         "text": "Frosta Vedlikehold 13"
+      },
+      "fb520801aa718f8cdf49": {
+        "key": "fb520801aa718f8cdf49",
+        "contentHash": "5057609201e84fafa487",
+        "text": "Namsos Vedlikehold 4"
+      },
+      "9093f0e9222e32993cfa": {
+        "key": "9093f0e9222e32993cfa",
+        "contentHash": "cd7c4699d65ba2f9cbbc",
+        "text": "Flatanger Vedlikehold 16"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "aa42dd2957a651da47c7",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Flatanger Vedlikehold 16",
+      "date": "2026-09-15T08:20:24.248Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "042d6134687b3371331f",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Namsos Vedlikehold 4",
+      "date": "2026-09-15T08:20:24.248Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c2fd39aba1dae752a927",
       "sourceId": "tensio",
