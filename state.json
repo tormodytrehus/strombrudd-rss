@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "63f39b7cc3d6110b8833": {
+        "key": "63f39b7cc3d6110b8833",
+        "contentHash": "f5035456d1c94803857d",
+        "text": "Hitra Vedlikehold 3"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "04942c2f514ca637c514",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Hitra Vedlikehold 3",
+      "date": "2026-09-15T13:45:53.054Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "9256c55593b37d43585f",
       "sourceId": "tensio",
