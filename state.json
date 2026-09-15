@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "962fb702874b0c718803": {
-        "key": "962fb702874b0c718803",
-        "contentHash": "717414e107d6628913b2",
-        "text": "Steinkjer Vedlikehold 2"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "9256c55593b37d43585f",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Vedlikehold 2",
+      "date": "2026-09-15T11:57:41.673Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "55704ed0e61ec2cad41d",
       "sourceId": "tensio",
