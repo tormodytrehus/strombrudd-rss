@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "f22f0e01a31344e2a59c": {
+        "key": "f22f0e01a31344e2a59c",
+        "contentHash": "652ddd555ac57dbaa55b",
+        "text": "Åfjord Vedlikehold 25"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "2efe9f5cd6e0dbe06ded",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Åfjord Vedlikehold 25",
+      "date": "2026-09-15T06:24:02.918Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "50d26354fdf4d4c7e741",
       "sourceId": "tensio",
