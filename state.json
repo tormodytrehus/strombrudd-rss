@@ -10,16 +10,19 @@
         "key": "4223e467e385aae49c3f",
         "contentHash": "d71d6808fecf5389c094",
         "text": "Frosta Vedlikehold 13"
-      },
-      "fb520801aa718f8cdf49": {
-        "key": "fb520801aa718f8cdf49",
-        "contentHash": "5057609201e84fafa487",
-        "text": "Namsos Vedlikehold 4"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "7aad0845c6286d3b0702",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Namsos Vedlikehold 4",
+      "date": "2026-09-15T09:48:11.575Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "534e2789f5b44b6b5b0f",
       "sourceId": "tensio",
