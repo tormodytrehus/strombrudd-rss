@@ -1,15 +1,44 @@
 {
   "current": {
     "tensio": {
-      "f22f0e01a31344e2a59c": {
-        "key": "f22f0e01a31344e2a59c",
-        "contentHash": "652ddd555ac57dbaa55b",
-        "text": "Åfjord Vedlikehold 25"
+      "962fb702874b0c718803": {
+        "key": "962fb702874b0c718803",
+        "contentHash": "717414e107d6628913b2",
+        "text": "Steinkjer Vedlikehold 2"
+      },
+      "4223e467e385aae49c3f": {
+        "key": "4223e467e385aae49c3f",
+        "contentHash": "d71d6808fecf5389c094",
+        "text": "Frosta Vedlikehold 13"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c2fd39aba1dae752a927",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Åfjord Vedlikehold 25",
+      "date": "2026-09-15T07:20:03.567Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "4e99cddcaa192c7fef87",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Frosta Vedlikehold 13",
+      "date": "2026-09-15T07:20:03.567Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "1bdb93133357e04f819d",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Steinkjer Vedlikehold 2",
+      "date": "2026-09-15T07:20:03.567Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "2efe9f5cd6e0dbe06ded",
       "sourceId": "tensio",
