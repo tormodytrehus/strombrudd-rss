@@ -5,11 +5,24 @@
         "key": "fc3696f8546df39fdc20",
         "contentHash": "62d677cc2eaf3e3b388f",
         "text": "Oppdal Feil 1"
+      },
+      "ecbf81a0987c04a703c6": {
+        "key": "ecbf81a0987c04a703c6",
+        "contentHash": "1055afbb61e6409430f6",
+        "text": "Trondheim Vedlikehold 116"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ce9822e53528e526c51c",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 116",
+      "date": "2026-09-15T22:16:44.903Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "35ad44fe01ecfa8f8267",
       "sourceId": "tensio",
