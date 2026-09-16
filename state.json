@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "f40864139fda64a0181c": {
-        "key": "f40864139fda64a0181c",
-        "contentHash": "7617c91842e90f581be9",
-        "text": "Namsos Feil 4"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ee2b524a743aed676c15",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Namsos Feil 4",
+      "date": "2026-09-16T19:15:55.368Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "dc04ed3304a2b2327dec",
       "sourceId": "tensio",
