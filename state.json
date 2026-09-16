@@ -1,16 +1,6 @@
 {
   "current": {
     "tensio": {
-      "fb520801aa718f8cdf49": {
-        "key": "fb520801aa718f8cdf49",
-        "contentHash": "736fb908263d46c94c41",
-        "text": "Namsos Vedlikehold 3"
-      },
-      "962fb702874b0c718803": {
-        "key": "962fb702874b0c718803",
-        "contentHash": "717414e107d6628913b2",
-        "text": "Steinkjer Vedlikehold 2"
-      },
       "69d5763b0ad70050ac0c": {
         "key": "69d5763b0ad70050ac0c",
         "contentHash": "55cbf790a7ac1d4db018",
@@ -35,6 +25,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "d583f00d5adb9a36adb0",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Vedlikehold 2",
+      "date": "2026-09-16T10:21:40.543Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "e8ffb9488724e8ef4662",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Namsos Vedlikehold 3",
+      "date": "2026-09-16T10:21:40.543Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "49d5355b818b6a8c1054",
       "sourceId": "tensio",
