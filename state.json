@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "fc3696f8546df39fdc20": {
-        "key": "fc3696f8546df39fdc20",
-        "contentHash": "62d677cc2eaf3e3b388f",
-        "text": "Oppdal Feil 1"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "2135ac66fe701c0a1d2b",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Oppdal Feil 1",
+      "date": "2026-09-16T04:59:00.096Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "ff4076a2488de1392d33",
       "sourceId": "tensio",
