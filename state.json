@@ -25,16 +25,19 @@
         "key": "63f39b7cc3d6110b8833",
         "contentHash": "b2bbe2093b4d83f849e5",
         "text": "Hitra Vedlikehold 72"
-      },
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "862d0b381bfe0b0f8345",
-        "text": "Trondheim Vedlikehold 61"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ddb915294e555f8f8b8c",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 61",
+      "date": "2026-09-16T08:46:26.814Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "2ae8b68a120fba536959",
       "sourceId": "tensio",
