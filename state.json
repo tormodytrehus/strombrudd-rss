@@ -11,6 +11,11 @@
         "contentHash": "736fb908263d46c94c41",
         "text": "Namsos Vedlikehold 3"
       },
+      "69d5763b0ad70050ac0c": {
+        "key": "69d5763b0ad70050ac0c",
+        "contentHash": "55cbf790a7ac1d4db018",
+        "text": "Oppdal Vedlikehold 30"
+      },
       "f22f0e01a31344e2a59c": {
         "key": "f22f0e01a31344e2a59c",
         "contentHash": "bff55c5faa5465223490",
@@ -30,6 +35,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "49d5355b818b6a8c1054",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Oppdal Vedlikehold 30",
+      "date": "2026-09-16T09:17:43.670Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "ddb915294e555f8f8b8c",
       "sourceId": "tensio",
