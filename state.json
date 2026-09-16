@@ -1,10 +1,10 @@
 {
   "current": {
     "tensio": {
-      "69d5763b0ad70050ac0c": {
-        "key": "69d5763b0ad70050ac0c",
-        "contentHash": "55cbf790a7ac1d4db018",
-        "text": "Oppdal Vedlikehold 30"
+      "63f39b7cc3d6110b8833": {
+        "key": "63f39b7cc3d6110b8833",
+        "contentHash": "b2bbe2093b4d83f849e5",
+        "text": "Hitra Vedlikehold 72"
       },
       "f22f0e01a31344e2a59c": {
         "key": "f22f0e01a31344e2a59c",
@@ -15,16 +15,27 @@
         "key": "e14deee98bb30764948f",
         "contentHash": "e853dab5bcb6ee2561bd",
         "text": "Malvik Vedlikehold 43"
-      },
-      "63f39b7cc3d6110b8833": {
-        "key": "63f39b7cc3d6110b8833",
-        "contentHash": "b2bbe2093b4d83f849e5",
-        "text": "Hitra Vedlikehold 72"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "349a9ae7cf37d0ccf00d",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Oppdal Vedlikehold 30",
+      "date": "2026-09-16T11:20:31.070Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "3576b770f430e02135e2",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Hitra Vedlikehold 3",
+      "date": "2026-09-16T11:20:31.070Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "d583f00d5adb9a36adb0",
       "sourceId": "tensio",
