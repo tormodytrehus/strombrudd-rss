@@ -11,6 +11,11 @@
         "contentHash": "bff55c5faa5465223490",
         "text": "Åfjord Vedlikehold 13"
       },
+      "562e46f5cd98895f928b": {
+        "key": "562e46f5cd98895f928b",
+        "contentHash": "e62bcd8dcaef8f368cc1",
+        "text": "Hitra Feil 499"
+      },
       "e14deee98bb30764948f": {
         "key": "e14deee98bb30764948f",
         "contentHash": "e853dab5bcb6ee2561bd",
@@ -20,6 +25,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "944901fc60c419c85396",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Hitra Feil 499",
+      "date": "2026-09-16T11:58:30.374Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "cbee57344d6e28287292",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Hitra Vedlikehold 3",
+      "date": "2026-09-16T11:58:30.374Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "73ffd68c0cc7676a1cad",
       "sourceId": "tensio",
