@@ -5,16 +5,19 @@
         "key": "f40864139fda64a0181c",
         "contentHash": "7617c91842e90f581be9",
         "text": "Namsos Feil 4"
-      },
-      "562e46f5cd98895f928b": {
-        "key": "562e46f5cd98895f928b",
-        "contentHash": "ac114634cc8489710903",
-        "text": "Hitra Feil 13"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "dc04ed3304a2b2327dec",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Hitra Feil 13",
+      "date": "2026-09-16T17:57:36.784Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c4121e6111d142ef37fa",
       "sourceId": "tensio",
