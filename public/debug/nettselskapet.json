@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-16T22:56:24.449Z",
+  "checkedAt": "2026-09-16T23:16:40.698Z",
   "url": "https://nettselskapetpg.digpro.se/outagemap2/?app=fpp&cust=nsl",
   "title": "Outage Map",
   "bodyText": "search menu check_circle Ingen pågående strømbrudd my_location + - © OpenStreetMap Contributors",
@@ -30,7 +30,11 @@
     },
     {
       "status": 200,
-      "url": "https://nettselskapetpg.digpro.se/bios/rest/outagemap/lang/nsl/no"
+      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
+    },
+    {
+      "status": 200,
+      "url": "https://openstreetmap.digpro.se/photon/api?q=&limit=5&lat=63.5&lon=9.66&bbox=7.645145988218088,62.60067963627547,11.674854011781912,64.39932036372454"
     },
     {
       "status": 404,
@@ -38,23 +42,19 @@
     },
     {
       "status": 200,
-      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
-    },
-    {
-      "status": 200,
-      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
-    },
-    {
-      "status": 200,
-      "url": "https://openstreetmap.digpro.se/photon/api?q=&limit=5&lat=63.5&lon=9.66&bbox=7.645145988218088,62.60067963627547,11.674854011781912,64.39932036372454"
-    },
-    {
-      "status": 200,
-      "url": "https://openstreetmap.digpro.se/photon/api?q=&limit=5&lat=63.5&lon=9.66&bbox=7.645145988218088,62.60067963627547,11.674854011781912,64.39932036372454"
+      "url": "https://nettselskapetpg.digpro.se/bios/rest/outagemap/lang/nsl/no"
     },
     {
       "status": 200,
       "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesKML?app=fpp_nsl"
+    },
+    {
+      "status": 200,
+      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
+    },
+    {
+      "status": 200,
+      "url": "https://openstreetmap.digpro.se/photon/api?q=&limit=5&lat=63.5&lon=9.66&bbox=7.645145988218088,62.60067963627547,11.674854011781912,64.39932036372454"
     }
   ],
   "apiResponses": [
@@ -63,12 +63,12 @@
       "body": "{\"rows\":0,\"dbrows\":[]}"
     },
     {
-      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl",
-      "body": "{\"rows\":0,\"dbrows\":[]}"
-    },
-    {
       "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesKML?app=fpp_nsl",
       "body": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:ns2=\"http://www.w3.org/2005/Atom\" xmlns:ns3=\"urn:oasis:names:tc:ciq:xsdschema:xAL:2.0\">\n    <NetworkLinkControl>\n        <expires>2026-09-16T00:00:00</expires>\n    </NetworkLinkControl>\n    <Document>\n        <Style id=\"active_outage\">\n            <IconStyle>\n                <Icon>\n                    <href>../outagemap/fpp_red.png</href>\n                </Icon>\n            </IconStyle>\n            <LineStyle>\n                <color>FF1400FF</color>\n                <width>1.5</width>\n            </LineStyle>\n            <PolyStyle>\n                <color>321400FF</color>\n                <fill>true</fill>\n                <outline>true</outline>\n            </PolyStyle>\n            <BalloonStyle>\n                <text>  &lt;div style=\"font-family: Arial, sans-serif; margin-bottom: 0em\"&gt;      &lt;div style=\"font-weight: bold; font-size: 1.15em; color:#E58224\"&gt;        El - Verifisert      &lt;/div&gt;      &lt;div style=\"font-size: 0.95em\"&gt;        Berørte kunder: $[current_affected_customers]&lt;br/&gt;   Rapportered: $[reported]&lt;br/&gt;   Oppsto: $[occurred]&lt;br/&gt;   Sluttid: $[restored]      &lt;/div&gt;   &lt;/div&gt;</text>\n            </BalloonStyle>\n        </Style>\n        <Style id=\"planned_outage\">\n            <IconStyle>\n                <Icon>\n                    <href>../outagemap/fpp_red.png</href>\n                </Icon>\n            </IconStyle>\n            <LineStyle>\n                <color>FF14C3FF</color>\n                <width>1.5</width>\n            </LineStyle>\n            <PolyStyle>\n                <color>3714C3FF</color>\n                <fill>true</fill>\n                <outline>true</outline>\n            </PolyStyle>\n            <BalloonStyle>\n                <text>  &lt;div style=\"font-family: Arial, sans-serif; margin-bottom: 0em\"&gt;      &lt;div style=\"font-weight: bold; font-size: 1.15em; color:#E58224\"&gt;        El - Planlagt      &lt;/div&gt;      &lt;div style=\"font-size: 0.95em\"&gt;        Berørte kunder: $[current_affected_customers]&lt;br/&gt;   Rapportered: $[reported]&lt;br/&gt;   Oppsto: $[occurred]&lt;br/&gt;   Sluttid: $[restored]      &lt;/div&gt;   &lt;/div&gt;</text>\n            </BalloonStyle>\n        </Style>\n        <Style id=\"inactive_outage\">\n            <IconStyle>\n                <Icon>\n                    <href>../outagemap/fpp_green.png</href>\n                </Icon>\n            </IconStyle>\n            <LineStyle>\n                <color>FF14B45A</color>\n                <width>1.5</width>\n            </LineStyle>\n            <PolyStyle>\n                <color>3714B45A</color>\n                <fill>true</fill>\n                <outline>true</outline>\n            </PolyStyle>\n            <BalloonStyle>\n                <text>  &lt;div style=\"font-family: Arial, sans-serif; margin-bottom: 0em\"&gt;      &lt;div style=\"font-weight: bold; font-size: 1.15em; color:#E58224\"&gt;        El - Løst      &lt;/div&gt;      &lt;div style=\"font-size: 0.95em\"&gt;        Berørte kunder: $[current_affected_customers]&lt;br/&gt;   Rapportered: $[reported]&lt;br/&gt;   Oppsto: $[occurred]&lt;br/&gt;   Sluttid: $[restored]      &lt;/div&gt;   &lt;/div&gt;</text>\n            </BalloonStyle>\n        </Style>\n        <Placemark>\n            <styleUrl>#active_outage</styleUrl>\n            <ExtendedData>\n                <Data name=\"status\">\n                    <value>2</value>\n                </Data>\n                <Data name=\"type\">\n                    <value>2</value>\n                </Data>\n                <Data name=\"current_affected_customers\">\n                    <value>0</value>\n                </Data>\n                <Data name=\"previously_affected_customers\">\n                    <value>0</value>\n                </Data>\n                <Data name=\"future_affected_customers\">\n                    <value>9</value>\n                </Data>\n                <Data name=\"occurred\">\n                    <value></value>\n                </Data>\n                <Data name=\"reported\">\n                    <value>2026-09-15 13:14</value>\n                </Data>\n                <Data name=\"planned_restored_time\">\n                    <value>2026-09-21 13:00</value>\n                </Data>\n                <Data name=\"planned_occurred_time\">\n                    <value>2026-09-21 09:00</value>\n                </Data>\n                <Data name=\"restored\">\n                    <value></value>\n                </Data>\n                <Data name=\"planned_not_started\">\n                    <value>true</value>\n                </Data>\n                <Data name=\"planned_no_affected_customers\">\n                    <value>false</value>\n                </Data>\n                <Data name=\"outage_oid\">\n                    <value>18708884</value>\n                </Data>\n                <Data name=\"outage_subtype\">\n                    <value>0</value>\n                </Data>\n                <Data name=\"outage_id\">\n                    <value>18034</value>\n                </Data>\n                <Data name=\"note_external\">\n                    <value></value>\n                </Data>\n            </ExtendedData>\n            <Point>\n                <altitudeMode>absolute</altitudeMode>\n                <coordinates>8.996678751920248,63.20846912312107,0.0</coordinates>\n            </Point>\n        </Placemark>\n    </Document>\n</kml>\n"
+    },
+    {
+      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl",
+      "body": "{\"rows\":0,\"dbrows\":[]}"
     }
   ],
   "jsonCandidates": [
