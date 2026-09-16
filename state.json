@@ -3,28 +3,44 @@
     "tensio": {
       "63f39b7cc3d6110b8833": {
         "key": "63f39b7cc3d6110b8833",
-        "contentHash": "b2bbe2093b4d83f849e5",
-        "text": "Hitra Vedlikehold 72"
+        "contentHash": "f5035456d1c94803857d",
+        "text": "Hitra Vedlikehold 3"
       },
       "e14deee98bb30764948f": {
         "key": "e14deee98bb30764948f",
         "contentHash": "e853dab5bcb6ee2561bd",
         "text": "Malvik Vedlikehold 43"
       },
-      "562e46f5cd98895f928b": {
-        "key": "562e46f5cd98895f928b",
-        "contentHash": "52bb355f1e06b27ec415",
-        "text": "Hitra Feil 295"
-      },
       "f22f0e01a31344e2a59c": {
         "key": "f22f0e01a31344e2a59c",
         "contentHash": "bff55c5faa5465223490",
         "text": "Åfjord Vedlikehold 13"
+      },
+      "562e46f5cd98895f928b": {
+        "key": "562e46f5cd98895f928b",
+        "contentHash": "672ea35a258a1de7b9d9",
+        "text": "Hitra Feil 203"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "129b57cd11fddde14462",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Hitra Feil 203",
+      "date": "2026-09-16T12:50:29.733Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "c1991dafeb205870d718",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Hitra Vedlikehold 3",
+      "date": "2026-09-16T12:50:29.733Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "470ffbaefca8e5ae7086",
       "sourceId": "tensio",
