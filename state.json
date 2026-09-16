@@ -5,11 +5,24 @@
         "key": "f22f0e01a31344e2a59c",
         "contentHash": "bff55c5faa5465223490",
         "text": "Åfjord Vedlikehold 13"
+      },
+      "ecbf81a0987c04a703c6": {
+        "key": "ecbf81a0987c04a703c6",
+        "contentHash": "ad8d897324b784756b1b",
+        "text": "Trondheim Vedlikehold 198"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "e88bf1fd539f0e873121",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 198",
+      "date": "2026-09-16T06:50:03.773Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "0db3dd9291bef4860385",
       "sourceId": "tensio",
