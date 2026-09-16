@@ -1,21 +1,6 @@
 {
   "current": {
     "tensio": {
-      "63f39b7cc3d6110b8833": {
-        "key": "63f39b7cc3d6110b8833",
-        "contentHash": "f5035456d1c94803857d",
-        "text": "Hitra Vedlikehold 3"
-      },
-      "e14deee98bb30764948f": {
-        "key": "e14deee98bb30764948f",
-        "contentHash": "e853dab5bcb6ee2561bd",
-        "text": "Malvik Vedlikehold 43"
-      },
-      "f22f0e01a31344e2a59c": {
-        "key": "f22f0e01a31344e2a59c",
-        "contentHash": "bff55c5faa5465223490",
-        "text": "Åfjord Vedlikehold 13"
-      },
       "562e46f5cd98895f928b": {
         "key": "562e46f5cd98895f928b",
         "contentHash": "672ea35a258a1de7b9d9",
@@ -25,6 +10,30 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "82c7de58975ca71e7eae",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Åfjord Vedlikehold 13",
+      "date": "2026-09-16T13:19:03.749Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "fd7c460844beaf1c69a2",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Malvik Vedlikehold 43",
+      "date": "2026-09-16T13:19:03.749Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "7a14902351f8bdeac500",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Hitra Vedlikehold 3",
+      "date": "2026-09-16T13:19:03.749Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "129b57cd11fddde14462",
       "sourceId": "tensio",
