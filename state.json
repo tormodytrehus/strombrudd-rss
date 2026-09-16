@@ -3,13 +3,21 @@
     "tensio": {
       "562e46f5cd98895f928b": {
         "key": "562e46f5cd98895f928b",
-        "contentHash": "3e6e4fdeeba41ad4b105",
-        "text": "Hitra Feil 35"
+        "contentHash": "34a246dc59403ec81600",
+        "text": "Hitra Feil 11"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "9bc74599bada111a48f9",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Hitra Feil 11",
+      "date": "2026-09-16T16:44:39.001Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "40478bdf4a6ceafe1eae",
       "sourceId": "tensio",
