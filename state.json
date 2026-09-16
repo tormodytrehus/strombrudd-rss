@@ -21,6 +21,14 @@
   },
   "events": [
     {
+      "id": "73ffd68c0cc7676a1cad",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Hitra Vedlikehold 3",
+      "date": "2026-09-16T11:45:03.572Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
       "id": "349a9ae7cf37d0ccf00d",
       "sourceId": "tensio",
       "title": "Strømbrudd avsluttet hos Tensio",
