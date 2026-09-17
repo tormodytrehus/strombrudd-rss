@@ -10,11 +10,24 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "0c9ac7c888cd88fbc0f7",
         "text": "Trondheim Vedlikehold 6"
+      },
+      "f5671d1ee4881b6e4a2e": {
+        "key": "f5671d1ee4881b6e4a2e",
+        "contentHash": "01540fd3468d9d4f9f69",
+        "text": "Melhus Vedlikehold 60"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "7eaaf44b1fb760096281",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Melhus Vedlikehold 60",
+      "date": "2026-09-17T09:20:54.622Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "bd740fd3df80e5b94164",
       "sourceId": "tensio",
