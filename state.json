@@ -1,20 +1,25 @@
 {
   "current": {
-    "tensio": {
-      "94fbfce874767f985178": {
-        "key": "94fbfce874767f985178",
-        "contentHash": "2d56d1eb0a89f92a5ca2",
-        "text": "Nærøysund Vedlikehold 14"
-      },
-      "f5671d1ee4881b6e4a2e": {
-        "key": "f5671d1ee4881b6e4a2e",
-        "contentHash": "417603d12842369e7f6c",
-        "text": "Melhus Vedlikehold 46"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "3e0f9c404300fbf3641b",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Melhus Vedlikehold 46",
+      "date": "2026-09-17T12:25:08.063Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "ee7cabedf77aa719b248",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Nærøysund Vedlikehold 14",
+      "date": "2026-09-17T12:25:08.063Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "8a6a46de3dab09d263dd",
       "sourceId": "tensio",
