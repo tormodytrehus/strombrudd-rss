@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "fd3295a431284177d663": {
-        "key": "fd3295a431284177d663",
-        "contentHash": "990829af502d2c146dd9",
-        "text": "Inderøy Vedlikehold 156"
-      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "0c9ac7c888cd88fbc0f7",
@@ -20,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "48dbfcdda7db21d0967b",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Inderøy Vedlikehold 156",
+      "date": "2026-09-17T09:58:40.198Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "7eaaf44b1fb760096281",
       "sourceId": "tensio",
