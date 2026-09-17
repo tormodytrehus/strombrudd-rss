@@ -1,10 +1,10 @@
 {
   "current": {
     "tensio": {
-      "94fbfce874767f985178": {
-        "key": "94fbfce874767f985178",
-        "contentHash": "cf5124e964acbb4ea084",
-        "text": "Nærøysund Vedlikehold 5"
+      "fd3295a431284177d663": {
+        "key": "fd3295a431284177d663",
+        "contentHash": "990829af502d2c146dd9",
+        "text": "Inderøy Vedlikehold 156"
       },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
@@ -15,6 +15,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "bd740fd3df80e5b94164",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Nærøysund Vedlikehold 5",
+      "date": "2026-09-17T08:44:28.346Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "52069de4d3156b05b9fc",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Inderøy Vedlikehold 156",
+      "date": "2026-09-17T08:44:28.346Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "6e35f1b63f52d5517681",
       "sourceId": "tensio",
