@@ -8,13 +8,21 @@
       },
       "f5671d1ee4881b6e4a2e": {
         "key": "f5671d1ee4881b6e4a2e",
-        "contentHash": "01540fd3468d9d4f9f69",
-        "text": "Melhus Vedlikehold 60"
+        "contentHash": "417603d12842369e7f6c",
+        "text": "Melhus Vedlikehold 46"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "8a6a46de3dab09d263dd",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Melhus Vedlikehold 46",
+      "date": "2026-09-17T11:58:31.154Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "e1560f5f942287dd4f86",
       "sourceId": "tensio",
