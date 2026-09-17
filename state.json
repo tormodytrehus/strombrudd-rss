@@ -1,6 +1,11 @@
 {
   "current": {
     "tensio": {
+      "94fbfce874767f985178": {
+        "key": "94fbfce874767f985178",
+        "contentHash": "cf5124e964acbb4ea084",
+        "text": "Nærøysund Vedlikehold 5"
+      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "0c9ac7c888cd88fbc0f7",
@@ -15,6 +20,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "9dbf3c111eaf946d6e59",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Nærøysund Vedlikehold 5",
+      "date": "2026-09-17T07:45:28.854Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "89b8e9c8ce7ecc6b1a8a",
       "sourceId": "tensio",
