@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "85ff6358796bff6993bb": {
-        "key": "85ff6358796bff6993bb",
-        "contentHash": "50056ae399a8baaf26c1",
-        "text": "Steinkjer Feil 3"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "9d208eeaad3da4d7f43d",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Feil 3",
+      "date": "2026-09-17T13:45:44.952Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "3e4bcc690c446f650d84",
       "sourceId": "tensio",
