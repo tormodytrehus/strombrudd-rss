@@ -5,11 +5,24 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "0c9ac7c888cd88fbc0f7",
         "text": "Trondheim Vedlikehold 6"
+      },
+      "f22f0e01a31344e2a59c": {
+        "key": "f22f0e01a31344e2a59c",
+        "contentHash": "652ddd555ac57dbaa55b",
+        "text": "Åfjord Vedlikehold 25"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "89b8e9c8ce7ecc6b1a8a",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Åfjord Vedlikehold 25",
+      "date": "2026-09-17T07:19:00.501Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "b44d76b294c0da630bfc",
       "sourceId": "tensio",
