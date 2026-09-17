@@ -6,15 +6,15 @@
         "contentHash": "87d94980f153e82eb733",
         "text": "Nærøysund Vedlikehold 527"
       },
-      "f5671d1ee4881b6e4a2e": {
-        "key": "f5671d1ee4881b6e4a2e",
-        "contentHash": "e0967d0fbb69dcc53c44",
-        "text": "Melhus Vedlikehold 32"
-      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "b4102f778f695601a2e6",
         "text": "Trondheim Vedlikehold 136"
+      },
+      "f5671d1ee4881b6e4a2e": {
+        "key": "f5671d1ee4881b6e4a2e",
+        "contentHash": "e0967d0fbb69dcc53c44",
+        "text": "Melhus Vedlikehold 32"
       }
     },
     "nettselskapet": {}
