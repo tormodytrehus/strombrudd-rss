@@ -1,10 +1,10 @@
 {
   "current": {
     "tensio": {
-      "9a79f9cf92ca933708cd": {
-        "key": "9a79f9cf92ca933708cd",
-        "contentHash": "bc567d809c353dbf1029",
-        "text": "Lierne Feil 5"
+      "962fb702874b0c718803": {
+        "key": "962fb702874b0c718803",
+        "contentHash": "04a147d12d2819eed72b",
+        "text": "Steinkjer Vedlikehold 98"
       },
       "9093f0e9222e32993cfa": {
         "key": "9093f0e9222e32993cfa",
@@ -20,6 +20,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "e488e961fe4c8cb5aec9",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Lierne Feil 5",
+      "date": "2026-09-18T10:18:47.880Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "851ed87c310000f50804",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Steinkjer Vedlikehold 98",
+      "date": "2026-09-18T10:18:47.880Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "e147cbec241ec179d7cb",
       "sourceId": "tensio",
