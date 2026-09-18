@@ -1,15 +1,15 @@
 {
   "current": {
     "tensio": {
+      "94fbfce874767f985178": {
+        "key": "94fbfce874767f985178",
+        "contentHash": "fcf52b58d9a910218d61",
+        "text": "Nærøysund Vedlikehold 9"
+      },
       "9093f0e9222e32993cfa": {
         "key": "9093f0e9222e32993cfa",
         "contentHash": "1c2830343a7601e82f2b",
         "text": "Flatanger Vedlikehold 9"
-      },
-      "962fb702874b0c718803": {
-        "key": "962fb702874b0c718803",
-        "contentHash": "08c0756ecb2fd455e2a8",
-        "text": "Steinkjer Vedlikehold 146"
       },
       "4457bf0280611de7a73a": {
         "key": "4457bf0280611de7a73a",
@@ -20,6 +20,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "b8c20d193a56c2454cbf",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Vedlikehold 146",
+      "date": "2026-09-18T08:19:48.199Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "117cdc049658fa669dde",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Nærøysund Vedlikehold 9",
+      "date": "2026-09-18T08:19:48.199Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "36583d679bfecc00cd41",
       "sourceId": "tensio",
