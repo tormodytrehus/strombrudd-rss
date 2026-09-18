@@ -6,11 +6,6 @@
         "contentHash": "04a147d12d2819eed72b",
         "text": "Steinkjer Vedlikehold 98"
       },
-      "9093f0e9222e32993cfa": {
-        "key": "9093f0e9222e32993cfa",
-        "contentHash": "1c2830343a7601e82f2b",
-        "text": "Flatanger Vedlikehold 9"
-      },
       "4457bf0280611de7a73a": {
         "key": "4457bf0280611de7a73a",
         "contentHash": "1d765a3001d851a662e5",
@@ -20,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ac50d58699cee72ee98d",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Flatanger Vedlikehold 9",
+      "date": "2026-09-18T10:43:30.616Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "e488e961fe4c8cb5aec9",
       "sourceId": "tensio",
