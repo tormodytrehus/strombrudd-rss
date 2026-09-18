@@ -1,35 +1,49 @@
 {
   "current": {
     "tensio": {},
-    "nettselskapet": {
-      "d29cfe870e808a713cdd": {
-        "key": "d29cfe870e808a713cdd",
-        "contentHash": "f99953fa84e69b31a944",
-        "text": "#active_outage 2 2 0 0 9 2026-09-15 13:14 2026-09-21 13:00 2026-09-21 09:00 true false 18708884 0 18034 absolute 8.996678751920248,63.20846912312107,0.0"
-      },
-      "68a53d01729a2343ec3e": {
-        "key": "68a53d01729a2343ec3e",
-        "contentHash": "d0e465437b3773702b25",
-        "text": "Avbrudd (strøm)"
-      },
-      "7b044df4148231424c85": {
-        "key": "7b044df4148231424c85",
-        "contentHash": "7e06ad647e55588f6e3c",
-        "text": "history_toggle_offPlanlagt start2026-09-21 09:00history_toggle_offPlanlagt slutt2026-09-21 13:00"
-      },
-      "a13d8c1e9433ef8b2ef4": {
-        "key": "a13d8c1e9433ef8b2ef4",
-        "contentHash": "6c70b17384acafa0b387",
-        "text": "scheduleStart2026-09-18 22:11history_toggle_offPlanlagt sluttUkjent"
-      },
-      "194eea2b19f375d5ded6": {
-        "key": "194eea2b19f375d5ded6",
-        "contentHash": "fe527e630b13753e72d4",
-        "text": "0 Berørte kunder0 Gjenopprettede kunder4 Berørte kunder"
-      }
-    }
+    "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "0e4ac80ab10f8d652122",
+      "sourceId": "nettselskapet",
+      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
+      "description": "0 Berørte kunder0 Gjenopprettede kunder4 Berørte kunder",
+      "date": "2026-09-18T21:41:33.546Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "67515419d1c1b5579bda",
+      "sourceId": "nettselskapet",
+      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
+      "description": "scheduleStart2026-09-18 22:11history_toggle_offPlanlagt sluttUkjent",
+      "date": "2026-09-18T21:41:33.546Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "8d1278e9ad0b11cae930",
+      "sourceId": "nettselskapet",
+      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-21 09:00history_toggle_offPlanlagt slutt2026-09-21 13:00",
+      "date": "2026-09-18T21:41:33.546Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "8190bbaddac8e946a738",
+      "sourceId": "nettselskapet",
+      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
+      "description": "Avbrudd (strøm)",
+      "date": "2026-09-18T21:41:33.546Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "ccf29df670f860b2b509",
+      "sourceId": "nettselskapet",
+      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
+      "description": "#active_outage 2 2 0 0 9 2026-09-15 13:14 2026-09-21 13:00 2026-09-21 09:00 true false 18708884 0 18034 absolute 8.996678751920248,63.20846912312107,0.0",
+      "date": "2026-09-18T21:41:33.546Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
     {
       "id": "5ca2366d0a08487c724a",
       "sourceId": "nettselskapet",
