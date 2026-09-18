@@ -1,6 +1,11 @@
 {
   "current": {
     "tensio": {
+      "962fb702874b0c718803": {
+        "key": "962fb702874b0c718803",
+        "contentHash": "08c0756ecb2fd455e2a8",
+        "text": "Steinkjer Vedlikehold 146"
+      },
       "4457bf0280611de7a73a": {
         "key": "4457bf0280611de7a73a",
         "contentHash": "1d765a3001d851a662e5",
@@ -10,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "b41cee08385ccc741faf",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Steinkjer Vedlikehold 146",
+      "date": "2026-09-18T07:17:28.755Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "3dece706ca77730f114b",
       "sourceId": "tensio",
