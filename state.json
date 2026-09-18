@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "acc93d524474bf843c9c": {
-        "key": "acc93d524474bf843c9c",
-        "contentHash": "d6e13f6f26296200dbc8",
-        "text": "Åfjord Feil 38"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "615669c7089f7a2b58e4",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Åfjord Feil 38",
+      "date": "2026-09-18T18:43:52.087Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "bd110c4811592efddd26",
       "sourceId": "tensio",
