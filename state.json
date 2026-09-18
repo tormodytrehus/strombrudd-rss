@@ -1,20 +1,25 @@
 {
   "current": {
-    "tensio": {
-      "94fbfce874767f985178": {
-        "key": "94fbfce874767f985178",
-        "contentHash": "87d94980f153e82eb733",
-        "text": "Nærøysund Vedlikehold 527"
-      },
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "b4102f778f695601a2e6",
-        "text": "Trondheim Vedlikehold 136"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "0530f66de1b2c0b7dddf",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 136",
+      "date": "2026-09-18T02:17:53.226Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "3f1423b740db6471cd6e",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Nærøysund Vedlikehold 527",
+      "date": "2026-09-18T02:17:53.226Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "36df9ffb332cc08b9dc3",
       "sourceId": "tensio",
