@@ -6,6 +6,11 @@
         "contentHash": "08c0756ecb2fd455e2a8",
         "text": "Steinkjer Vedlikehold 146"
       },
+      "9093f0e9222e32993cfa": {
+        "key": "9093f0e9222e32993cfa",
+        "contentHash": "1c2830343a7601e82f2b",
+        "text": "Flatanger Vedlikehold 9"
+      },
       "4457bf0280611de7a73a": {
         "key": "4457bf0280611de7a73a",
         "contentHash": "1d765a3001d851a662e5",
@@ -15,6 +20,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "36583d679bfecc00cd41",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Flatanger Vedlikehold 9",
+      "date": "2026-09-18T07:43:38.912Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "b41cee08385ccc741faf",
       "sourceId": "tensio",
