@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-19T11:30:49.656Z",
+  "checkedAt": "2026-09-19T11:53:54.621Z",
   "url": "https://www.tensio.no/no/kunde/strombruddskart",
   "title": "Strømbruddskart for Tensio og Trøndelagsområde",
   "bodyText": "Skip to Cookie banner Hopp til hovedinnhold Hopp til meny Hopp til søk Kunde Proff Meny EN Søk Min Side Strømbruddskart Avsluttede Pågående Planlagte Strømløse kunder - For øyeblikket har vi ingen pågående strømbrudd. Oppdater Finner du ikke ditt strømbrudd i kartet? Se vår sjekkliste ved strømbrudd",
@@ -18,11 +18,11 @@
     },
     {
       "status": 200,
-      "url": "https://heatmaps.monsido.com/v1/settings/EZj7_-HfCwLh4DFRsPxA8Q.json"
+      "url": "https://api.monsido-consent.com/v1/cookie_banner/EZj7_-HfCwLh4DFRsPxA8Q/cookies.json"
     },
     {
       "status": 200,
-      "url": "https://api.monsido-consent.com/v1/cookie_banner/EZj7_-HfCwLh4DFRsPxA8Q/cookies.json"
+      "url": "https://heatmaps.monsido.com/v1/settings/EZj7_-HfCwLh4DFRsPxA8Q.json"
     },
     {
       "status": 200,
@@ -30,7 +30,7 @@
     },
     {
       "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
@@ -38,7 +38,7 @@
     },
     {
       "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
@@ -46,7 +46,15 @@
     },
     {
       "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
       "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
+      "url": "https://api-www.tensio.no/power-outage/features?status=Ongoing&region=TN&includeArcgisFeatures=false&cached=true"
     },
     {
       "status": 200,
@@ -70,23 +78,7 @@
     },
     {
       "status": 200,
-      "url": "https://api-www.tensio.no/power-outage/features?status=Ongoing&region=TN&includeArcgisFeatures=false&cached=true"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
       "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTN/FeatureServer/0/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
@@ -94,7 +86,19 @@
     },
     {
       "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
       "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTN/FeatureServer/1/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTS/FeatureServer/1/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/0/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
@@ -106,11 +110,7 @@
     },
     {
       "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTS/FeatureServer/1/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/0/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
@@ -138,47 +138,19 @@
     },
     {
       "status": 204,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/35.pbf"
-    },
-    {
-      "status": 204,
       "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/32.pbf"
-    },
-    {
-      "status": 204,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/35.pbf"
     },
     {
       "status": 204,
       "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/18/35.pbf"
     },
     {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/18/34.pbf"
+      "status": 204,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/35.pbf"
     },
     {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/34.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/32.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/18/32.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/33.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/18/33.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/34.pbf"
+      "status": 204,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/35.pbf"
     },
     {
       "status": 200,
@@ -186,7 +158,31 @@
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/fonts/Arial%20Regular/0-255.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/18/34.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/18/33.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/33.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/34.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/18/32.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/34.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/32.pbf"
     },
     {
       "status": 200,
@@ -194,11 +190,11 @@
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/fonts/Arial%20Italic/0-255.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/fonts/Arial%20Regular/0-255.pbf"
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/7/16.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/fonts/Arial%20Italic/0-255.pbf"
     },
     {
       "status": 200,
@@ -206,7 +202,7 @@
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/8/16.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/8/17.pbf"
     },
     {
       "status": 200,
@@ -214,11 +210,15 @@
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/8/17.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/7/17.pbf"
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/7/17.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/7/16.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/8/16.pbf"
     },
     {
       "status": 204,
@@ -234,11 +234,11 @@
     },
     {
       "status": 204,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/7/15.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/9/15.pbf"
     },
     {
       "status": 204,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/9/15.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/5/7/15.pbf"
     },
     {
       "status": 204,
@@ -257,6 +257,15 @@
       ]
     },
     {
+      "url": "https://api.monsido-consent.com/v1/cookie_banner/EZj7_-HfCwLh4DFRsPxA8Q/cookies.json",
+      "matches": [
+        {
+          "path": "root",
+          "text": "customer_id: 42721 | signature: ba8e0f7e3ef9c5c4752892e7a3336263296a6f969af65f3bd853b74709a94096"
+        }
+      ]
+    },
+    {
       "url": "https://heatmaps.monsido.com/v1/settings/EZj7_-HfCwLh4DFRsPxA8Q.json",
       "matches": [
         {
@@ -266,15 +275,6 @@
         {
           "path": "rules[1]",
           "text": "url: https://www.tensio.no/no/kunde/strombruddskart"
-        }
-      ]
-    },
-    {
-      "url": "https://api.monsido-consent.com/v1/cookie_banner/EZj7_-HfCwLh4DFRsPxA8Q/cookies.json",
-      "matches": [
-        {
-          "path": "root",
-          "text": "customer_id: 42721 | signature: ba8e0f7e3ef9c5c4752892e7a3336263296a6f969af65f3bd853b74709a94096"
         }
       ]
     },
@@ -376,104 +376,6 @@
         {
           "path": "features[25].properties",
           "text": "eventid: 83839998 | num_ab: 0 | last_updated: 1789648836000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (565198.666666667 7033395.0) | starttime: 1790054100000 | municipal_txt: Trondheim | timelimit: 1790058600000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 12138 | type_txt: Utkobling"
-        }
-      ]
-    },
-    {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
-      "matches": [
-        {
-          "path": "features[0].properties",
-          "text": "eventid: 83849743 | num_ab: 0 | last_updated: 1789728239000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((569780.0 7022885.0, 569939.0 7023142.0, 569937.0 7023144.0, 569797.0 7022967.0, 569780.0 7022885.0)) | starttime: 1790060400000 | municipal_txt: Trondheim | timelimit: 1790071200000 | gridlevel_txt: Høy | SHAPE__Length: 614.8184895561975 | num_ab_regained: 0 | objectid: 9772 | type_txt: Utkobling | SHAPE__Area: 4657.007827025"
-        },
-        {
-          "path": "features[2].properties",
-          "text": "eventid: 83843068 | num_ab: 0 | last_updated: 1789706288000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571803.0 7034653.0, 571831.0 7034679.0, 571813.0 7034712.0, 571803.0 7034653.0)) | starttime: 1790229600000 | municipal_txt: Trondheim | timelimit: 1790251200000 | gridlevel_txt: Lav | SHAPE__Length: 135.71872166751913 | num_ab_regained: 0 | objectid: 9780 | type_txt: Utkobling | SHAPE__Area: 696.793486235"
-        },
-        {
-          "path": "features[3].properties",
-          "text": "eventid: 83843382 | num_ab: 0 | last_updated: 1789641085000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571805.0 7034744.0, 571801.0 7034798.0, 571781.0 7034794.0, 571798.0 7034753.0, 571805.0 7034744.0)) | starttime: 1790056800000 | municipal_txt: Trondheim | timelimit: 1790078400000 | gridlevel_txt: Lav | SHAPE__Length: 130.40491159356515 | num_ab_regained: 0 | objectid: 9769 | type_txt: Utkobling | SHAPE__Area: 615.70375955"
-        },
-        {
-          "path": "features[4].properties",
-          "text": "eventid: 83853364 | num_ab: 0 | last_updated: 1789733342000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((584033.0 7030152.0, 584060.0 7030296.0, 583883.0 7030542.0, 583552.0 7030656.0, 583486.0 7030676.0, 583379.0 7030476.0, 583350.0 7030330.0, 584033.0 7030152.0)) | starttime: 1790053200000 | municipal_txt: Malvik | timelimit: 1790946000000 | gridlevel_txt: Høy | SHAPE__Length: 1951.0508755667165 | num_ab_regained: 0 | objectid: 9785 | type_txt: Utkobling | SHAPE__Area: 219268.800270465"
-        },
-        {
-          "path": "features[5].properties",
-          "text": "eventid: 83842473 | num_ab: 0 | last_updated: 1789711366000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((568711.0 7032784.0, 568727.0 7032879.0, 568703.0 7032857.0, 568646.0 7032793.0, 568711.0 7032784.0)) | starttime: 1789974000000 | municipal_txt: Trondheim | timelimit: 1789975800000 | gridlevel_txt: Lav | SHAPE__Length: 280.38514716183846 | num_ab_regained: 0 | objectid: 9765 | type_txt: Utkobling | SHAPE__Area: 3304.42391892"
-        },
-        {
-          "path": "features[6].properties",
-          "text": "eventid: 83843314 | num_ab: 0 | last_updated: 1789711370000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571803.0 7034653.0, 571831.0 7034679.0, 571801.0 7034798.0, 571781.0 7034794.0, 571730.0 7034728.0, 571803.0 7034653.0)) | starttime: 1790143200000 | municipal_txt: Trondheim | timelimit: 1790164800000 | gridlevel_txt: Lav | SHAPE__Length: 369.61016576091515 | num_ab_regained: 0 | objectid: 9775 | type_txt: Utkobling | SHAPE__Area: 7840.441678545"
-        },
-        {
-          "path": "features[7].properties",
-          "text": "eventid: 83840669 | num_ab: 0 | last_updated: 1789714645000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((562381.0 7017961.0, 562367.0 7017995.0, 562292.0 7017971.0, 562381.0 7017961.0)) | starttime: 1790316000000 | municipal_txt: Melhus | timelimit: 1790337600000 | gridlevel_txt: Lav | SHAPE__Length: 205.20902639686932 | num_ab_regained: 0 | objectid: 9783 | type_txt: Utkobling | SHAPE__Area: 1444.87228893"
-        },
-        {
-          "path": "features[8].properties",
-          "text": "eventid: 83854605 | num_ab: 0 | last_updated: 1789733352000 | reason_txt: Kabelarbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((574541.0 7033154.0, 574579.0 7033177.0, 574606.0 7033248.0, 574596.0 7033336.0, 574519.0 7033286.0, 574483.0 7033261.0, 574494.0 7033213.0, 574519.0 7033160.0, 574541.0 7033154.0)) | starttime: 1790145000000 | municipal_txt: Trondheim | timelimit: 1790168400000 | gridlevel_txt: Lav | SHAPE__Length: 475.4943328628666 | num_ab_regained: 0 | objectid: 9786 | type_txt: Utkobling | SHAPE__Area: 13978.407391255"
-        },
-        {
-          "path": "features[9].properties",
-          "text": "eventid: 83833542 | num_ab: 0 | last_updated: 1789644442000 | reason_txt: Reparasjon | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571683.0 7012330.0, 571684.0 7012353.0, 571628.0 7012335.0, 571683.0 7012330.0)) | starttime: 1790056800000 | municipal_txt: Melhus | timelimit: 1790078400000 | gridlevel_txt: Lav | SHAPE__Length: 137.15023143890488 | num_ab_regained: 0 | objectid: 9770 | type_txt: Utkobling | SHAPE__Area: 635.74145391"
-        },
-        {
-          "path": "features[10].properties",
-          "text": "eventid: 83831043 | num_ab: 0 | last_updated: 1789646854000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((562019.0 7006955.0, 562512.0 7007064.0, 562557.0 7007082.0, 564777.0 7008724.0, 564394.0 7009267.0, 562964.0 7009408.0, 562567.0 7009006.0, 560954.0 7007246.0, 560914.0 7007090.0, 562019.0 7006955.0)) | starttime: 1790064000000 | municipal_txt: Melhus | timelimit: 1790082000000 | gridlevel_txt: Høy | SHAPE__Length: 9648.913696332897 | num_ab_regained: 0 | objectid: 9773 | type_txt: Utkobling | SHAPE__Area: 4774753.80613791"
-        },
-        {
-          "path": "features[11].properties",
-          "text": "eventid: 83825966 | num_ab: 0 | last_updated: 1789706724000 | reason_txt: Forebyggende vedlikehold | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((544172.0 7096865.0, 546066.0 7098056.0, 546432.0 7098366.0, 546454.0 7098385.0, 546579.0 7098832.0, 546595.0 7098901.0, 545962.0 7099511.0, 545682.0 7099752.0, 543807.0 7097264.0, 543805.0 7097061.0, 544172.0 7096865.0)) | starttime: 1790230500000 | municipal_txt: Åfjord | timelimit: 1790251200000 | gridlevel_txt: Høy | SHAPE__Length: 8270.049530938955 | num_ab_regained: 0 | objectid: 9781 | type_txt: Utkobling | SHAPE__Area: 3402959.220326165"
-        },
-        {
-          "path": "features[12].properties",
-          "text": "eventid: 83835362 | num_ab: 0 | last_updated: 1789711361000 | reason_txt: Ustabil spenning | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((607042.0 7008813.0, 607414.0 7008982.0, 607442.0 7009025.0, 607510.0 7009231.0, 607029.0 7008953.0, 607042.0 7008813.0)) | starttime: 1789970400000 | municipal_txt: Selbu | timelimit: 1789981200000 | gridlevel_txt: Lav | SHAPE__Length: 1373.4384037416091 | num_ab_regained: 0 | objectid: 9763 | type_txt: Utkobling | SHAPE__Area: 75149.427636215"
-        },
-        {
-          "path": "features[13].properties",
-          "text": "eventid: 83830700 | num_ab: 0 | last_updated: 1789711367000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((566563.0 7007723.0, 566630.0 7007814.0, 566393.0 7007973.0, 566244.0 7008040.0, 566186.0 7008054.0, 566144.0 7008042.0, 566145.0 7008038.0, 566242.0 7007937.0, 566563.0 7007723.0)) | starttime: 1789974000000 | timelimit: 1789992000000 | gridlevel_txt: Høy | SHAPE__Length: 1195.8153055312519 | num_ab_regained: 0 | objectid: 9767 | type_txt: Utkobling | SHAPE__Area: 51787.63247364"
-        },
-        {
-          "path": "features[14].properties",
-          "text": "eventid: 83829548 | num_ab: 0 | last_updated: 1789711424000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((553503.0 7017334.0, 555161.0 7017630.0, 555567.0 7018621.0, 555103.0 7018606.0, 554764.0 7018539.0, 554122.0 7018092.0, 553218.0 7017455.0, 553503.0 7017334.0)) | starttime: 1790143200000 | municipal_txt: Skaun | timelimit: 1790168400000 | gridlevel_txt: Høy | SHAPE__Length: 5766.825935929875 | num_ab_regained: 0 | objectid: 9776 | type_txt: Utkobling | SHAPE__Area: 1459054.05582675"
-        },
-        {
-          "path": "features[15].properties",
-          "text": "eventid: 83827144 | num_ab: 0 | last_updated: 1789711433000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((599332.0 7016355.0, 599525.0 7016422.0, 603425.0 7017974.0, 603455.0 7018535.0, 600471.0 7020077.0, 597115.0 7021721.0, 597100.0 7021689.0, 598741.0 7016678.0, 599065.0 7016460.0, 599332.0 7016355.0)) | starttime: 1790197200000 | municipal_txt: Selbu | timelimit: 1790204400000 | gridlevel_txt: Høy | SHAPE__Length: 18051.80805785172 | num_ab_regained: 0 | objectid: 9778 | type_txt: Utkobling | SHAPE__Area: 16071524.90768074"
-        },
-        {
-          "path": "features[16].properties",
-          "text": "eventid: 83846723 | num_ab: 0 | last_updated: 1789713729000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571215.0 7032838.0, 571346.0 7032886.0, 571383.0 7032938.0, 571386.0 7032982.0, 571363.0 7033053.0, 571345.0 7033078.0, 571302.0 7033133.0, 571276.0 7033147.0, 571255.0 7033140.0, 571235.0 7033116.0, 571202.0 7032938.0, 571211.0 7032865.0, 571215.0 7032838.0)) | starttime: 1790262000000 | municipal_txt: Trondheim | timelimit: 1790269200000 | gridlevel_txt: Høy | SHAPE__Length: 787.9317174999891 | num_ab_regained: 0 | objectid: 9782 | type_txt: Utkobling | SHAPE__Area: 39202.06695265"
-        },
-        {
-          "path": "features[17].properties",
-          "text": "eventid: 83839998 | num_ab: 0 | last_updated: 1789648836000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((565291.0 7033239.0, 565599.0 7033527.0, 565020.0 7033461.0, 565094.0 7033381.0, 565291.0 7033239.0)) | starttime: 1790054100000 | municipal_txt: Trondheim | timelimit: 1790058600000 | gridlevel_txt: Høy | SHAPE__Length: 1357.08222191969 | num_ab_regained: 0 | objectid: 9768 | type_txt: Utkobling | SHAPE__Area: 75931.906418805"
-        },
-        {
-          "path": "features[18].properties",
-          "text": "eventid: 83853047 | num_ab: 0 | last_updated: 1789732981000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((573931.0 6919316.0, 574182.0 6919344.0, 574270.0 6919416.0, 574407.0 6919598.0, 573976.0 6919489.0, 573931.0 6919316.0)) | starttime: 1789977600000 | municipal_txt: Tynset | timelimit: 1789984800000 | gridlevel_txt: Høy | SHAPE__Length: 1218.1326087956857 | num_ab_regained: 0 | objectid: 9784 | type_txt: Utkobling | SHAPE__Area: 66713.89181226"
-        },
-        {
-          "path": "features[20].properties",
-          "text": "eventid: 83853560 | num_ab: 0 | last_updated: 1789733397000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((586288.0 7034891.0, 586902.0 7035020.0, 586845.0 7035051.0, 586491.0 7035003.0, 586426.0 7034978.0, 586288.0 7034891.0)) | starttime: 1790179200000 | municipal_txt: Malvik | timelimit: 1790193600000 | gridlevel_txt: Lav | SHAPE__Length: 1282.8986131264057 | num_ab_regained: 0 | objectid: 9787 | type_txt: Utkobling | SHAPE__Area: 29275.08899299"
-        },
-        {
-          "path": "features[21].properties",
-          "text": "eventid: 83843718 | num_ab: 0 | last_updated: 1789711372000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((572176.0 7010949.0, 579639.0 7016852.0, 579676.0 7016974.0, 578822.0 7018673.0, 572393.0 7017523.0, 572134.0 7017387.0, 571930.0 7017240.0, 571710.0 7017020.0, 571529.0 7016572.0, 571394.0 7014159.0, 571295.0 7011680.0, 571435.0 7011319.0, 572176.0 7010949.0)) | starttime: 1790139600000 | municipal_txt: Trondheim | timelimit: 1790172000000 | gridlevel_txt: Høy | SHAPE__Length: 25541.167489291904 | num_ab_regained: 0 | objectid: 9774 | type_txt: Utkobling | SHAPE__Area: 35602783.087747134"
-        },
-        {
-          "path": "features[22].properties",
-          "text": "eventid: 83837157 | num_ab: 0 | last_updated: 1789711484000 | reason_txt: Forebyggende vedlikehold | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((565125.0 6990886.0, 565249.0 6991086.0, 565260.0 6991230.0, 564934.0 6991132.0, 564930.0 6991109.0, 565026.0 6990965.0, 565125.0 6990886.0)) | starttime: 1790198100000 | municipal_txt: Midtre Gauldal | timelimit: 1790215200000 | gridlevel_txt: Høy | SHAPE__Length: 1043.8918287275771 | num_ab_regained: 0 | objectid: 9779 | type_txt: Utkobling | SHAPE__Area: 63390.968226005"
-        }
-      ]
-    },
-    {
-      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer",
-      "matches": [
-        {
-          "path": "root",
-          "text": "currentVersion: 11.5 | name: GeocacheKanvasMork_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene, OpenStreetMap | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 0 | maxLOD: 16 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 170120"
         }
       ]
     },
@@ -631,6 +533,95 @@
       ]
     },
     {
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "matches": [
+        {
+          "path": "features[0].properties",
+          "text": "eventid: 83849743 | num_ab: 0 | last_updated: 1789728239000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((569780.0 7022885.0, 569939.0 7023142.0, 569937.0 7023144.0, 569797.0 7022967.0, 569780.0 7022885.0)) | starttime: 1790060400000 | municipal_txt: Trondheim | timelimit: 1790071200000 | gridlevel_txt: Høy | SHAPE__Length: 614.8184895561975 | num_ab_regained: 0 | objectid: 9772 | type_txt: Utkobling | SHAPE__Area: 4657.007827025"
+        },
+        {
+          "path": "features[2].properties",
+          "text": "eventid: 83843068 | num_ab: 0 | last_updated: 1789706288000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571803.0 7034653.0, 571831.0 7034679.0, 571813.0 7034712.0, 571803.0 7034653.0)) | starttime: 1790229600000 | municipal_txt: Trondheim | timelimit: 1790251200000 | gridlevel_txt: Lav | SHAPE__Length: 135.71872166751913 | num_ab_regained: 0 | objectid: 9780 | type_txt: Utkobling | SHAPE__Area: 696.793486235"
+        },
+        {
+          "path": "features[3].properties",
+          "text": "eventid: 83843382 | num_ab: 0 | last_updated: 1789641085000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571805.0 7034744.0, 571801.0 7034798.0, 571781.0 7034794.0, 571798.0 7034753.0, 571805.0 7034744.0)) | starttime: 1790056800000 | municipal_txt: Trondheim | timelimit: 1790078400000 | gridlevel_txt: Lav | SHAPE__Length: 130.40491159356515 | num_ab_regained: 0 | objectid: 9769 | type_txt: Utkobling | SHAPE__Area: 615.70375955"
+        },
+        {
+          "path": "features[4].properties",
+          "text": "eventid: 83853364 | num_ab: 0 | last_updated: 1789733342000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((584033.0 7030152.0, 584060.0 7030296.0, 583883.0 7030542.0, 583552.0 7030656.0, 583486.0 7030676.0, 583379.0 7030476.0, 583350.0 7030330.0, 584033.0 7030152.0)) | starttime: 1790053200000 | municipal_txt: Malvik | timelimit: 1790946000000 | gridlevel_txt: Høy | SHAPE__Length: 1951.0508755667165 | num_ab_regained: 0 | objectid: 9785 | type_txt: Utkobling | SHAPE__Area: 219268.800270465"
+        },
+        {
+          "path": "features[5].properties",
+          "text": "eventid: 83842473 | num_ab: 0 | last_updated: 1789711366000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((568711.0 7032784.0, 568727.0 7032879.0, 568703.0 7032857.0, 568646.0 7032793.0, 568711.0 7032784.0)) | starttime: 1789974000000 | municipal_txt: Trondheim | timelimit: 1789975800000 | gridlevel_txt: Lav | SHAPE__Length: 280.38514716183846 | num_ab_regained: 0 | objectid: 9765 | type_txt: Utkobling | SHAPE__Area: 3304.42391892"
+        },
+        {
+          "path": "features[6].properties",
+          "text": "eventid: 83843314 | num_ab: 0 | last_updated: 1789711370000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571803.0 7034653.0, 571831.0 7034679.0, 571801.0 7034798.0, 571781.0 7034794.0, 571730.0 7034728.0, 571803.0 7034653.0)) | starttime: 1790143200000 | municipal_txt: Trondheim | timelimit: 1790164800000 | gridlevel_txt: Lav | SHAPE__Length: 369.61016576091515 | num_ab_regained: 0 | objectid: 9775 | type_txt: Utkobling | SHAPE__Area: 7840.441678545"
+        },
+        {
+          "path": "features[7].properties",
+          "text": "eventid: 83840669 | num_ab: 0 | last_updated: 1789714645000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((562381.0 7017961.0, 562367.0 7017995.0, 562292.0 7017971.0, 562381.0 7017961.0)) | starttime: 1790316000000 | municipal_txt: Melhus | timelimit: 1790337600000 | gridlevel_txt: Lav | SHAPE__Length: 205.20902639686932 | num_ab_regained: 0 | objectid: 9783 | type_txt: Utkobling | SHAPE__Area: 1444.87228893"
+        },
+        {
+          "path": "features[8].properties",
+          "text": "eventid: 83854605 | num_ab: 0 | last_updated: 1789733352000 | reason_txt: Kabelarbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((574541.0 7033154.0, 574579.0 7033177.0, 574606.0 7033248.0, 574596.0 7033336.0, 574519.0 7033286.0, 574483.0 7033261.0, 574494.0 7033213.0, 574519.0 7033160.0, 574541.0 7033154.0)) | starttime: 1790145000000 | municipal_txt: Trondheim | timelimit: 1790168400000 | gridlevel_txt: Lav | SHAPE__Length: 475.4943328628666 | num_ab_regained: 0 | objectid: 9786 | type_txt: Utkobling | SHAPE__Area: 13978.407391255"
+        },
+        {
+          "path": "features[9].properties",
+          "text": "eventid: 83833542 | num_ab: 0 | last_updated: 1789644442000 | reason_txt: Reparasjon | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571683.0 7012330.0, 571684.0 7012353.0, 571628.0 7012335.0, 571683.0 7012330.0)) | starttime: 1790056800000 | municipal_txt: Melhus | timelimit: 1790078400000 | gridlevel_txt: Lav | SHAPE__Length: 137.15023143890488 | num_ab_regained: 0 | objectid: 9770 | type_txt: Utkobling | SHAPE__Area: 635.74145391"
+        },
+        {
+          "path": "features[10].properties",
+          "text": "eventid: 83831043 | num_ab: 0 | last_updated: 1789646854000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((562019.0 7006955.0, 562512.0 7007064.0, 562557.0 7007082.0, 564777.0 7008724.0, 564394.0 7009267.0, 562964.0 7009408.0, 562567.0 7009006.0, 560954.0 7007246.0, 560914.0 7007090.0, 562019.0 7006955.0)) | starttime: 1790064000000 | municipal_txt: Melhus | timelimit: 1790082000000 | gridlevel_txt: Høy | SHAPE__Length: 9648.913696332897 | num_ab_regained: 0 | objectid: 9773 | type_txt: Utkobling | SHAPE__Area: 4774753.80613791"
+        },
+        {
+          "path": "features[11].properties",
+          "text": "eventid: 83825966 | num_ab: 0 | last_updated: 1789706724000 | reason_txt: Forebyggende vedlikehold | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((544172.0 7096865.0, 546066.0 7098056.0, 546432.0 7098366.0, 546454.0 7098385.0, 546579.0 7098832.0, 546595.0 7098901.0, 545962.0 7099511.0, 545682.0 7099752.0, 543807.0 7097264.0, 543805.0 7097061.0, 544172.0 7096865.0)) | starttime: 1790230500000 | municipal_txt: Åfjord | timelimit: 1790251200000 | gridlevel_txt: Høy | SHAPE__Length: 8270.049530938955 | num_ab_regained: 0 | objectid: 9781 | type_txt: Utkobling | SHAPE__Area: 3402959.220326165"
+        },
+        {
+          "path": "features[12].properties",
+          "text": "eventid: 83835362 | num_ab: 0 | last_updated: 1789711361000 | reason_txt: Ustabil spenning | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((607042.0 7008813.0, 607414.0 7008982.0, 607442.0 7009025.0, 607510.0 7009231.0, 607029.0 7008953.0, 607042.0 7008813.0)) | starttime: 1789970400000 | municipal_txt: Selbu | timelimit: 1789981200000 | gridlevel_txt: Lav | SHAPE__Length: 1373.4384037416091 | num_ab_regained: 0 | objectid: 9763 | type_txt: Utkobling | SHAPE__Area: 75149.427636215"
+        },
+        {
+          "path": "features[13].properties",
+          "text": "eventid: 83830700 | num_ab: 0 | last_updated: 1789711367000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((566563.0 7007723.0, 566630.0 7007814.0, 566393.0 7007973.0, 566244.0 7008040.0, 566186.0 7008054.0, 566144.0 7008042.0, 566145.0 7008038.0, 566242.0 7007937.0, 566563.0 7007723.0)) | starttime: 1789974000000 | timelimit: 1789992000000 | gridlevel_txt: Høy | SHAPE__Length: 1195.8153055312519 | num_ab_regained: 0 | objectid: 9767 | type_txt: Utkobling | SHAPE__Area: 51787.63247364"
+        },
+        {
+          "path": "features[14].properties",
+          "text": "eventid: 83829548 | num_ab: 0 | last_updated: 1789711424000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((553503.0 7017334.0, 555161.0 7017630.0, 555567.0 7018621.0, 555103.0 7018606.0, 554764.0 7018539.0, 554122.0 7018092.0, 553218.0 7017455.0, 553503.0 7017334.0)) | starttime: 1790143200000 | municipal_txt: Skaun | timelimit: 1790168400000 | gridlevel_txt: Høy | SHAPE__Length: 5766.825935929875 | num_ab_regained: 0 | objectid: 9776 | type_txt: Utkobling | SHAPE__Area: 1459054.05582675"
+        },
+        {
+          "path": "features[15].properties",
+          "text": "eventid: 83827144 | num_ab: 0 | last_updated: 1789711433000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((599332.0 7016355.0, 599525.0 7016422.0, 603425.0 7017974.0, 603455.0 7018535.0, 600471.0 7020077.0, 597115.0 7021721.0, 597100.0 7021689.0, 598741.0 7016678.0, 599065.0 7016460.0, 599332.0 7016355.0)) | starttime: 1790197200000 | municipal_txt: Selbu | timelimit: 1790204400000 | gridlevel_txt: Høy | SHAPE__Length: 18051.80805785172 | num_ab_regained: 0 | objectid: 9778 | type_txt: Utkobling | SHAPE__Area: 16071524.90768074"
+        },
+        {
+          "path": "features[16].properties",
+          "text": "eventid: 83846723 | num_ab: 0 | last_updated: 1789713729000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((571215.0 7032838.0, 571346.0 7032886.0, 571383.0 7032938.0, 571386.0 7032982.0, 571363.0 7033053.0, 571345.0 7033078.0, 571302.0 7033133.0, 571276.0 7033147.0, 571255.0 7033140.0, 571235.0 7033116.0, 571202.0 7032938.0, 571211.0 7032865.0, 571215.0 7032838.0)) | starttime: 1790262000000 | municipal_txt: Trondheim | timelimit: 1790269200000 | gridlevel_txt: Høy | SHAPE__Length: 787.9317174999891 | num_ab_regained: 0 | objectid: 9782 | type_txt: Utkobling | SHAPE__Area: 39202.06695265"
+        },
+        {
+          "path": "features[17].properties",
+          "text": "eventid: 83839998 | num_ab: 0 | last_updated: 1789648836000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((565291.0 7033239.0, 565599.0 7033527.0, 565020.0 7033461.0, 565094.0 7033381.0, 565291.0 7033239.0)) | starttime: 1790054100000 | municipal_txt: Trondheim | timelimit: 1790058600000 | gridlevel_txt: Høy | SHAPE__Length: 1357.08222191969 | num_ab_regained: 0 | objectid: 9768 | type_txt: Utkobling | SHAPE__Area: 75931.906418805"
+        },
+        {
+          "path": "features[18].properties",
+          "text": "eventid: 83853047 | num_ab: 0 | last_updated: 1789732981000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((573931.0 6919316.0, 574182.0 6919344.0, 574270.0 6919416.0, 574407.0 6919598.0, 573976.0 6919489.0, 573931.0 6919316.0)) | starttime: 1789977600000 | municipal_txt: Tynset | timelimit: 1789984800000 | gridlevel_txt: Høy | SHAPE__Length: 1218.1326087956857 | num_ab_regained: 0 | objectid: 9784 | type_txt: Utkobling | SHAPE__Area: 66713.89181226"
+        },
+        {
+          "path": "features[20].properties",
+          "text": "eventid: 83853560 | num_ab: 0 | last_updated: 1789733397000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((586288.0 7034891.0, 586902.0 7035020.0, 586845.0 7035051.0, 586491.0 7035003.0, 586426.0 7034978.0, 586288.0 7034891.0)) | starttime: 1790179200000 | municipal_txt: Malvik | timelimit: 1790193600000 | gridlevel_txt: Lav | SHAPE__Length: 1282.8986131264057 | num_ab_regained: 0 | objectid: 9787 | type_txt: Utkobling | SHAPE__Area: 29275.08899299"
+        },
+        {
+          "path": "features[21].properties",
+          "text": "eventid: 83843718 | num_ab: 0 | last_updated: 1789711372000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((572176.0 7010949.0, 579639.0 7016852.0, 579676.0 7016974.0, 578822.0 7018673.0, 572393.0 7017523.0, 572134.0 7017387.0, 571930.0 7017240.0, 571710.0 7017020.0, 571529.0 7016572.0, 571394.0 7014159.0, 571295.0 7011680.0, 571435.0 7011319.0, 572176.0 7010949.0)) | starttime: 1790139600000 | municipal_txt: Trondheim | timelimit: 1790172000000 | gridlevel_txt: Høy | SHAPE__Length: 25541.167489291904 | num_ab_regained: 0 | objectid: 9774 | type_txt: Utkobling | SHAPE__Area: 35602783.087747134"
+        },
+        {
+          "path": "features[22].properties",
+          "text": "eventid: 83837157 | num_ab: 0 | last_updated: 1789711484000 | reason_txt: Forebyggende vedlikehold | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((565125.0 6990886.0, 565249.0 6991086.0, 565260.0 6991230.0, 564934.0 6991132.0, 564930.0 6991109.0, 565026.0 6990965.0, 565125.0 6990886.0)) | starttime: 1790198100000 | municipal_txt: Midtre Gauldal | timelimit: 1790215200000 | gridlevel_txt: Høy | SHAPE__Length: 1043.8918287275771 | num_ab_regained: 0 | objectid: 9779 | type_txt: Utkobling | SHAPE__Area: 63390.968226005"
+        }
+      ]
+    },
+    {
       "url": "https://api-www.tensio.no/power-outage/features?status=Terminated&region=TN&includeArcgisFeatures=false&cached=true",
       "matches": [
         {
@@ -740,51 +731,11 @@
       ]
     },
     {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer",
       "matches": [
         {
-          "path": "features[0].properties",
-          "text": "eventid: 2640173 | num_ab: 0 | last_updated: 1789797719000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((645085.0 7156559.0, 645354.0 7156951.0, 645106.0 7156925.0, 644986.0 7156874.0, 645027.0 7156652.0, 645047.0 7156616.0, 645085.0 7156559.0)) | starttime: 1790060400000 | municipal_txt: OVERHALLA | timelimit: 1790078400000 | gridlevel_txt: Høy | SHAPE__Length: 1190.6009607205194 | num_ab_regained: -1 | objectid: 7104 | type_txt: Utkobling | SHAPE__Area: 71179.92933342"
-        },
-        {
-          "path": "features[1].properties",
-          "text": "eventid: 2639615 | num_ab: 0 | last_updated: 1789726618000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((651144.0 7029739.0, 651239.0 7029840.0, 650395.0 7030811.0, 649590.0 7030241.0, 649595.0 7030061.0, 649672.0 7030022.0, 651144.0 7029739.0)) | starttime: 1790147100000 | municipal_txt: MERÅKER | timelimit: 1790165100000 | gridlevel_txt: Høy | SHAPE__Length: 4176.891741851667 | num_ab_regained: 0 | objectid: 7106 | type_txt: Utkobling | SHAPE__Area: 890098.13108299"
-        },
-        {
-          "path": "features[2].properties",
-          "text": "eventid: 2637733 | num_ab: 0 | last_updated: 1789726829000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((612728.0 7071806.0, 612622.0 7071888.0, 612600.0 7071850.0, 612728.0 7071806.0)) | starttime: 1790231400000 | municipal_txt: LEVANGER | timelimit: 1790232300000 | gridlevel_txt: Lav | SHAPE__Length: 313.35548603274344 | num_ab_regained: 0 | objectid: 7108 | type_txt: Utkobling | SHAPE__Area: 2917.49638767"
-        },
-        {
-          "path": "features[3].properties",
-          "text": "eventid: 2641577 | num_ab: 0 | last_updated: 1789728049000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((665308.0 7118821.0, 667308.0 7118927.0, 683246.0 7121027.0, 683495.0 7121419.0, 683438.0 7122089.0, 663550.0 7124838.0, 660256.0 7124936.0, 657946.0 7124766.0, 656609.0 7124389.0, 656415.0 7124304.0, 656383.0 7124285.0, 656292.0 7124195.0, 656976.0 7123348.0, 659042.0 7121125.0, 665308.0 7118821.0)) | starttime: 1790233200000 | municipal_txt: SNÅSA | timelimit: 1790240400000 | gridlevel_txt: Høy | SHAPE__Length: 57460.14306401476 | num_ab_regained: 0 | objectid: 7110 | type_txt: Utkobling | SHAPE__Area: 99024061.47488336"
-        },
-        {
-          "path": "features[4].properties",
-          "text": "eventid: 2641633 | num_ab: 0 | last_updated: 1789729716000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((611159.0 7108298.0, 613472.0 7108554.0, 613802.0 7109190.0, 613781.0 7109240.0, 613380.0 7109915.0, 612552.0 7109832.0, 611332.0 7108527.0, 611159.0 7108298.0)) | starttime: 1790319600000 | municipal_txt: STEINKJER | timelimit: 1790326800000 | gridlevel_txt: Høy | SHAPE__Length: 6790.244280811736 | num_ab_regained: 0 | objectid: 7112 | type_txt: Utkobling | SHAPE__Area: 2447779.244353855"
-        },
-        {
-          "path": "features[6].properties",
-          "text": "eventid: 2642529 | num_ab: 0 | last_updated: 1789733867000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((605040.0 7192278.0, 605096.0 7192284.0, 605173.0 7192329.0, 605248.0 7192410.0, 605142.0 7192417.0, 605040.0 7192278.0)) | starttime: 1789974000000 | municipal_txt: NÆRØYSUND | timelimit: 1789984800000 | gridlevel_txt: Lav | SHAPE__Length: 534.6745071887519 | num_ab_regained: 0 | objectid: 7113 | type_txt: Utkobling | SHAPE__Area: 12233.321774105"
-        },
-        {
-          "path": "features[7].properties",
-          "text": "eventid: 2625962 | num_ab: 0 | last_updated: 1789711361000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((622918.0 7072050.0, 622878.0 7072099.0, 622518.0 7072514.0, 622098.0 7072295.0, 622155.0 7072216.0, 622365.0 7072131.0, 622918.0 7072050.0)) | starttime: 1789974000000 | municipal_txt: VERDAL | timelimit: 1789981200000 | gridlevel_txt: Høy | SHAPE__Length: 1969.5380776094198 | num_ab_regained: 0 | objectid: 7103 | type_txt: Utkobling | SHAPE__Area: 182232.34170825"
-        },
-        {
-          "path": "features[8].properties",
-          "text": "eventid: 2636729 | num_ab: 0 | last_updated: 1789726272000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((596551.0 7076750.0, 597844.0 7077587.0, 597844.0 7077756.0, 597534.0 7078144.0, 596759.0 7077618.0, 595939.0 7076850.0, 596551.0 7076750.0)) | starttime: 1790146800000 | municipal_txt: INDERØY | timelimit: 1790157600000 | gridlevel_txt: Høy | SHAPE__Length: 4887.938822425528 | num_ab_regained: 0 | objectid: 7105 | type_txt: Utkobling | SHAPE__Area: 1074472.33091719"
-        },
-        {
-          "path": "features[9].properties",
-          "text": "eventid: 2640433 | num_ab: 0 | last_updated: 1789726708000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((601347.0 7039621.0, 601394.0 7039658.0, 601459.0 7039734.0, 601419.0 7039697.0, 601347.0 7039621.0)) | starttime: 1790229600000 | municipal_txt: STJØRDAL | timelimit: 1790236800000 | gridlevel_txt: Høy | SHAPE__Length: 319.1121742349453 | num_ab_regained: 0 | objectid: 7107 | type_txt: Utkobling | SHAPE__Area: 772.043039785"
-        },
-        {
-          "path": "features[10].properties",
-          "text": "eventid: 2639639 | num_ab: 0 | last_updated: 1789726953000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((650951.0 7062842.0, 651562.0 7063193.0, 651291.0 7063278.0, 651203.0 7063250.0, 651138.0 7063203.0, 650951.0 7062842.0)) | starttime: 1790231400000 | municipal_txt: VERDAL | timelimit: 1790238600000 | gridlevel_txt: Høy | SHAPE__Length: 1567.7472299385552 | num_ab_regained: 0 | objectid: 7109 | type_txt: Utkobling | SHAPE__Area: 95286.20603333"
-        },
-        {
-          "path": "features[11].properties",
-          "text": "eventid: 2637737 | num_ab: 0 | last_updated: 1789728139000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((640516.0 7045255.0, 640617.0 7045296.0, 640656.0 7045353.0, 640707.0 7045636.0, 640735.0 7045938.0, 640276.0 7046136.0, 639842.0 7045990.0, 639902.0 7045808.0, 640375.0 7045334.0, 640516.0 7045255.0)) | starttime: 1790233500000 | municipal_txt: MERÅKER | timelimit: 1790244300000 | gridlevel_txt: Høy | SHAPE__Length: 2749.775907293124 | num_ab_regained: 0 | objectid: 7111 | type_txt: Utkobling | SHAPE__Area: 484103.912411875"
+          "path": "root",
+          "text": "currentVersion: 11.5 | name: GeocacheKanvasMork_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene, OpenStreetMap | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 0 | maxLOD: 16 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 170120"
         }
       ]
     },
@@ -886,63 +837,6 @@
         {
           "path": "features[30].properties",
           "text": "seq_no: 1 | eventid: 2636717 | num_ab: 98 | last_updated: 1789725960000 | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (617785.256637168 7109298.62831858) | globalid: {9A858777-9A93-4DD9-A9DF-D08C7BCA2F88} | starttime: 1789725600000 | municipal_txt: STEINKJER | timelimit: 1789732800000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1789729770174 | created_date: 1789729770174 | num_ab_regained: 0 | objectid: 24389 | type_txt: Utkobling"
-        }
-      ]
-    },
-    {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
-      "matches": [
-        {
-          "path": "features[0].properties",
-          "text": "eventid: 2637737 | num_ab: 0 | last_updated: 1789728139000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (640456.586206897 7045695.17241379) | starttime: 1790233500000 | municipal_txt: MERÅKER | timelimit: 1790244300000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9416 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[1].properties",
-          "text": "eventid: 2625962 | num_ab: 0 | last_updated: 1789711361000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (622549.888888889 7072246.0) | starttime: 1789974000000 | municipal_txt: VERDAL | timelimit: 1789981200000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9407 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[2].properties",
-          "text": "eventid: 2640449 | num_ab: 0 | last_updated: 1789728241000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (606695.0 7043170.0) | starttime: 1790244000000 | municipal_txt: STJØRDAL | timelimit: 1790251200000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 9417 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[3].properties",
-          "text": "eventid: 2641633 | num_ab: 0 | last_updated: 1789729716000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (613079.0 7108963.96428572) | starttime: 1790319600000 | municipal_txt: STEINKJER | timelimit: 1790326800000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9418 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[4].properties",
-          "text": "eventid: 2636729 | num_ab: 0 | last_updated: 1789726272000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (597122.175 7077512.425) | starttime: 1790146800000 | municipal_txt: INDERØY | timelimit: 1790157600000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9410 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[5].properties",
-          "text": "eventid: 2642529 | num_ab: 0 | last_updated: 1789733867000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (605152.25 7192359.375) | starttime: 1789974000000 | municipal_txt: NÆRØYSUND | timelimit: 1789984800000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 9419 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[7].properties",
-          "text": "eventid: 2641409 | num_ab: 0 | last_updated: 1789726220000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (644228.0 7209197.0) | starttime: 1789977600000 | municipal_txt: NÆRØYSUND | timelimit: 1789981200000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9409 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[8].properties",
-          "text": "eventid: 2639615 | num_ab: 0 | last_updated: 1789726618000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (650110.315789474 7030082.05263158) | starttime: 1790147100000 | municipal_txt: MERÅKER | timelimit: 1790165100000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9411 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[9].properties",
-          "text": "eventid: 2640173 | num_ab: 0 | last_updated: 1789797719000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (645112.625 7156791.4375) | starttime: 1790060400000 | municipal_txt: OVERHALLA | timelimit: 1790078400000 | gridlevel_txt: Høy | num_ab_regained: -1 | objectid: 9408 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[10].properties",
-          "text": "eventid: 2640433 | num_ab: 0 | last_updated: 1789726708000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (601404.75 7039677.5) | starttime: 1790229600000 | municipal_txt: STJØRDAL | timelimit: 1790236800000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9412 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[11].properties",
-          "text": "eventid: 2637733 | num_ab: 0 | last_updated: 1789726829000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (612679.0 7071836.75) | starttime: 1790231400000 | municipal_txt: LEVANGER | timelimit: 1790232300000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 9413 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[12].properties",
-          "text": "eventid: 2639639 | num_ab: 0 | last_updated: 1789726953000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (651231.222222222 7063154.77777778) | starttime: 1790231400000 | municipal_txt: VERDAL | timelimit: 1790238600000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9414 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[13].properties",
-          "text": "eventid: 2641577 | num_ab: 0 | last_updated: 1789728049000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (661782.37755102 7123009.25510204) | starttime: 1790233200000 | municipal_txt: SNÅSA | timelimit: 1790240400000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9415 | type_txt: Utkobling"
         }
       ]
     },
@@ -1092,11 +986,51 @@
       ]
     },
     {
-      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer?f=json",
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
       "matches": [
         {
-          "path": "root",
-          "text": "currentVersion: 11.5 | name: GeocacheKanvasMork_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene, OpenStreetMap | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 0 | maxLOD: 16 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 170120"
+          "path": "features[0].properties",
+          "text": "eventid: 2640173 | num_ab: 0 | last_updated: 1789797719000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((645085.0 7156559.0, 645354.0 7156951.0, 645106.0 7156925.0, 644986.0 7156874.0, 645027.0 7156652.0, 645047.0 7156616.0, 645085.0 7156559.0)) | starttime: 1790060400000 | municipal_txt: OVERHALLA | timelimit: 1790078400000 | gridlevel_txt: Høy | SHAPE__Length: 1190.6009607205194 | num_ab_regained: -1 | objectid: 7104 | type_txt: Utkobling | SHAPE__Area: 71179.92933342"
+        },
+        {
+          "path": "features[1].properties",
+          "text": "eventid: 2639615 | num_ab: 0 | last_updated: 1789726618000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((651144.0 7029739.0, 651239.0 7029840.0, 650395.0 7030811.0, 649590.0 7030241.0, 649595.0 7030061.0, 649672.0 7030022.0, 651144.0 7029739.0)) | starttime: 1790147100000 | municipal_txt: MERÅKER | timelimit: 1790165100000 | gridlevel_txt: Høy | SHAPE__Length: 4176.891741851667 | num_ab_regained: 0 | objectid: 7106 | type_txt: Utkobling | SHAPE__Area: 890098.13108299"
+        },
+        {
+          "path": "features[2].properties",
+          "text": "eventid: 2637733 | num_ab: 0 | last_updated: 1789726829000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((612728.0 7071806.0, 612622.0 7071888.0, 612600.0 7071850.0, 612728.0 7071806.0)) | starttime: 1790231400000 | municipal_txt: LEVANGER | timelimit: 1790232300000 | gridlevel_txt: Lav | SHAPE__Length: 313.35548603274344 | num_ab_regained: 0 | objectid: 7108 | type_txt: Utkobling | SHAPE__Area: 2917.49638767"
+        },
+        {
+          "path": "features[3].properties",
+          "text": "eventid: 2641577 | num_ab: 0 | last_updated: 1789728049000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((665308.0 7118821.0, 667308.0 7118927.0, 683246.0 7121027.0, 683495.0 7121419.0, 683438.0 7122089.0, 663550.0 7124838.0, 660256.0 7124936.0, 657946.0 7124766.0, 656609.0 7124389.0, 656415.0 7124304.0, 656383.0 7124285.0, 656292.0 7124195.0, 656976.0 7123348.0, 659042.0 7121125.0, 665308.0 7118821.0)) | starttime: 1790233200000 | municipal_txt: SNÅSA | timelimit: 1790240400000 | gridlevel_txt: Høy | SHAPE__Length: 57460.14306401476 | num_ab_regained: 0 | objectid: 7110 | type_txt: Utkobling | SHAPE__Area: 99024061.47488336"
+        },
+        {
+          "path": "features[4].properties",
+          "text": "eventid: 2641633 | num_ab: 0 | last_updated: 1789729716000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((611159.0 7108298.0, 613472.0 7108554.0, 613802.0 7109190.0, 613781.0 7109240.0, 613380.0 7109915.0, 612552.0 7109832.0, 611332.0 7108527.0, 611159.0 7108298.0)) | starttime: 1790319600000 | municipal_txt: STEINKJER | timelimit: 1790326800000 | gridlevel_txt: Høy | SHAPE__Length: 6790.244280811736 | num_ab_regained: 0 | objectid: 7112 | type_txt: Utkobling | SHAPE__Area: 2447779.244353855"
+        },
+        {
+          "path": "features[6].properties",
+          "text": "eventid: 2642529 | num_ab: 0 | last_updated: 1789733867000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((605040.0 7192278.0, 605096.0 7192284.0, 605173.0 7192329.0, 605248.0 7192410.0, 605142.0 7192417.0, 605040.0 7192278.0)) | starttime: 1789974000000 | municipal_txt: NÆRØYSUND | timelimit: 1789984800000 | gridlevel_txt: Lav | SHAPE__Length: 534.6745071887519 | num_ab_regained: 0 | objectid: 7113 | type_txt: Utkobling | SHAPE__Area: 12233.321774105"
+        },
+        {
+          "path": "features[7].properties",
+          "text": "eventid: 2625962 | num_ab: 0 | last_updated: 1789711361000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((622918.0 7072050.0, 622878.0 7072099.0, 622518.0 7072514.0, 622098.0 7072295.0, 622155.0 7072216.0, 622365.0 7072131.0, 622918.0 7072050.0)) | starttime: 1789974000000 | municipal_txt: VERDAL | timelimit: 1789981200000 | gridlevel_txt: Høy | SHAPE__Length: 1969.5380776094198 | num_ab_regained: 0 | objectid: 7103 | type_txt: Utkobling | SHAPE__Area: 182232.34170825"
+        },
+        {
+          "path": "features[8].properties",
+          "text": "eventid: 2636729 | num_ab: 0 | last_updated: 1789726272000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((596551.0 7076750.0, 597844.0 7077587.0, 597844.0 7077756.0, 597534.0 7078144.0, 596759.0 7077618.0, 595939.0 7076850.0, 596551.0 7076750.0)) | starttime: 1790146800000 | municipal_txt: INDERØY | timelimit: 1790157600000 | gridlevel_txt: Høy | SHAPE__Length: 4887.938822425528 | num_ab_regained: 0 | objectid: 7105 | type_txt: Utkobling | SHAPE__Area: 1074472.33091719"
+        },
+        {
+          "path": "features[9].properties",
+          "text": "eventid: 2640433 | num_ab: 0 | last_updated: 1789726708000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((601347.0 7039621.0, 601394.0 7039658.0, 601459.0 7039734.0, 601419.0 7039697.0, 601347.0 7039621.0)) | starttime: 1790229600000 | municipal_txt: STJØRDAL | timelimit: 1790236800000 | gridlevel_txt: Høy | SHAPE__Length: 319.1121742349453 | num_ab_regained: 0 | objectid: 7107 | type_txt: Utkobling | SHAPE__Area: 772.043039785"
+        },
+        {
+          "path": "features[10].properties",
+          "text": "eventid: 2639639 | num_ab: 0 | last_updated: 1789726953000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((650951.0 7062842.0, 651562.0 7063193.0, 651291.0 7063278.0, 651203.0 7063250.0, 651138.0 7063203.0, 650951.0 7062842.0)) | starttime: 1790231400000 | municipal_txt: VERDAL | timelimit: 1790238600000 | gridlevel_txt: Høy | SHAPE__Length: 1567.7472299385552 | num_ab_regained: 0 | objectid: 7109 | type_txt: Utkobling | SHAPE__Area: 95286.20603333"
+        },
+        {
+          "path": "features[11].properties",
+          "text": "eventid: 2637737 | num_ab: 0 | last_updated: 1789728139000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((640516.0 7045255.0, 640617.0 7045296.0, 640656.0 7045353.0, 640707.0 7045636.0, 640735.0 7045938.0, 640276.0 7046136.0, 639842.0 7045990.0, 639902.0 7045808.0, 640375.0 7045334.0, 640516.0 7045255.0)) | starttime: 1790233500000 | municipal_txt: MERÅKER | timelimit: 1790244300000 | gridlevel_txt: Høy | SHAPE__Length: 2749.775907293124 | num_ab_regained: 0 | objectid: 7111 | type_txt: Utkobling | SHAPE__Area: 484103.912411875"
         }
       ]
     },
@@ -1331,6 +1265,72 @@
         {
           "path": "features[38].properties",
           "text": "seq_no: 1 | eventid: 83824176 | num_ab: 43 | last_updated: 1789542099000 | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((580260.0 7035443.0, 580262.0 7035446.0, 580205.0 7035678.0, 580124.0 7035834.0, 580080.0 7035854.0, 580048.0 7035868.0, 580001.0 7035882.0, 580090.0 7035591.0, 580229.0 7035451.0, 580233.0 7035449.0, 580260.0 7035443.0)) | globalid: {71BB8CA1-0EF7-43C1-BE69-DC652B9A9079} | starttime: 1789542000000 | municipal_txt: Malvik | timelimit: 1789563600000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1789563868319 | created_date: 1789563868319 | SHAPE__Length: 1084.8547833579216 | num_ab_regained: 0 | objectid: 23915 | type_txt: Utkobling | SHAPE__Area: 46431.732186225"
+        }
+      ]
+    },
+    {
+      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer?f=json",
+      "matches": [
+        {
+          "path": "root",
+          "text": "currentVersion: 11.5 | name: GeocacheKanvasMork_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene, OpenStreetMap | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 0 | maxLOD: 16 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 170120"
+        }
+      ]
+    },
+    {
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "matches": [
+        {
+          "path": "features[0].properties",
+          "text": "eventid: 2637737 | num_ab: 0 | last_updated: 1789728139000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (640456.586206897 7045695.17241379) | starttime: 1790233500000 | municipal_txt: MERÅKER | timelimit: 1790244300000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9416 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[1].properties",
+          "text": "eventid: 2625962 | num_ab: 0 | last_updated: 1789711361000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (622549.888888889 7072246.0) | starttime: 1789974000000 | municipal_txt: VERDAL | timelimit: 1789981200000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9407 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[2].properties",
+          "text": "eventid: 2640449 | num_ab: 0 | last_updated: 1789728241000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (606695.0 7043170.0) | starttime: 1790244000000 | municipal_txt: STJØRDAL | timelimit: 1790251200000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 9417 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[3].properties",
+          "text": "eventid: 2641633 | num_ab: 0 | last_updated: 1789729716000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (613079.0 7108963.96428572) | starttime: 1790319600000 | municipal_txt: STEINKJER | timelimit: 1790326800000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9418 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[4].properties",
+          "text": "eventid: 2636729 | num_ab: 0 | last_updated: 1789726272000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (597122.175 7077512.425) | starttime: 1790146800000 | municipal_txt: INDERØY | timelimit: 1790157600000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9410 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[5].properties",
+          "text": "eventid: 2642529 | num_ab: 0 | last_updated: 1789733867000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (605152.25 7192359.375) | starttime: 1789974000000 | municipal_txt: NÆRØYSUND | timelimit: 1789984800000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 9419 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[7].properties",
+          "text": "eventid: 2641409 | num_ab: 0 | last_updated: 1789726220000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (644228.0 7209197.0) | starttime: 1789977600000 | municipal_txt: NÆRØYSUND | timelimit: 1789981200000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9409 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[8].properties",
+          "text": "eventid: 2639615 | num_ab: 0 | last_updated: 1789726618000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (650110.315789474 7030082.05263158) | starttime: 1790147100000 | municipal_txt: MERÅKER | timelimit: 1790165100000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9411 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[9].properties",
+          "text": "eventid: 2640173 | num_ab: 0 | last_updated: 1789797719000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (645112.625 7156791.4375) | starttime: 1790060400000 | municipal_txt: OVERHALLA | timelimit: 1790078400000 | gridlevel_txt: Høy | num_ab_regained: -1 | objectid: 9408 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[10].properties",
+          "text": "eventid: 2640433 | num_ab: 0 | last_updated: 1789726708000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (601404.75 7039677.5) | starttime: 1790229600000 | municipal_txt: STJØRDAL | timelimit: 1790236800000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9412 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[11].properties",
+          "text": "eventid: 2637733 | num_ab: 0 | last_updated: 1789726829000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (612679.0 7071836.75) | starttime: 1790231400000 | municipal_txt: LEVANGER | timelimit: 1790232300000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 9413 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[12].properties",
+          "text": "eventid: 2639639 | num_ab: 0 | last_updated: 1789726953000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (651231.222222222 7063154.77777778) | starttime: 1790231400000 | municipal_txt: VERDAL | timelimit: 1790238600000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9414 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[13].properties",
+          "text": "eventid: 2641577 | num_ab: 0 | last_updated: 1789728049000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (661782.37755102 7123009.25510204) | starttime: 1790233200000 | municipal_txt: SNÅSA | timelimit: 1790240400000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9415 | type_txt: Utkobling"
         }
       ]
     },
