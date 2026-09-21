@@ -1,15 +1,70 @@
 {
   "current": {
-    "tensio": {
-      "94fbfce874767f985178": {
-        "key": "94fbfce874767f985178",
-        "contentHash": "8d6f8b3c0cc0ebcf19b2",
-        "text": "Nærøysund Vedlikehold 8"
+    "tensio": {},
+    "nettselskapet": {
+      "68a53d01729a2343ec3e": {
+        "key": "68a53d01729a2343ec3e",
+        "contentHash": "d0e465437b3773702b25",
+        "text": "Avbrudd (strøm)"
+      },
+      "7b044df4148231424c85": {
+        "key": "7b044df4148231424c85",
+        "contentHash": "c0d336b6860be766a0a2",
+        "text": "history_toggle_offPlanlagt start2026-09-23 09:00history_toggle_offPlanlagt slutt2026-09-23 11:00"
+      },
+      "c3cafe760302bb045b61": {
+        "key": "c3cafe760302bb045b61",
+        "contentHash": "221e59e937715b1f23ae",
+        "text": "scheduleStart2026-09-21 12:10history_toggle_offPlanlagt slutt2026-09-21 13:00"
+      },
+      "194eea2b19f375d5ded6": {
+        "key": "194eea2b19f375d5ded6",
+        "contentHash": "22dd28e761637dfb9472",
+        "text": "0 Berørte kunder0 Gjenopprettede kunder9 Berørte kunder"
       }
-    },
-    "nettselskapet": {}
+    }
   },
   "events": [
+    {
+      "id": "bec3df5ed27afcc6d7cc",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "0 Berørte kunder0 Gjenopprettede kunder9 Berørte kunder",
+      "date": "2026-09-21T10:43:04.858Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "96f4778f23af6ac0564c",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "scheduleStart2026-09-21 12:10history_toggle_offPlanlagt slutt2026-09-21 13:00",
+      "date": "2026-09-21T10:43:04.858Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "4eccf5d1886393e1c94c",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-23 09:00history_toggle_offPlanlagt slutt2026-09-23 11:00",
+      "date": "2026-09-21T10:43:04.858Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "83f6cb3e47613466cfd8",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "Avbrudd (strøm)",
+      "date": "2026-09-21T10:43:04.858Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "276a501e700db5a897b6",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Nærøysund Vedlikehold 8",
+      "date": "2026-09-21T10:43:04.858Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c36529df1b088847fdf9",
       "sourceId": "tensio",
