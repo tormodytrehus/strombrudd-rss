@@ -10,16 +10,19 @@
         "key": "94fbfce874767f985178",
         "contentHash": "8d6f8b3c0cc0ebcf19b2",
         "text": "Nærøysund Vedlikehold 8"
-      },
-      "e7e9c42d2a02b91fdcfd": {
-        "key": "e7e9c42d2a02b91fdcfd",
-        "contentHash": "f4d5f9f6298e0c4bae4e",
-        "text": "Selbu Vedlikehold 10"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "5a2de529b41bcbde9b4e",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Selbu Vedlikehold 10",
+      "date": "2026-09-21T07:45:37.071Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "e52e01839d9952ac9ed8",
       "sourceId": "tensio",
