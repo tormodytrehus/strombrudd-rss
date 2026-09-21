@@ -5,16 +5,19 @@
         "key": "94fbfce874767f985178",
         "contentHash": "8d6f8b3c0cc0ebcf19b2",
         "text": "Nærøysund Vedlikehold 8"
-      },
-      "4457bf0280611de7a73a": {
-        "key": "4457bf0280611de7a73a",
-        "contentHash": "96541101a6fd83be8f56",
-        "text": "Tynset Vedlikehold 12"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c36529df1b088847fdf9",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Tynset Vedlikehold 12",
+      "date": "2026-09-21T08:59:03.310Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "ad54f537a28003e3dc48",
       "sourceId": "tensio",
