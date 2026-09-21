@@ -1,6 +1,16 @@
 {
   "current": {
     "tensio": {
+      "6e1e201f5943acf9d77e": {
+        "key": "6e1e201f5943acf9d77e",
+        "contentHash": "83c4da80f0669b7fe821",
+        "text": "Verdal Vedlikehold 9"
+      },
+      "94fbfce874767f985178": {
+        "key": "94fbfce874767f985178",
+        "contentHash": "8d6f8b3c0cc0ebcf19b2",
+        "text": "Nærøysund Vedlikehold 8"
+      },
       "e7e9c42d2a02b91fdcfd": {
         "key": "e7e9c42d2a02b91fdcfd",
         "contentHash": "f4d5f9f6298e0c4bae4e",
@@ -10,6 +20,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "e52e01839d9952ac9ed8",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Nærøysund Vedlikehold 8",
+      "date": "2026-09-21T07:18:42.424Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "80251367bab0a9bdd840",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Verdal Vedlikehold 9",
+      "date": "2026-09-21T07:18:42.424Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "7987f0da87188e313bff",
       "sourceId": "tensio",
