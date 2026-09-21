@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "e7e9c42d2a02b91fdcfd": {
+        "key": "e7e9c42d2a02b91fdcfd",
+        "contentHash": "f4d5f9f6298e0c4bae4e",
+        "text": "Selbu Vedlikehold 10"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "7987f0da87188e313bff",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Selbu Vedlikehold 10",
+      "date": "2026-09-21T06:27:19.079Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "0e4ac80ab10f8d652122",
       "sourceId": "nettselskapet",
