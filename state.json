@@ -8,13 +8,21 @@
       },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
-        "contentHash": "0c9ac7c888cd88fbc0f7",
-        "text": "Trondheim Vedlikehold 6"
+        "contentHash": "c9be2f4b967aad3a67f0",
+        "text": "Trondheim Vedlikehold 13"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "a267d324e0df03de5008",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 13",
+      "date": "2026-09-22T07:44:02.124Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "b1eba8e9441d600b15b2",
       "sourceId": "tensio",
