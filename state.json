@@ -1,15 +1,44 @@
 {
   "current": {
     "tensio": {
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "c9be2f4b967aad3a67f0",
-        "text": "Trondheim Vedlikehold 13"
+      "1963199ae429722f4e80": {
+        "key": "1963199ae429722f4e80",
+        "contentHash": "ce427107bf4c02de77f8",
+        "text": "Nærøysund Feil 2"
+      },
+      "57ef00ad63bfbec6a72d": {
+        "key": "57ef00ad63bfbec6a72d",
+        "contentHash": "59d449ece3e4d52a196a",
+        "text": "Tydal Feil 5"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "33838fd257e99a20cff9",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 13",
+      "date": "2026-09-22T13:18:11.960Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "cabc45cf3e27a9c080b3",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Tydal Feil 5",
+      "date": "2026-09-22T13:18:11.960Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "ae831948468d49ca7bf8",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Nærøysund Feil 2",
+      "date": "2026-09-22T13:18:11.960Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "1b76f4e83890678cda14",
       "sourceId": "tensio",
