@@ -1,15 +1,15 @@
 {
   "current": {
     "tensio": {
-      "74a8994b78060a4e86e2": {
-        "key": "74a8994b78060a4e86e2",
-        "contentHash": "e3db8ad9327ed0f1d706",
-        "text": "Overhalla Vedlikehold 16"
+      "3c53662cb2c39aaca8f9": {
+        "key": "3c53662cb2c39aaca8f9",
+        "contentHash": "31b31c0331772e4c5d91",
+        "text": "Inderøy Feil 2"
       },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
-        "contentHash": "91930a93716f3f6bfa1e",
-        "text": "Trondheim Vedlikehold 1"
+        "contentHash": "c9be2f4b967aad3a67f0",
+        "text": "Trondheim Vedlikehold 13"
       },
       "f5671d1ee4881b6e4a2e": {
         "key": "f5671d1ee4881b6e4a2e",
@@ -20,6 +20,38 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "e802a29bc5062dcd1559",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Overhalla Vedlikehold 16",
+      "date": "2026-09-22T10:20:11.431Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "5c689c09f4deea4a1cea",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 13",
+      "date": "2026-09-22T10:20:11.431Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "ce11fe59dd768336c961",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 2",
+      "date": "2026-09-22T10:20:11.431Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "a6446cb0883fce114430",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Inderøy Feil 2",
+      "date": "2026-09-22T10:20:11.431Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "72e89cba29932733af9e",
       "sourceId": "tensio",

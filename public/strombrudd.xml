@@ -4,7 +4,35 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 09:57:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:20:11 GMT</lastBuildDate>
+    <item>
+      <title>Strømbrudd avsluttet hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">e802a29bc5062dcd1559</guid>
+      <pubDate>Tue, 22 Sep 2026 10:20:11 GMT</pubDate>
+      <description>Overhalla Vedlikehold 16</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">5c689c09f4deea4a1cea</guid>
+      <pubDate>Tue, 22 Sep 2026 10:20:11 GMT</pubDate>
+      <description>Trondheim Vedlikehold 13</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">ce11fe59dd768336c961</guid>
+      <pubDate>Tue, 22 Sep 2026 10:20:11 GMT</pubDate>
+      <description>Trondheim Vedlikehold 2</description>
+    </item>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">a6446cb0883fce114430</guid>
+      <pubDate>Tue, 22 Sep 2026 10:20:11 GMT</pubDate>
+      <description>Inderøy Feil 2</description>
+    </item>
     <item>
       <title>Oppdatert strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -676,34 +704,6 @@
       <guid isPermaLink="false">470ffbaefca8e5ae7086</guid>
       <pubDate>Wed, 16 Sep 2026 12:25:34 GMT</pubDate>
       <description>Hitra Feil 295</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">ceb81b15b5ed0ae498f0</guid>
-      <pubDate>Wed, 16 Sep 2026 12:25:34 GMT</pubDate>
-      <description>Hitra Vedlikehold 3</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">944901fc60c419c85396</guid>
-      <pubDate>Wed, 16 Sep 2026 11:58:30 GMT</pubDate>
-      <description>Hitra Feil 499</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">cbee57344d6e28287292</guid>
-      <pubDate>Wed, 16 Sep 2026 11:58:30 GMT</pubDate>
-      <description>Hitra Vedlikehold 3</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">73ffd68c0cc7676a1cad</guid>
-      <pubDate>Wed, 16 Sep 2026 11:45:03 GMT</pubDate>
-      <description>Hitra Vedlikehold 3</description>
     </item>
   </channel>
 </rss>
