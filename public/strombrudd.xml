@@ -4,7 +4,14 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 06:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:48:53 GMT</lastBuildDate>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">85b57418e4294ac87294</guid>
+      <pubDate>Tue, 22 Sep 2026 06:48:53 GMT</pubDate>
+      <description>Trondheim Vedlikehold 13</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
       <link>https://nettselskapet.as/driftsmeldinger</link>
@@ -696,13 +703,6 @@
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
       <guid isPermaLink="false">35ad44fe01ecfa8f8267</guid>
       <pubDate>Tue, 15 Sep 2026 16:20:53 GMT</pubDate>
-      <description>Oppdal Feil 1</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">44e2f497ba9d69942137</guid>
-      <pubDate>Tue, 15 Sep 2026 15:59:04 GMT</pubDate>
       <description>Oppdal Feil 1</description>
     </item>
   </channel>

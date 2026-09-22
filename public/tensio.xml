@@ -4,7 +4,14 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 06:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:48:53 GMT</lastBuildDate>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">85b57418e4294ac87294</guid>
+      <pubDate>Tue, 22 Sep 2026 06:48:53 GMT</pubDate>
+      <description>Trondheim Vedlikehold 13</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">72d592d0eea45ca49cfc</guid>
       <pubDate>Mon, 14 Sep 2026 14:48:28 GMT</pubDate>
       <description>Selbu Vedlikehold 1</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">fe68776cadadb07f1f66</guid>
-      <pubDate>Mon, 14 Sep 2026 13:00:47 GMT</pubDate>
-      <description>Tydal Feil 11</description>
     </item>
   </channel>
 </rss>
