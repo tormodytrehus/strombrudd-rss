@@ -4,7 +4,14 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 10:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:58:30 GMT</lastBuildDate>
+    <item>
+      <title>Strømbrudd avsluttet hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">6782b6438c9003167ab4</guid>
+      <pubDate>Tue, 22 Sep 2026 10:58:30 GMT</pubDate>
+      <description>Inderøy Feil 2</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">c1991dafeb205870d718</guid>
       <pubDate>Wed, 16 Sep 2026 12:50:29 GMT</pubDate>
       <description>Hitra Vedlikehold 3</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">470ffbaefca8e5ae7086</guid>
-      <pubDate>Wed, 16 Sep 2026 12:25:34 GMT</pubDate>
-      <description>Hitra Feil 295</description>
     </item>
   </channel>
 </rss>

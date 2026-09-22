@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "3c53662cb2c39aaca8f9": {
-        "key": "3c53662cb2c39aaca8f9",
-        "contentHash": "31b31c0331772e4c5d91",
-        "text": "Inderøy Feil 2"
-      },
       "f5671d1ee4881b6e4a2e": {
         "key": "f5671d1ee4881b6e4a2e",
         "contentHash": "47d968eb2c3c13ee361b",
@@ -20,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "6782b6438c9003167ab4",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Inderøy Feil 2",
+      "date": "2026-09-22T10:58:30.761Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "e802a29bc5062dcd1559",
       "sourceId": "tensio",
