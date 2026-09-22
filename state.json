@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "1963199ae429722f4e80": {
-        "key": "1963199ae429722f4e80",
-        "contentHash": "ce427107bf4c02de77f8",
-        "text": "Nærøysund Feil 2"
-      },
       "57ef00ad63bfbec6a72d": {
         "key": "57ef00ad63bfbec6a72d",
         "contentHash": "59d449ece3e4d52a196a",
@@ -15,6 +10,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ae0681f6b4a4ec41fa16",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Nærøysund Feil 2",
+      "date": "2026-09-22T14:46:04.584Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "33838fd257e99a20cff9",
       "sourceId": "tensio",
