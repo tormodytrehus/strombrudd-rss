@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "57ef00ad63bfbec6a72d": {
-        "key": "57ef00ad63bfbec6a72d",
-        "contentHash": "59d449ece3e4d52a196a",
-        "text": "Tydal Feil 5"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c575962b99c2e24c738b",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Tydal Feil 5",
+      "date": "2026-09-22T15:17:27.109Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "ae0681f6b4a4ec41fa16",
       "sourceId": "tensio",
