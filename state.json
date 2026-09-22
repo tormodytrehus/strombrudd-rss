@@ -1,15 +1,36 @@
 {
   "current": {
     "tensio": {
+      "74a8994b78060a4e86e2": {
+        "key": "74a8994b78060a4e86e2",
+        "contentHash": "e3db8ad9327ed0f1d706",
+        "text": "Overhalla Vedlikehold 16"
+      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
-        "contentHash": "c9be2f4b967aad3a67f0",
-        "text": "Trondheim Vedlikehold 13"
+        "contentHash": "0c9ac7c888cd88fbc0f7",
+        "text": "Trondheim Vedlikehold 6"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "b1eba8e9441d600b15b2",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 6",
+      "date": "2026-09-22T07:17:39.235Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "fda211d9ac3f9e07c682",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Overhalla Vedlikehold 16",
+      "date": "2026-09-22T07:17:39.235Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "85b57418e4294ac87294",
       "sourceId": "tensio",
