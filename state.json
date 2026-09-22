@@ -8,13 +8,42 @@
       },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
-        "contentHash": "f0b92cc4f47223a55751",
-        "text": "Trondheim Vedlikehold 5"
+        "contentHash": "c9be2f4b967aad3a67f0",
+        "text": "Trondheim Vedlikehold 13"
+      },
+      "f5671d1ee4881b6e4a2e": {
+        "key": "f5671d1ee4881b6e4a2e",
+        "contentHash": "47d968eb2c3c13ee361b",
+        "text": "Melhus Vedlikehold 120"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "65a33b1f26df550c51bc",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 13",
+      "date": "2026-09-22T08:20:56.429Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "0839fe8894d2d5797639",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Melhus Vedlikehold 120",
+      "date": "2026-09-22T08:20:56.429Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "4db846f27cb53cf0aa92",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 2",
+      "date": "2026-09-22T08:20:56.429Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "e20267573c3c4833a342",
       "sourceId": "tensio",
