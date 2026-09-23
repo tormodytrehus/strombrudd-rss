@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "05ca0c418a25b96b9737": {
-        "key": "05ca0c418a25b96b9737",
-        "contentHash": "070be980840598a4ec80",
-        "text": "Meråker Vedlikehold 19"
-      },
       "74a8994b78060a4e86e2": {
         "key": "74a8994b78060a4e86e2",
         "contentHash": "589d2b132949264544b0",
@@ -15,16 +10,43 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "8cff8c2695bb15300965",
         "text": "Trondheim Vedlikehold 21"
-      },
-      "4d842263c94a4d4ca817": {
-        "key": "4d842263c94a4d4ca817",
-        "contentHash": "9aab75cebab6e2b88a8c",
-        "text": "Skaun Vedlikehold 30"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "174f2ac3045edb45f82b",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Skaun Vedlikehold 30",
+      "date": "2026-09-23T11:44:05.025Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "05c3f640de50a7881ab4",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Meråker Vedlikehold 19",
+      "date": "2026-09-23T11:44:05.025Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "6cbdfcdf254561c68d64",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 344",
+      "date": "2026-09-23T11:44:05.025Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "efbbad305e12c567ad38",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 120",
+      "date": "2026-09-23T11:44:05.025Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "9c6fc473088cb8b9e9de",
       "sourceId": "tensio",
