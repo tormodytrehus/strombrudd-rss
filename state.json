@@ -6,15 +6,15 @@
         "contentHash": "589d2b132949264544b0",
         "text": "Overhalla Vedlikehold 18"
       },
-      "e7e9c42d2a02b91fdcfd": {
-        "key": "e7e9c42d2a02b91fdcfd",
-        "contentHash": "0c03672eb7217a0a33a8",
-        "text": "Selbu Vedlikehold 429"
-      },
       "329dddfa0197f5fa7011": {
         "key": "329dddfa0197f5fa7011",
         "contentHash": "61a897ae8f12af227bf3",
         "text": "Midtre gauldal Vedlikehold 14"
+      },
+      "e7e9c42d2a02b91fdcfd": {
+        "key": "e7e9c42d2a02b91fdcfd",
+        "contentHash": "0c03672eb7217a0a33a8",
+        "text": "Selbu Vedlikehold 429"
       }
     },
     "nettselskapet": {}
