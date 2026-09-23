@@ -5,16 +5,19 @@
         "key": "74a8994b78060a4e86e2",
         "contentHash": "589d2b132949264544b0",
         "text": "Overhalla Vedlikehold 18"
-      },
-      "e14deee98bb30764948f": {
-        "key": "e14deee98bb30764948f",
-        "contentHash": "f5134d11724f052d6939",
-        "text": "Malvik Vedlikehold 11"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c27ddb72439ebff86afa",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Malvik Vedlikehold 11",
+      "date": "2026-09-23T20:18:36.295Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c2c6fd3e47ce1ec86eea",
       "sourceId": "tensio",
