@@ -4,7 +4,28 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 13:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:58:51 GMT</lastBuildDate>
+    <item>
+      <title>Strømbrudd avsluttet hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">0448f7133b5face444b9</guid>
+      <pubDate>Wed, 23 Sep 2026 13:58:51 GMT</pubDate>
+      <description>Steinkjer Feil 81</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">23c2305b7838d53338c7</guid>
+      <pubDate>Wed, 23 Sep 2026 13:58:51 GMT</pubDate>
+      <description>Trondheim Vedlikehold 344</description>
+    </item>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">1adedae8a56ce437558d</guid>
+      <pubDate>Wed, 23 Sep 2026 13:58:51 GMT</pubDate>
+      <description>Overhalla Vedlikehold 18</description>
+    </item>
     <item>
       <title>Oppdatert strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -683,27 +704,6 @@
       <guid isPermaLink="false">a5128fd46fa8042fa83f</guid>
       <pubDate>Mon, 21 Sep 2026 11:18:58 GMT</pubDate>
       <description>history_toggle_offPlanlagt start2026-09-23 09:00history_toggle_offPlanlagt slutt2026-09-23 11:00</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">0f433748a977cc8c985f</guid>
-      <pubDate>Mon, 21 Sep 2026 11:18:58 GMT</pubDate>
-      <description>Avbrudd (strøm)</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">bec3df5ed27afcc6d7cc</guid>
-      <pubDate>Mon, 21 Sep 2026 10:43:04 GMT</pubDate>
-      <description>0 Berørte kunder0 Gjenopprettede kunder9 Berørte kunder</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">96f4778f23af6ac0564c</guid>
-      <pubDate>Mon, 21 Sep 2026 10:43:04 GMT</pubDate>
-      <description>scheduleStart2026-09-21 12:10history_toggle_offPlanlagt slutt2026-09-21 13:00</description>
     </item>
   </channel>
 </rss>

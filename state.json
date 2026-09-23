@@ -1,10 +1,10 @@
 {
   "current": {
     "tensio": {
-      "85ff6358796bff6993bb": {
-        "key": "85ff6358796bff6993bb",
-        "contentHash": "3276343a3e37747ee349",
-        "text": "Steinkjer Feil 81"
+      "74a8994b78060a4e86e2": {
+        "key": "74a8994b78060a4e86e2",
+        "contentHash": "589d2b132949264544b0",
+        "text": "Overhalla Vedlikehold 18"
       },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
@@ -15,6 +15,30 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "0448f7133b5face444b9",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Feil 81",
+      "date": "2026-09-23T13:58:51.911Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "23c2305b7838d53338c7",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 344",
+      "date": "2026-09-23T13:58:51.911Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "1adedae8a56ce437558d",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Overhalla Vedlikehold 18",
+      "date": "2026-09-23T13:58:51.911Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "8cabcf58da883bf47e93",
       "sourceId": "tensio",
