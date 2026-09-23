@@ -8,8 +8,8 @@
       },
       "74a8994b78060a4e86e2": {
         "key": "74a8994b78060a4e86e2",
-        "contentHash": "67dc0ca4c3fb9c2984f5",
-        "text": "Overhalla Vedlikehold 57"
+        "contentHash": "589d2b132949264544b0",
+        "text": "Overhalla Vedlikehold 18"
       },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
@@ -25,6 +25,30 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "4bedc450df8215c14c6c",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 344",
+      "date": "2026-09-23T10:44:33.409Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "7862b01090fd33e03797",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 120",
+      "date": "2026-09-23T10:44:33.409Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "487541dbf6060fbc1eb0",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Overhalla Vedlikehold 18",
+      "date": "2026-09-23T10:44:33.409Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "e9c70b70ff6ee7010864",
       "sourceId": "tensio",
