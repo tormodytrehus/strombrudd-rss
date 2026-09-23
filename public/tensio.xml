@@ -4,7 +4,28 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 07:44:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:59:06 GMT</lastBuildDate>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">79028f05b9367f872478</guid>
+      <pubDate>Wed, 23 Sep 2026 07:59:06 GMT</pubDate>
+      <description>Trondheim Vedlikehold 344</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">b0e1ac84af64638f8519</guid>
+      <pubDate>Wed, 23 Sep 2026 07:59:06 GMT</pubDate>
+      <description>Trondheim Vedlikehold 120</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">2a4c764bf64482509803</guid>
+      <pubDate>Wed, 23 Sep 2026 07:59:06 GMT</pubDate>
+      <description>Overhalla Vedlikehold 57</description>
+    </item>
     <item>
       <title>Oppdatert strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -683,27 +704,6 @@
       <guid isPermaLink="false">9bc74599bada111a48f9</guid>
       <pubDate>Wed, 16 Sep 2026 16:44:39 GMT</pubDate>
       <description>Hitra Feil 11</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">40478bdf4a6ceafe1eae</guid>
-      <pubDate>Wed, 16 Sep 2026 15:59:09 GMT</pubDate>
-      <description>Hitra Feil 35</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">3b5e4d4b84dbd87a5b57</guid>
-      <pubDate>Wed, 16 Sep 2026 15:44:21 GMT</pubDate>
-      <description>Hitra Feil 85</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">82c7de58975ca71e7eae</guid>
-      <pubDate>Wed, 16 Sep 2026 13:19:03 GMT</pubDate>
-      <description>Åfjord Vedlikehold 13</description>
     </item>
   </channel>
 </rss>
