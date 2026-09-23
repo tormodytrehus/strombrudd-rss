@@ -5,16 +5,19 @@
         "key": "74a8994b78060a4e86e2",
         "contentHash": "589d2b132949264544b0",
         "text": "Overhalla Vedlikehold 18"
-      },
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "7a7abcf23a9216a2bc5e",
-        "text": "Trondheim Vedlikehold 344"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ecdd16dc8b7a116a2c68",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 344",
+      "date": "2026-09-23T14:45:50.317Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "042c849fed3ba8459833",
       "sourceId": "tensio",
