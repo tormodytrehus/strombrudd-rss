@@ -4,7 +4,14 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 15:58:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:21:49 GMT</lastBuildDate>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">c2c6fd3e47ce1ec86eea</guid>
+      <pubDate>Wed, 23 Sep 2026 16:21:49 GMT</pubDate>
+      <description>Malvik Vedlikehold 11</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">7987f0da87188e313bff</guid>
       <pubDate>Mon, 21 Sep 2026 06:27:19 GMT</pubDate>
       <description>Selbu Vedlikehold 10</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">615669c7089f7a2b58e4</guid>
-      <pubDate>Fri, 18 Sep 2026 18:43:52 GMT</pubDate>
-      <description>Åfjord Feil 38</description>
     </item>
   </channel>
 </rss>
