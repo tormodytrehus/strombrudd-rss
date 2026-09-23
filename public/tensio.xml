@@ -4,7 +4,35 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 07:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:44:46 GMT</lastBuildDate>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">f217c73b977d0b6a1b12</guid>
+      <pubDate>Wed, 23 Sep 2026 07:44:46 GMT</pubDate>
+      <description>Trondheim Vedlikehold 344</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">622d4508d432d0d71a2d</guid>
+      <pubDate>Wed, 23 Sep 2026 07:44:46 GMT</pubDate>
+      <description>Trondheim Vedlikehold 120</description>
+    </item>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">2920fb81ab3ad57bbab8</guid>
+      <pubDate>Wed, 23 Sep 2026 07:44:46 GMT</pubDate>
+      <description>Meråker Vedlikehold 19</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">b419a7cc4a836d12566d</guid>
+      <pubDate>Wed, 23 Sep 2026 07:44:46 GMT</pubDate>
+      <description>Overhalla Vedlikehold 57</description>
+    </item>
     <item>
       <title>Oppdatert strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -676,34 +704,6 @@
       <guid isPermaLink="false">82c7de58975ca71e7eae</guid>
       <pubDate>Wed, 16 Sep 2026 13:19:03 GMT</pubDate>
       <description>Åfjord Vedlikehold 13</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">fd7c460844beaf1c69a2</guid>
-      <pubDate>Wed, 16 Sep 2026 13:19:03 GMT</pubDate>
-      <description>Malvik Vedlikehold 43</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">7a14902351f8bdeac500</guid>
-      <pubDate>Wed, 16 Sep 2026 13:19:03 GMT</pubDate>
-      <description>Hitra Vedlikehold 3</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">129b57cd11fddde14462</guid>
-      <pubDate>Wed, 16 Sep 2026 12:50:29 GMT</pubDate>
-      <description>Hitra Feil 203</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">c1991dafeb205870d718</guid>
-      <pubDate>Wed, 16 Sep 2026 12:50:29 GMT</pubDate>
-      <description>Hitra Vedlikehold 3</description>
     </item>
   </channel>
 </rss>
