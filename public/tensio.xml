@@ -4,7 +4,21 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 10:44:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:58:24 GMT</lastBuildDate>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">b26922383dcdd007a838</guid>
+      <pubDate>Wed, 23 Sep 2026 10:58:24 GMT</pubDate>
+      <description>Trondheim Vedlikehold 344</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">7515a6c6a7660759a020</guid>
+      <pubDate>Wed, 23 Sep 2026 10:58:24 GMT</pubDate>
+      <description>Trondheim Vedlikehold 120</description>
+    </item>
     <item>
       <title>Oppdatert strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -690,20 +704,6 @@
       <guid isPermaLink="false">cf19004d5a276998d614</guid>
       <pubDate>Thu, 17 Sep 2026 21:17:24 GMT</pubDate>
       <description>Melhus Vedlikehold 33</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">33829c2cfab1f91beb27</guid>
-      <pubDate>Thu, 17 Sep 2026 20:42:40 GMT</pubDate>
-      <description>Trondheim Vedlikehold 116</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">9d208eeaad3da4d7f43d</guid>
-      <pubDate>Thu, 17 Sep 2026 13:45:44 GMT</pubDate>
-      <description>Steinkjer Feil 3</description>
     </item>
   </channel>
 </rss>
