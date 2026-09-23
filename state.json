@@ -5,11 +5,37 @@
         "key": "74a8994b78060a4e86e2",
         "contentHash": "589d2b132949264544b0",
         "text": "Overhalla Vedlikehold 18"
+      },
+      "e7e9c42d2a02b91fdcfd": {
+        "key": "e7e9c42d2a02b91fdcfd",
+        "contentHash": "0c03672eb7217a0a33a8",
+        "text": "Selbu Vedlikehold 429"
+      },
+      "329dddfa0197f5fa7011": {
+        "key": "329dddfa0197f5fa7011",
+        "contentHash": "61a897ae8f12af227bf3",
+        "text": "Midtre gauldal Vedlikehold 14"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "4c3a5cc78d78224b5169",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Midtre gauldal Vedlikehold 14",
+      "date": "2026-09-23T21:17:48.088Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "b1fed71ed4a693d45df3",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Selbu Vedlikehold 429",
+      "date": "2026-09-23T21:17:48.088Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c27ddb72439ebff86afa",
       "sourceId": "tensio",
