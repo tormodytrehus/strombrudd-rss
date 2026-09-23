@@ -4,7 +4,21 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 10:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:19:36 GMT</lastBuildDate>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">9c6fc473088cb8b9e9de</guid>
+      <pubDate>Wed, 23 Sep 2026 11:19:36 GMT</pubDate>
+      <description>Trondheim Vedlikehold 344</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">8389aeea25980788dac7</guid>
+      <pubDate>Wed, 23 Sep 2026 11:19:36 GMT</pubDate>
+      <description>Trondheim Vedlikehold 120</description>
+    </item>
     <item>
       <title>Oppdatert strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -690,20 +704,6 @@
       <guid isPermaLink="false">8190bbaddac8e946a738</guid>
       <pubDate>Fri, 18 Sep 2026 21:41:33 GMT</pubDate>
       <description>Avbrudd (strøm)</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">ccf29df670f860b2b509</guid>
-      <pubDate>Fri, 18 Sep 2026 21:41:33 GMT</pubDate>
-      <description>#active_outage 2 2 0 0 9 2026-09-15 13:14 2026-09-21 13:00 2026-09-21 09:00 true false 18708884 0 18034 absolute 8.996678751920248,63.20846912312107,0.0</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">5ca2366d0a08487c724a</guid>
-      <pubDate>Fri, 18 Sep 2026 20:16:36 GMT</pubDate>
-      <description>0 Berørte kunder0 Gjenopprettede kunder4 Berørte kunder</description>
     </item>
   </channel>
 </rss>
