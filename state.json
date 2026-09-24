@@ -21,6 +21,11 @@
         "contentHash": "de4c67ea98c6c61ed705",
         "text": "Snåsa Vedlikehold 295"
       },
+      "05ca0c418a25b96b9737": {
+        "key": "05ca0c418a25b96b9737",
+        "contentHash": "f67d9755404207fe575b",
+        "text": "Meråker Vedlikehold 29"
+      },
       "f22f0e01a31344e2a59c": {
         "key": "f22f0e01a31344e2a59c",
         "contentHash": "a3c509d66ad1ddef9d4e",
@@ -56,6 +61,22 @@
     }
   },
   "events": [
+    {
+      "id": "42b8f767985c365ed557",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-28 09:00history_toggle_offPlanlagt slutt2026-09-28 13:00",
+      "date": "2026-09-24T07:44:59.487Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "f3fc468479130f8d13ab",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Meråker Vedlikehold 29",
+      "date": "2026-09-24T07:44:59.487Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "8aa7d692c8944f82edeb",
       "sourceId": "nettselskapet",
