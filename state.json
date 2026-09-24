@@ -1,20 +1,10 @@
 {
   "current": {
     "tensio": {
-      "74a8994b78060a4e86e2": {
-        "key": "74a8994b78060a4e86e2",
-        "contentHash": "f666a8e0826e7927c0d1",
-        "text": "Overhalla Vedlikehold 14"
-      },
       "6e1e201f5943acf9d77e": {
         "key": "6e1e201f5943acf9d77e",
         "contentHash": "83c4da80f0669b7fe821",
         "text": "Verdal Vedlikehold 9"
-      },
-      "05ca0c418a25b96b9737": {
-        "key": "05ca0c418a25b96b9737",
-        "contentHash": "f67d9755404207fe575b",
-        "text": "Meråker Vedlikehold 29"
       },
       "f22f0e01a31344e2a59c": {
         "key": "f22f0e01a31344e2a59c",
@@ -30,6 +20,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ef8108a7450d97611969",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Meråker Vedlikehold 29",
+      "date": "2026-09-24T09:18:11.536Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "f64a5d6be6acc48a8c34",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Overhalla Vedlikehold 14",
+      "date": "2026-09-24T09:18:11.536Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "06d78d551e7a8acf6a17",
       "sourceId": "tensio",
