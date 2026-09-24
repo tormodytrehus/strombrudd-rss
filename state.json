@@ -1,6 +1,11 @@
 {
   "current": {
     "tensio": {
+      "88580422f61f9f29fccb": {
+        "key": "88580422f61f9f29fccb",
+        "contentHash": "e0a67b8a1a8756a8826a",
+        "text": "Stjørdal Vedlikehold 1"
+      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "f0b92cc4f47223a55751",
@@ -10,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "991337a24b643ee4b930",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Stjørdal Vedlikehold 1",
+      "date": "2026-09-24T10:21:11.488Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "8bfc84bfd65c7ab2e0d6",
       "sourceId": "tensio",
