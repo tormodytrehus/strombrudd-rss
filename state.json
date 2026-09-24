@@ -8,13 +8,21 @@
       },
       "329dddfa0197f5fa7011": {
         "key": "329dddfa0197f5fa7011",
-        "contentHash": "61a897ae8f12af227bf3",
-        "text": "Midtre gauldal Vedlikehold 14"
+        "contentHash": "1b03fb74f5ef99620d54",
+        "text": "Midtre gauldal Vedlikehold 7"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "745ebd3851886b1b507a",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Midtre gauldal Vedlikehold 7",
+      "date": "2026-09-24T01:58:28.236Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "6f657265945f25614cea",
       "sourceId": "tensio",
