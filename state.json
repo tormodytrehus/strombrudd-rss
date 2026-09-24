@@ -11,6 +11,16 @@
         "contentHash": "fbd29f6341908c355db5",
         "text": "Stjørdal Vedlikehold 4"
       },
+      "6e1e201f5943acf9d77e": {
+        "key": "6e1e201f5943acf9d77e",
+        "contentHash": "83c4da80f0669b7fe821",
+        "text": "Verdal Vedlikehold 9"
+      },
+      "f5a1eb4e9342e46d5ba8": {
+        "key": "f5a1eb4e9342e46d5ba8",
+        "contentHash": "57e561880b6f5e44bf70",
+        "text": "Levanger Vedlikehold 8"
+      },
       "f22f0e01a31344e2a59c": {
         "key": "f22f0e01a31344e2a59c",
         "contentHash": "a3c509d66ad1ddef9d4e",
@@ -22,9 +32,86 @@
         "text": "Trondheim Vedlikehold 5"
       }
     },
-    "nettselskapet": {}
+    "nettselskapet": {
+      "68a53d01729a2343ec3e": {
+        "key": "68a53d01729a2343ec3e",
+        "contentHash": "d0e465437b3773702b25",
+        "text": "Avbrudd (strøm)"
+      },
+      "7b044df4148231424c85": {
+        "key": "7b044df4148231424c85",
+        "contentHash": "f68af333b2cb7be0c435",
+        "text": "history_toggle_offPlanlagt start2026-10-01 07:30history_toggle_offPlanlagt slutt2026-10-01 17:30"
+      },
+      "c3cafe760302bb045b61": {
+        "key": "c3cafe760302bb045b61",
+        "contentHash": "c6376e40e38f758f1bef",
+        "text": "scheduleStart2026-09-24 08:33history_toggle_offPlanlagt slutt2026-09-24 12:00"
+      },
+      "10119f21b0fad092288c": {
+        "key": "10119f21b0fad092288c",
+        "contentHash": "0bbe572b863439c791e2",
+        "text": "0 Berørte kunder0 Gjenopprettede kunder16 Berørte kunder405 Gjenopprettede kunder"
+      }
+    }
   },
   "events": [
+    {
+      "id": "71054ec66bc70f0ac7a0",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "0 Berørte kunder0 Gjenopprettede kunder16 Berørte kunder405 Gjenopprettede kunder",
+      "date": "2026-09-24T06:49:11.460Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "ee9eab0ee34249d3695e",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "scheduleStart2026-09-24 08:33history_toggle_offPlanlagt slutt2026-09-24 12:00",
+      "date": "2026-09-24T06:49:11.460Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "0c88a0d429a6b513b545",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-10-01 07:30history_toggle_offPlanlagt slutt2026-10-01 17:30",
+      "date": "2026-09-24T06:49:11.460Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "085f713900869ab38c15",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-28 09:00history_toggle_offPlanlagt slutt2026-09-28 13:00",
+      "date": "2026-09-24T06:49:11.460Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "db50a6632f042656044e",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "Avbrudd (strøm)",
+      "date": "2026-09-24T06:49:11.460Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "00e004634639d5fdbdd3",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Levanger Vedlikehold 8",
+      "date": "2026-09-24T06:49:11.460Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "8d6326a39635ef4d524e",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Verdal Vedlikehold 9",
+      "date": "2026-09-24T06:49:11.460Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "69e9e0e3fe58b330150f",
       "sourceId": "tensio",
