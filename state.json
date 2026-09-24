@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "6e1e201f5943acf9d77e": {
-        "key": "6e1e201f5943acf9d77e",
-        "contentHash": "83c4da80f0669b7fe821",
-        "text": "Verdal Vedlikehold 9"
-      },
       "f22f0e01a31344e2a59c": {
         "key": "f22f0e01a31344e2a59c",
         "contentHash": "a3c509d66ad1ddef9d4e",
@@ -20,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "2211b8a94606b069360b",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Verdal Vedlikehold 9",
+      "date": "2026-09-24T09:44:51.233Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "ef8108a7450d97611969",
       "sourceId": "tensio",
