@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "4d5c96242e3d5269fe26",
-        "text": "Trondheim Vedlikehold 90"
-      },
       "63f39b7cc3d6110b8833": {
         "key": "63f39b7cc3d6110b8833",
         "contentHash": "f5035456d1c94803857d",
@@ -15,6 +10,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c73460e06dcf01ecef2a",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 90",
+      "date": "2026-09-24T17:20:26.269Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "bb96531e2173e6dbec0b",
       "sourceId": "tensio",
