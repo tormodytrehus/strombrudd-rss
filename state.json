@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "f22f0e01a31344e2a59c": {
-        "key": "f22f0e01a31344e2a59c",
-        "contentHash": "a3c509d66ad1ddef9d4e",
-        "text": "Åfjord Vedlikehold 57"
-      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "f0b92cc4f47223a55751",
@@ -15,6 +10,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "8bfc84bfd65c7ab2e0d6",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Åfjord Vedlikehold 57",
+      "date": "2026-09-24T09:59:07.507Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "2211b8a94606b069360b",
       "sourceId": "tensio",
