@@ -4,7 +4,28 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 05:57:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:24:51 GMT</lastBuildDate>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">69e9e0e3fe58b330150f</guid>
+      <pubDate>Thu, 24 Sep 2026 06:24:51 GMT</pubDate>
+      <description>Trondheim Vedlikehold 5</description>
+    </item>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">c2e1899c606fb3811d2e</guid>
+      <pubDate>Thu, 24 Sep 2026 06:24:51 GMT</pubDate>
+      <description>Åfjord Vedlikehold 57</description>
+    </item>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">4db11b46fc43c81a6a5d</guid>
+      <pubDate>Thu, 24 Sep 2026 06:24:51 GMT</pubDate>
+      <description>Stjørdal Vedlikehold 4</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -683,27 +704,6 @@
       <guid isPermaLink="false">fda211d9ac3f9e07c682</guid>
       <pubDate>Tue, 22 Sep 2026 07:17:39 GMT</pubDate>
       <description>Overhalla Vedlikehold 16</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">85b57418e4294ac87294</guid>
-      <pubDate>Tue, 22 Sep 2026 06:48:53 GMT</pubDate>
-      <description>Trondheim Vedlikehold 13</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">276a501e700db5a897b6</guid>
-      <pubDate>Mon, 21 Sep 2026 10:43:04 GMT</pubDate>
-      <description>Nærøysund Vedlikehold 8</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">c36529df1b088847fdf9</guid>
-      <pubDate>Mon, 21 Sep 2026 08:59:03 GMT</pubDate>
-      <description>Tynset Vedlikehold 12</description>
     </item>
   </channel>
 </rss>

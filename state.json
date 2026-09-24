@@ -5,11 +5,50 @@
         "key": "74a8994b78060a4e86e2",
         "contentHash": "589d2b132949264544b0",
         "text": "Overhalla Vedlikehold 18"
+      },
+      "88580422f61f9f29fccb": {
+        "key": "88580422f61f9f29fccb",
+        "contentHash": "fbd29f6341908c355db5",
+        "text": "Stjørdal Vedlikehold 4"
+      },
+      "f22f0e01a31344e2a59c": {
+        "key": "f22f0e01a31344e2a59c",
+        "contentHash": "a3c509d66ad1ddef9d4e",
+        "text": "Åfjord Vedlikehold 57"
+      },
+      "ecbf81a0987c04a703c6": {
+        "key": "ecbf81a0987c04a703c6",
+        "contentHash": "f0b92cc4f47223a55751",
+        "text": "Trondheim Vedlikehold 5"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "69e9e0e3fe58b330150f",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 5",
+      "date": "2026-09-24T06:24:51.676Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "c2e1899c606fb3811d2e",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Åfjord Vedlikehold 57",
+      "date": "2026-09-24T06:24:51.676Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "4db11b46fc43c81a6a5d",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Stjørdal Vedlikehold 4",
+      "date": "2026-09-24T06:24:51.676Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "f79b72bb6e3603e23785",
       "sourceId": "tensio",
