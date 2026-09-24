@@ -5,16 +5,19 @@
         "key": "74a8994b78060a4e86e2",
         "contentHash": "589d2b132949264544b0",
         "text": "Overhalla Vedlikehold 18"
-      },
-      "329dddfa0197f5fa7011": {
-        "key": "329dddfa0197f5fa7011",
-        "contentHash": "1b03fb74f5ef99620d54",
-        "text": "Midtre gauldal Vedlikehold 7"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "f79b72bb6e3603e23785",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Midtre gauldal Vedlikehold 7",
+      "date": "2026-09-24T02:19:43.012Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "745ebd3851886b1b507a",
       "sourceId": "tensio",
