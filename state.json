@@ -6,11 +6,6 @@
         "contentHash": "589d2b132949264544b0",
         "text": "Overhalla Vedlikehold 18"
       },
-      "88580422f61f9f29fccb": {
-        "key": "88580422f61f9f29fccb",
-        "contentHash": "fbd29f6341908c355db5",
-        "text": "Stjørdal Vedlikehold 4"
-      },
       "6e1e201f5943acf9d77e": {
         "key": "6e1e201f5943acf9d77e",
         "contentHash": "83c4da80f0669b7fe821",
@@ -20,6 +15,11 @@
         "key": "f5a1eb4e9342e46d5ba8",
         "contentHash": "57e561880b6f5e44bf70",
         "text": "Levanger Vedlikehold 8"
+      },
+      "b4d4636075b5f03dbc51": {
+        "key": "b4d4636075b5f03dbc51",
+        "contentHash": "de4c67ea98c6c61ed705",
+        "text": "Snåsa Vedlikehold 295"
       },
       "f22f0e01a31344e2a59c": {
         "key": "f22f0e01a31344e2a59c",
@@ -56,6 +56,30 @@
     }
   },
   "events": [
+    {
+      "id": "8aa7d692c8944f82edeb",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-28 09:00history_toggle_offPlanlagt slutt2026-09-28 13:00",
+      "date": "2026-09-24T07:18:13.928Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "018215f9a0342c934a5f",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Stjørdal Vedlikehold 4",
+      "date": "2026-09-24T07:18:13.928Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "965ea157dba40b82a183",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Snåsa Vedlikehold 295",
+      "date": "2026-09-24T07:18:13.928Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "71054ec66bc70f0ac7a0",
       "sourceId": "nettselskapet",
