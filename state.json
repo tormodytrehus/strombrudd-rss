@@ -5,16 +5,19 @@
         "key": "88580422f61f9f29fccb",
         "contentHash": "e0a67b8a1a8756a8826a",
         "text": "Stjørdal Vedlikehold 1"
-      },
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "f0b92cc4f47223a55751",
-        "text": "Trondheim Vedlikehold 5"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "3ff755dc4ef5a10ef177",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 5",
+      "date": "2026-09-24T10:58:42.796Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "991337a24b643ee4b930",
       "sourceId": "tensio",
