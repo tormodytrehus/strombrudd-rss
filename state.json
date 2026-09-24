@@ -3,28 +3,18 @@
     "tensio": {
       "74a8994b78060a4e86e2": {
         "key": "74a8994b78060a4e86e2",
-        "contentHash": "589d2b132949264544b0",
-        "text": "Overhalla Vedlikehold 18"
+        "contentHash": "f666a8e0826e7927c0d1",
+        "text": "Overhalla Vedlikehold 14"
       },
       "6e1e201f5943acf9d77e": {
         "key": "6e1e201f5943acf9d77e",
         "contentHash": "83c4da80f0669b7fe821",
         "text": "Verdal Vedlikehold 9"
       },
-      "f5a1eb4e9342e46d5ba8": {
-        "key": "f5a1eb4e9342e46d5ba8",
-        "contentHash": "57e561880b6f5e44bf70",
-        "text": "Levanger Vedlikehold 8"
-      },
       "05ca0c418a25b96b9737": {
         "key": "05ca0c418a25b96b9737",
         "contentHash": "f67d9755404207fe575b",
         "text": "Meråker Vedlikehold 29"
-      },
-      "b4d4636075b5f03dbc51": {
-        "key": "b4d4636075b5f03dbc51",
-        "contentHash": "4388a1652b3718bce730",
-        "text": "Snåsa Vedlikehold 178"
       },
       "f22f0e01a31344e2a59c": {
         "key": "f22f0e01a31344e2a59c",
@@ -40,6 +30,30 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "06d78d551e7a8acf6a17",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Snåsa Vedlikehold 178",
+      "date": "2026-09-24T08:46:12.498Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "b2d97ed0033e1f0f083d",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Levanger Vedlikehold 8",
+      "date": "2026-09-24T08:46:12.498Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "05379b67daa9019ab69d",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Overhalla Vedlikehold 14",
+      "date": "2026-09-24T08:46:12.498Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "7aa7b9c5017e8da8d2e9",
       "sourceId": "nettselskapet",
