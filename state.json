@@ -62,6 +62,14 @@
   },
   "events": [
     {
+      "id": "85b483ed8149184070c8",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-28 09:00history_toggle_offPlanlagt slutt2026-09-28 13:00",
+      "date": "2026-09-24T07:58:47.709Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
       "id": "42b8f767985c365ed557",
       "sourceId": "nettselskapet",
       "title": "Oppdatert strømbrudd hos Nettselskapet AS",
