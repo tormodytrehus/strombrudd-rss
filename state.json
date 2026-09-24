@@ -1,9 +1,36 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "ecbf81a0987c04a703c6": {
+        "key": "ecbf81a0987c04a703c6",
+        "contentHash": "4d5c96242e3d5269fe26",
+        "text": "Trondheim Vedlikehold 90"
+      },
+      "63f39b7cc3d6110b8833": {
+        "key": "63f39b7cc3d6110b8833",
+        "contentHash": "f5035456d1c94803857d",
+        "text": "Hitra Vedlikehold 3"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "bb96531e2173e6dbec0b",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Hitra Vedlikehold 3",
+      "date": "2026-09-24T15:18:38.996Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "52674e22b10dfa8dfb3c",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 90",
+      "date": "2026-09-24T15:18:38.996Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "cf08199c84bc609bb36f",
       "sourceId": "tensio",
