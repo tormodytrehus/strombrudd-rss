@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "f40864139fda64a0181c": {
+        "key": "f40864139fda64a0181c",
+        "contentHash": "68dea981ca2ffc51a3ae",
+        "text": "Namsos Feil 50"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "00b9a99878e94a771b41",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Namsos Feil 50",
+      "date": "2026-09-25T13:18:57.129Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "3e47e17184d12a6731ee",
       "sourceId": "tensio",
