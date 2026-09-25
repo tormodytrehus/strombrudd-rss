@@ -5,11 +5,37 @@
         "key": "962fb702874b0c718803",
         "contentHash": "afd351ffafdd273fd5b2",
         "text": "Steinkjer Vedlikehold 28"
+      },
+      "63f39b7cc3d6110b8833": {
+        "key": "63f39b7cc3d6110b8833",
+        "contentHash": "00b75c77aaeea374e24b",
+        "text": "Hitra Vedlikehold 36"
+      },
+      "eee8b1963c45c95e42d8": {
+        "key": "eee8b1963c45c95e42d8",
+        "contentHash": "a94bb5e2bfd63cbffb4f",
+        "text": "Frøya Vedlikehold 13"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c8845807034052d98106",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Frøya Vedlikehold 13",
+      "date": "2026-09-25T07:44:51.649Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "3e5723f3629fba98042c",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Hitra Vedlikehold 36",
+      "date": "2026-09-25T07:44:51.649Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "047fc7c42b5d6e8e00d3",
       "sourceId": "tensio",
