@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "962fb702874b0c718803": {
+        "key": "962fb702874b0c718803",
+        "contentHash": "afd351ffafdd273fd5b2",
+        "text": "Steinkjer Vedlikehold 28"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "047fc7c42b5d6e8e00d3",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Steinkjer Vedlikehold 28",
+      "date": "2026-09-25T07:18:11.911Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c9a66aa1c4ec709e6468",
       "sourceId": "tensio",
