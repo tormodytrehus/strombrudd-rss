@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "eee8b1963c45c95e42d8": {
-        "key": "eee8b1963c45c95e42d8",
-        "contentHash": "a94bb5e2bfd63cbffb4f",
-        "text": "Frøya Vedlikehold 13"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "3e47e17184d12a6731ee",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Frøya Vedlikehold 13",
+      "date": "2026-09-25T10:44:33.067Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c48288da01288f36ff4a",
       "sourceId": "tensio",
