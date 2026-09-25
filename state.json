@@ -6,11 +6,6 @@
         "contentHash": "afd351ffafdd273fd5b2",
         "text": "Steinkjer Vedlikehold 28"
       },
-      "63f39b7cc3d6110b8833": {
-        "key": "63f39b7cc3d6110b8833",
-        "contentHash": "00b75c77aaeea374e24b",
-        "text": "Hitra Vedlikehold 36"
-      },
       "eee8b1963c45c95e42d8": {
         "key": "eee8b1963c45c95e42d8",
         "contentHash": "a94bb5e2bfd63cbffb4f",
@@ -20,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "a33a0f3bc4eb384b2593",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Hitra Vedlikehold 36",
+      "date": "2026-09-25T08:45:48.734Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c8845807034052d98106",
       "sourceId": "tensio",
