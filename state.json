@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "bdc586255a7712150ee7": {
+        "key": "bdc586255a7712150ee7",
+        "contentHash": "8ab4f4d53e96c664ccdf",
+        "text": "Snåsa Feil 162"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "96998befc5046eb42a98",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Snåsa Feil 162",
+      "date": "2026-09-25T21:19:43.596Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "653fb3ad260ee7ed4b3c",
       "sourceId": "tensio",
