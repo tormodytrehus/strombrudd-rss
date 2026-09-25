@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "962fb702874b0c718803": {
-        "key": "962fb702874b0c718803",
-        "contentHash": "afd351ffafdd273fd5b2",
-        "text": "Steinkjer Vedlikehold 28"
-      },
       "eee8b1963c45c95e42d8": {
         "key": "eee8b1963c45c95e42d8",
         "contentHash": "a94bb5e2bfd63cbffb4f",
@@ -15,6 +10,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c48288da01288f36ff4a",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Vedlikehold 28",
+      "date": "2026-09-25T09:17:39.128Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "a33a0f3bc4eb384b2593",
       "sourceId": "tensio",
