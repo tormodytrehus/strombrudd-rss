@@ -3,13 +3,21 @@
     "tensio": {
       "f40864139fda64a0181c": {
         "key": "f40864139fda64a0181c",
-        "contentHash": "7c98d96e0e77771e9571",
-        "text": "Namsos Feil 32"
+        "contentHash": "0848dc57f11d2fbd5c07",
+        "text": "Namsos Feil 12"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "8ed065ce47744773323b",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Namsos Feil 12",
+      "date": "2026-09-25T14:46:06.398Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "123963f848f2f541eeed",
       "sourceId": "tensio",
