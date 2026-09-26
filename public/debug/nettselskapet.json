@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-26T08:57:34.891Z",
+  "checkedAt": "2026-09-26T09:18:01.002Z",
   "url": "https://nettselskapetpg.digpro.se/outagemap2/?app=fpp&cust=nsl",
   "title": "Outage Map",
   "bodyText": "search menu check_circle Ingen pågående strømbrudd my_location + - © OpenStreetMap Contributors",
@@ -93,20 +93,16 @@
       "url": "https://nettselskapetpg.digpro.se/bios/rest/outagemap/lang/nsl/no"
     },
     {
-      "status": 200,
-      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
-    },
-    {
-      "status": 200,
-      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
-    },
-    {
       "status": 404,
       "url": "https://nettselskapetpg.digpro.se/bios/site/concession.kml"
     },
     {
       "status": 200,
-      "url": "https://openstreetmap.digpro.se/photon/api?q=&limit=5&lat=63.5&lon=9.66&bbox=7.645145988218088,62.60067963627547,11.674854011781912,64.39932036372454"
+      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
+    },
+    {
+      "status": 200,
+      "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesDisturbanceInfo?app=fpp_nsl"
     },
     {
       "status": 200,
@@ -115,6 +111,10 @@
     {
       "status": 200,
       "url": "https://nettselskapetpg.digpro.se/bios/servlet/sys.outagemap.servlets.api.GetOutagesKML?app=fpp_nsl"
+    },
+    {
+      "status": 200,
+      "url": "https://openstreetmap.digpro.se/photon/api?q=&limit=5&lat=63.5&lon=9.66&bbox=7.645145988218088,62.60067963627547,11.674854011781912,64.39932036372454"
     }
   ],
   "apiResponses": [
