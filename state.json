@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "5c4a0e3950b8f7f4828a": {
+        "key": "5c4a0e3950b8f7f4828a",
+        "contentHash": "6a39471d6c098ba33d3f",
+        "text": "Verdal Feil 80"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "bf4c495d8a6920cdca8e",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Verdal Feil 80",
+      "date": "2026-09-26T08:43:45.267Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "f045959b33115e34fe77",
       "sourceId": "tensio",
