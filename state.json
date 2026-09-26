@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "6079957086e5e64cea21": {
+        "key": "6079957086e5e64cea21",
+        "contentHash": "9334ad368eacce2af098",
+        "text": "Trondheim Feil 11"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c3883e4b03fb2fbf6788",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Feil 11",
+      "date": "2026-09-26T15:17:14.950Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "b144e305f6054cf3dd70",
       "sourceId": "tensio",
