@@ -4,7 +4,14 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 04:57:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:17:36 GMT</lastBuildDate>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">f215f31de10740a82ea9</guid>
+      <pubDate>Sat, 26 Sep 2026 05:17:36 GMT</pubDate>
+      <description>Snåsa Feil 162</description>
+    </item>
     <item>
       <title>Oppdatert strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">2d233c0c49c55edcf2ab</guid>
       <pubDate>Wed, 23 Sep 2026 06:24:34 GMT</pubDate>
       <description>Skaun Vedlikehold 30</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">208bf2e5ecdefd41042e</guid>
-      <pubDate>Wed, 23 Sep 2026 06:24:34 GMT</pubDate>
-      <description>Overhalla Vedlikehold 57</description>
     </item>
   </channel>
 </rss>
