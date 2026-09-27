@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "e14deee98bb30764948f": {
-        "key": "e14deee98bb30764948f",
-        "contentHash": "1225a6e787e807a45f63",
-        "text": "Malvik Vedlikehold 19"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "f82727bf2bcbe6d3e42e",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Malvik Vedlikehold 19",
+      "date": "2026-09-27T11:17:04.635Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "86fe785bec365172ea5d",
       "sourceId": "tensio",
