@@ -6,11 +6,6 @@
         "contentHash": "98f7abf3eef000e32c6b",
         "text": "Flatanger Vedlikehold 1"
       },
-      "63f39b7cc3d6110b8833": {
-        "key": "63f39b7cc3d6110b8833",
-        "contentHash": "18979a76303242c7d52c",
-        "text": "Hitra Vedlikehold 4"
-      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "f0b92cc4f47223a55751",
@@ -20,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "1e30f6484358a5440da7",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Hitra Vedlikehold 4",
+      "date": "2026-09-28T12:23:49.357Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "7117466ed54205344750",
       "sourceId": "tensio",
