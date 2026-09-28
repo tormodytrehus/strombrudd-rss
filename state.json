@@ -5,16 +5,19 @@
         "key": "9093f0e9222e32993cfa",
         "contentHash": "98f7abf3eef000e32c6b",
         "text": "Flatanger Vedlikehold 1"
-      },
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "f0b92cc4f47223a55751",
-        "text": "Trondheim Vedlikehold 5"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "18135ee2a9b99c356b0f",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 5",
+      "date": "2026-09-28T13:19:33.933Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "1e30f6484358a5440da7",
       "sourceId": "tensio",
