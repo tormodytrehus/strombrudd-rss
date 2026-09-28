@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "4d842263c94a4d4ca817": {
+        "key": "4d842263c94a4d4ca817",
+        "contentHash": "771213f8cabc6819a272",
+        "text": "Skaun Vedlikehold 29"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "bfe65bf1288c035b5a45",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Skaun Vedlikehold 29",
+      "date": "2026-09-28T06:25:33.058Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "f82727bf2bcbe6d3e42e",
       "sourceId": "tensio",
