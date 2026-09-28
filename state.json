@@ -1,10 +1,10 @@
 {
   "current": {
     "tensio": {
-      "4d842263c94a4d4ca817": {
-        "key": "4d842263c94a4d4ca817",
-        "contentHash": "771213f8cabc6819a272",
-        "text": "Skaun Vedlikehold 29"
+      "9093f0e9222e32993cfa": {
+        "key": "9093f0e9222e32993cfa",
+        "contentHash": "98f7abf3eef000e32c6b",
+        "text": "Flatanger Vedlikehold 1"
       },
       "562e46f5cd98895f928b": {
         "key": "562e46f5cd98895f928b",
@@ -20,6 +20,11 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "f0b92cc4f47223a55751",
         "text": "Trondheim Vedlikehold 5"
+      },
+      "4d842263c94a4d4ca817": {
+        "key": "4d842263c94a4d4ca817",
+        "contentHash": "771213f8cabc6819a272",
+        "text": "Skaun Vedlikehold 29"
       }
     },
     "nettselskapet": {
@@ -38,14 +43,54 @@
         "contentHash": "1319b56b146c45f320bf",
         "text": "scheduleStart2026-09-28 09:00history_toggle_offPlanlagt slutt2026-09-28 13:00"
       },
-      "f8aa5bd0c490162357b2": {
-        "key": "f8aa5bd0c490162357b2",
-        "contentHash": "ae87ae395dc6d309d723",
-        "text": "0 Berørte kunder0 Gjenopprettede kunder55 Berørte kunder20 Berørte kunder"
+      "10119f21b0fad092288c": {
+        "key": "10119f21b0fad092288c",
+        "contentHash": "6fe96777fee4090c2de1",
+        "text": "0 Berørte kunder0 Gjenopprettede kunder20 Berørte kunder55 Gjenopprettede kunder"
       }
     }
   },
   "events": [
+    {
+      "id": "fb71a0f10cf25ff5ea0d",
+      "sourceId": "nettselskapet",
+      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
+      "description": "0 Berørte kunder0 Gjenopprettede kunder55 Berørte kunder20 Berørte kunder",
+      "date": "2026-09-28T08:47:42.052Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "4263319d93479f2e4b11",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "0 Berørte kunder0 Gjenopprettede kunder20 Berørte kunder55 Gjenopprettede kunder",
+      "date": "2026-09-28T08:47:42.052Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "d6845c4bfb08fe6a1043",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-30 09:00history_toggle_offPlanlagt slutt2026-09-30 10:00",
+      "date": "2026-09-28T08:47:42.052Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "33aa20235569b0a288c3",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-29 09:00history_toggle_offPlanlagt slutt2026-09-29 15:00",
+      "date": "2026-09-28T08:47:42.052Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "3bbaaf70d9a8507b12b8",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Flatanger Vedlikehold 1",
+      "date": "2026-09-28T08:47:42.052Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "0aa18c3180a9a60e3d3e",
       "sourceId": "nettselskapet",
