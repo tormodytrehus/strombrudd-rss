@@ -5,16 +5,19 @@
         "key": "9093f0e9222e32993cfa",
         "contentHash": "98f7abf3eef000e32c6b",
         "text": "Flatanger Vedlikehold 1"
-      },
-      "6079957086e5e64cea21": {
-        "key": "6079957086e5e64cea21",
-        "contentHash": "ba8816eef73ce403f2fe",
-        "text": "Trondheim Feil 1"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "10f0a1bccf2ba1d95b30",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Feil 1",
+      "date": "2026-09-28T17:45:51.224Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "b432ffdd07f7047d4191",
       "sourceId": "tensio",
