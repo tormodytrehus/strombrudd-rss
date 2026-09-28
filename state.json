@@ -6,11 +6,6 @@
         "contentHash": "98f7abf3eef000e32c6b",
         "text": "Flatanger Vedlikehold 1"
       },
-      "562e46f5cd98895f928b": {
-        "key": "562e46f5cd98895f928b",
-        "contentHash": "a8259a9b13e1b45acb92",
-        "text": "Hitra Feil 45"
-      },
       "63f39b7cc3d6110b8833": {
         "key": "63f39b7cc3d6110b8833",
         "contentHash": "18979a76303242c7d52c",
@@ -20,6 +15,11 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "f0b92cc4f47223a55751",
         "text": "Trondheim Vedlikehold 5"
+      },
+      "562e46f5cd98895f928b": {
+        "key": "562e46f5cd98895f928b",
+        "contentHash": "a8259a9b13e1b45acb92",
+        "text": "Hitra Feil 45"
       }
     },
     "nettselskapet": {}
