@@ -13,8 +13,8 @@
       },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
-        "contentHash": "6abd3c8f3268848cc11e",
-        "text": "Trondheim Vedlikehold 128"
+        "contentHash": "f0b92cc4f47223a55751",
+        "text": "Trondheim Vedlikehold 5"
       }
     },
     "nettselskapet": {
@@ -41,6 +41,38 @@
     }
   },
   "events": [
+    {
+      "id": "d530096f4e4b2e46d366",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "scheduleStart2026-09-28 09:01history_toggle_offPlanlagt slutt2026-09-28 13:00",
+      "date": "2026-09-28T07:47:26.323Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "479beb5a1e586d04ce05",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-30 09:00history_toggle_offPlanlagt slutt2026-09-30 10:00",
+      "date": "2026-09-28T07:47:26.323Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "76d539c2affa8366a606",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-29 09:00history_toggle_offPlanlagt slutt2026-09-29 15:00",
+      "date": "2026-09-28T07:47:26.323Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "8383ee3ec79e147cbab2",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 5",
+      "date": "2026-09-28T07:47:26.323Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c22388e16f2d8c2bd27d",
       "sourceId": "nettselskapet",
