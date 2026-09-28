@@ -15,16 +15,19 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "f0b92cc4f47223a55751",
         "text": "Trondheim Vedlikehold 5"
-      },
-      "562e46f5cd98895f928b": {
-        "key": "562e46f5cd98895f928b",
-        "contentHash": "a8259a9b13e1b45acb92",
-        "text": "Hitra Feil 45"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "7117466ed54205344750",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Hitra Feil 45",
+      "date": "2026-09-28T11:48:02.082Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "f49dcf046720a7a47616",
       "sourceId": "nettselskapet",
