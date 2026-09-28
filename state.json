@@ -6,6 +6,11 @@
         "contentHash": "771213f8cabc6819a272",
         "text": "Skaun Vedlikehold 29"
       },
+      "562e46f5cd98895f928b": {
+        "key": "562e46f5cd98895f928b",
+        "contentHash": "a8259a9b13e1b45acb92",
+        "text": "Hitra Feil 45"
+      },
       "63f39b7cc3d6110b8833": {
         "key": "63f39b7cc3d6110b8833",
         "contentHash": "18979a76303242c7d52c",
@@ -41,6 +46,46 @@
     }
   },
   "events": [
+    {
+      "id": "0aa18c3180a9a60e3d3e",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "scheduleStart2026-09-28 09:01history_toggle_offPlanlagt slutt2026-09-28 13:00",
+      "date": "2026-09-28T08:21:54.667Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "93934d971dfabb98ffda",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-30 09:00history_toggle_offPlanlagt slutt2026-09-30 10:00",
+      "date": "2026-09-28T08:21:54.667Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "4e3473be514807e801db",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-29 09:00history_toggle_offPlanlagt slutt2026-09-29 15:00",
+      "date": "2026-09-28T08:21:54.667Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "1a081fa7611d14b02040",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 128",
+      "date": "2026-09-28T08:21:54.667Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "c3e19def0232358ea9bb",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Hitra Feil 45",
+      "date": "2026-09-28T08:21:54.667Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "d530096f4e4b2e46d366",
       "sourceId": "nettselskapet",
