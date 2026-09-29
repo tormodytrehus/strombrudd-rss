@@ -4,7 +4,14 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 04:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 05:17:46 GMT</lastBuildDate>
+    <item>
+      <title>Strømbrudd avsluttet hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">81017010cbae8e134ea4</guid>
+      <pubDate>Tue, 29 Sep 2026 05:17:46 GMT</pubDate>
+      <description>Holtålen Feil 321</description>
+    </item>
     <item>
       <title>Nytt strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">9a7e261cb5499e7f25f5</guid>
       <pubDate>Wed, 23 Sep 2026 09:58:29 GMT</pubDate>
       <description>Inderøy Vedlikehold 40</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">74f5538ffd5ddd807721</guid>
-      <pubDate>Wed, 23 Sep 2026 09:58:29 GMT</pubDate>
-      <description>Trondheim Vedlikehold 344</description>
     </item>
   </channel>
 </rss>

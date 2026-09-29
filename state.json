@@ -5,16 +5,19 @@
         "key": "9093f0e9222e32993cfa",
         "contentHash": "98f7abf3eef000e32c6b",
         "text": "Flatanger Vedlikehold 1"
-      },
-      "e8e4b033b1c921c26e90": {
-        "key": "e8e4b033b1c921c26e90",
-        "contentHash": "2a41036404e7be2eeb75",
-        "text": "Holtålen Feil 321"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "81017010cbae8e134ea4",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Holtålen Feil 321",
+      "date": "2026-09-29T05:17:46.202Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "cac1e2eec93cefb88f06",
       "sourceId": "tensio",
