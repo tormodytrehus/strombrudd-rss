@@ -15,11 +15,24 @@
         "key": "4d842263c94a4d4ca817",
         "contentHash": "3317b6f2f311cfacfef1",
         "text": "Skaun Vedlikehold 7"
+      },
+      "ecbf81a0987c04a703c6": {
+        "key": "ecbf81a0987c04a703c6",
+        "contentHash": "de65225800aa6e02a9f0",
+        "text": "Trondheim Vedlikehold 18"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "07aa6464744eed7f2d18",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 18",
+      "date": "2026-09-29T06:51:28.500Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "08f833a14e5cd933e340",
       "sourceId": "tensio",
