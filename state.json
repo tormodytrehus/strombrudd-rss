@@ -6,10 +6,10 @@
         "contentHash": "98f7abf3eef000e32c6b",
         "text": "Flatanger Vedlikehold 1"
       },
-      "4457bf0280611de7a73a": {
-        "key": "4457bf0280611de7a73a",
-        "contentHash": "5e4c439159057a1bde6a",
-        "text": "Tynset Vedlikehold 22"
+      "fd3295a431284177d663": {
+        "key": "fd3295a431284177d663",
+        "contentHash": "d8842edb840486d732d6",
+        "text": "Inderøy Vedlikehold 15"
       },
       "4d842263c94a4d4ca817": {
         "key": "4d842263c94a4d4ca817",
@@ -22,9 +22,86 @@
         "text": "Trondheim Vedlikehold 18"
       }
     },
-    "nettselskapet": {}
+    "nettselskapet": {
+      "68a53d01729a2343ec3e": {
+        "key": "68a53d01729a2343ec3e",
+        "contentHash": "d0e465437b3773702b25",
+        "text": "Avbrudd (strøm)"
+      },
+      "7b044df4148231424c85": {
+        "key": "7b044df4148231424c85",
+        "contentHash": "f68af333b2cb7be0c435",
+        "text": "history_toggle_offPlanlagt start2026-10-01 07:30history_toggle_offPlanlagt slutt2026-10-01 17:30"
+      },
+      "c3cafe760302bb045b61": {
+        "key": "c3cafe760302bb045b61",
+        "contentHash": "46747fdde3a6220a191e",
+        "text": "scheduleStart2026-09-29 08:58history_toggle_offPlanlagt slutt2026-09-29 15:00"
+      },
+      "4659d3b121b62eaa7b1c": {
+        "key": "4659d3b121b62eaa7b1c",
+        "contentHash": "068ffb981927dd783cdb",
+        "text": "0 Berørte kunder335 Gjenopprettede kunder12 Berørte kunder55 Gjenopprettede kunder20 Gjenopprettede kunder"
+      }
+    }
   },
   "events": [
+    {
+      "id": "c537e4f1a4b41823726c",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "0 Berørte kunder335 Gjenopprettede kunder12 Berørte kunder55 Gjenopprettede kunder20 Gjenopprettede kunder",
+      "date": "2026-09-29T07:19:31.044Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "66c3431ea8212c12cd7f",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "scheduleStart2026-09-29 08:58history_toggle_offPlanlagt slutt2026-09-29 15:00",
+      "date": "2026-09-29T07:19:31.044Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "6c76a0cad8845700226f",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-10-01 07:30history_toggle_offPlanlagt slutt2026-10-01 17:30",
+      "date": "2026-09-29T07:19:31.044Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "8f83d526b43417122c87",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-30 09:00history_toggle_offPlanlagt slutt2026-09-30 10:00",
+      "date": "2026-09-29T07:19:31.044Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "a380d2b7a0de40677e59",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "Avbrudd (strøm)",
+      "date": "2026-09-29T07:19:31.044Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "17c4a922a54767236c56",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Tynset Vedlikehold 22",
+      "date": "2026-09-29T07:19:31.044Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "833a8978e94f3f200ceb",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Inderøy Vedlikehold 15",
+      "date": "2026-09-29T07:19:31.044Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "07aa6464744eed7f2d18",
       "sourceId": "tensio",
