@@ -1,6 +1,11 @@
 {
   "current": {
     "tensio": {
+      "94fbfce874767f985178": {
+        "key": "94fbfce874767f985178",
+        "contentHash": "4a1ec57a1eec2bcd820e",
+        "text": "Nærøysund Vedlikehold 12"
+      },
       "9093f0e9222e32993cfa": {
         "key": "9093f0e9222e32993cfa",
         "contentHash": "98f7abf3eef000e32c6b",
@@ -8,8 +13,8 @@
       },
       "fd3295a431284177d663": {
         "key": "fd3295a431284177d663",
-        "contentHash": "d8842edb840486d732d6",
-        "text": "Inderøy Vedlikehold 15"
+        "contentHash": "12e88079712c31b3b6fd",
+        "text": "Inderøy Vedlikehold 12"
       },
       "4d842263c94a4d4ca817": {
         "key": "4d842263c94a4d4ca817",
@@ -46,6 +51,30 @@
     }
   },
   "events": [
+    {
+      "id": "e6a30cc0039d27c0419a",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-30 09:00history_toggle_offPlanlagt slutt2026-09-30 10:00",
+      "date": "2026-09-29T07:47:03.557Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "d9b0701ba26b645ef5d5",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Inderøy Vedlikehold 12",
+      "date": "2026-09-29T07:47:03.557Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "8e58c00f91f9b4f32ba5",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Nærøysund Vedlikehold 12",
+      "date": "2026-09-29T07:47:03.557Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c537e4f1a4b41823726c",
       "sourceId": "nettselskapet",
