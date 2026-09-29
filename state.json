@@ -6,15 +6,15 @@
         "contentHash": "4a1ec57a1eec2bcd820e",
         "text": "Nærøysund Vedlikehold 12"
       },
-      "9093f0e9222e32993cfa": {
-        "key": "9093f0e9222e32993cfa",
-        "contentHash": "98f7abf3eef000e32c6b",
-        "text": "Flatanger Vedlikehold 1"
-      },
       "fd3295a431284177d663": {
         "key": "fd3295a431284177d663",
         "contentHash": "12e88079712c31b3b6fd",
         "text": "Inderøy Vedlikehold 12"
+      },
+      "9093f0e9222e32993cfa": {
+        "key": "9093f0e9222e32993cfa",
+        "contentHash": "98f7abf3eef000e32c6b",
+        "text": "Flatanger Vedlikehold 1"
       },
       "4d842263c94a4d4ca817": {
         "key": "4d842263c94a4d4ca817",
@@ -25,6 +25,11 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "de65225800aa6e02a9f0",
         "text": "Trondheim Vedlikehold 18"
+      },
+      "3a9021df3e795bc09df6": {
+        "key": "3a9021df3e795bc09df6",
+        "contentHash": "912930acc32799ab1051",
+        "text": "Orkland Vedlikehold 68"
       }
     },
     "nettselskapet": {
@@ -51,6 +56,22 @@
     }
   },
   "events": [
+    {
+      "id": "890b18228aa8dee61021",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-30 09:00history_toggle_offPlanlagt slutt2026-09-30 10:00",
+      "date": "2026-09-29T10:18:56.023Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "8ed4f848e0e957d7324a",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Orkland Vedlikehold 68",
+      "date": "2026-09-29T10:18:56.023Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "4d5f336e8a3ce10ab32d",
       "sourceId": "nettselskapet",
