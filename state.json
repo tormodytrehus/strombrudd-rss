@@ -25,11 +25,6 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "de65225800aa6e02a9f0",
         "text": "Trondheim Vedlikehold 18"
-      },
-      "4457bf0280611de7a73a": {
-        "key": "4457bf0280611de7a73a",
-        "contentHash": "3e832efce29fa2180e86",
-        "text": "Tynset Vedlikehold 48"
       }
     },
     "nettselskapet": {
@@ -56,6 +51,22 @@
     }
   },
   "events": [
+    {
+      "id": "4d5f336e8a3ce10ab32d",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-09-30 09:00history_toggle_offPlanlagt slutt2026-09-30 10:00",
+      "date": "2026-09-29T09:48:40.374Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "45508a80546313567c9f",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Tynset Vedlikehold 48",
+      "date": "2026-09-29T09:48:40.374Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "eef7086b438b6e3e819a",
       "sourceId": "nettselskapet",
