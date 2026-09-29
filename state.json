@@ -1,25 +1,33 @@
 {
   "current": {
-    "tensio": {
-      "9093f0e9222e32993cfa": {
-        "key": "9093f0e9222e32993cfa",
-        "contentHash": "98f7abf3eef000e32c6b",
-        "text": "Flatanger Vedlikehold 1"
-      },
-      "4d842263c94a4d4ca817": {
-        "key": "4d842263c94a4d4ca817",
-        "contentHash": "3317b6f2f311cfacfef1",
-        "text": "Skaun Vedlikehold 7"
-      },
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "fa10f0065fdefe0cab43",
-        "text": "Trondheim Vedlikehold 7"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "872fb116341190889476",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 7",
+      "date": "2026-09-29T11:46:42.738Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "9f2ec4d2f60d04bb51f5",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Skaun Vedlikehold 7",
+      "date": "2026-09-29T11:46:42.738Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "efbfe010acb5ef1b0a98",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Flatanger Vedlikehold 1",
+      "date": "2026-09-29T11:46:42.738Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c573a7deb50e69be8f64",
       "sourceId": "nettselskapet",
