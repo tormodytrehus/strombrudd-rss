@@ -5,11 +5,37 @@
         "key": "9093f0e9222e32993cfa",
         "contentHash": "98f7abf3eef000e32c6b",
         "text": "Flatanger Vedlikehold 1"
+      },
+      "4457bf0280611de7a73a": {
+        "key": "4457bf0280611de7a73a",
+        "contentHash": "5e4c439159057a1bde6a",
+        "text": "Tynset Vedlikehold 22"
+      },
+      "4d842263c94a4d4ca817": {
+        "key": "4d842263c94a4d4ca817",
+        "contentHash": "3317b6f2f311cfacfef1",
+        "text": "Skaun Vedlikehold 7"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "08f833a14e5cd933e340",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Skaun Vedlikehold 7",
+      "date": "2026-09-29T06:22:54.542Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "164fcb1a1e038bba479a",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Tynset Vedlikehold 22",
+      "date": "2026-09-29T06:22:54.542Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "81017010cbae8e134ea4",
       "sourceId": "tensio",
