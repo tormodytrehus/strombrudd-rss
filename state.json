@@ -1,6 +1,11 @@
 {
   "current": {
     "tensio": {
+      "5a67ec7dfaefc1b07f7d": {
+        "key": "5a67ec7dfaefc1b07f7d",
+        "contentHash": "e254504ed020bf953888",
+        "text": "Flatanger Feil 157"
+      },
       "329dddfa0197f5fa7011": {
         "key": "329dddfa0197f5fa7011",
         "contentHash": "078a4f40dfa9ed365554",
@@ -15,6 +20,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "2ff45510c057f8e9045c",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Flatanger Feil 157",
+      "date": "2026-09-30T06:51:34.777Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "fa162b260c407cac61d2",
       "sourceId": "tensio",
