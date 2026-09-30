@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "5a67ec7dfaefc1b07f7d": {
-        "key": "5a67ec7dfaefc1b07f7d",
-        "contentHash": "fd783f5fe1baac3dfdd7",
-        "text": "Flatanger Feil 9"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "a2410aa9687b15c9ea0e",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Flatanger Feil 9",
+      "date": "2026-09-30T13:47:55.374Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "07a250654d3acab476f5",
       "sourceId": "tensio",
