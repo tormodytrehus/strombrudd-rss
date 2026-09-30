@@ -6,11 +6,6 @@
         "contentHash": "fd783f5fe1baac3dfdd7",
         "text": "Flatanger Feil 9"
       },
-      "88580422f61f9f29fccb": {
-        "key": "88580422f61f9f29fccb",
-        "contentHash": "0b6f30ebf51a8e63ebd4",
-        "text": "Stjørdal Vedlikehold 2"
-      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "6abd3c8f3268848cc11e",
@@ -20,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c436285f215ba77b8e3a",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Stjørdal Vedlikehold 2",
+      "date": "2026-09-30T12:54:33.207Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "be94c1534b8c8dcb968b",
       "sourceId": "tensio",
