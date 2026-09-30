@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "62daab8e07da3c90e544": {
-        "key": "62daab8e07da3c90e544",
-        "contentHash": "10265d876cea8e9e796b",
-        "text": "Malvik Feil 71"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "785c9e93f0380decd9ce",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Malvik Feil 71",
+      "date": "2026-09-30T20:23:22.079Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "6026010ec0e83c64d9bd",
       "sourceId": "tensio",
