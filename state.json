@@ -1,20 +1,10 @@
 {
   "current": {
     "tensio": {
-      "f5a1eb4e9342e46d5ba8": {
-        "key": "f5a1eb4e9342e46d5ba8",
-        "contentHash": "170fe5136c602a795202",
-        "text": "Levanger Vedlikehold 32"
-      },
       "e5a7f82a652077fc6dc0": {
         "key": "e5a7f82a652077fc6dc0",
         "contentHash": "cf5cf1021c1b830cb199",
         "text": "Lierne Vedlikehold 5"
-      },
-      "e9205a99c2f0ad9297ba": {
-        "key": "e9205a99c2f0ad9297ba",
-        "contentHash": "f865c6cc78655fd14679",
-        "text": "Stjørdal Feil 1098"
       },
       "5a67ec7dfaefc1b07f7d": {
         "key": "5a67ec7dfaefc1b07f7d",
@@ -25,6 +15,11 @@
         "key": "88580422f61f9f29fccb",
         "contentHash": "0b6f30ebf51a8e63ebd4",
         "text": "Stjørdal Vedlikehold 2"
+      },
+      "e9205a99c2f0ad9297ba": {
+        "key": "e9205a99c2f0ad9297ba",
+        "contentHash": "daedf5b7b87269a5b092",
+        "text": "Stjørdal Feil 193"
       },
       "329dddfa0197f5fa7011": {
         "key": "329dddfa0197f5fa7011",
@@ -45,6 +40,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "3d285cfac120993ad29c",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Levanger Vedlikehold 32",
+      "date": "2026-09-30T08:49:13.681Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "3165fc6c059669b4f242",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Stjørdal Feil 193",
+      "date": "2026-09-30T08:49:13.681Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "ea70435bd13c7f09754f",
       "sourceId": "tensio",
