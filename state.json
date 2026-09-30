@@ -5,16 +5,19 @@
         "key": "5a67ec7dfaefc1b07f7d",
         "contentHash": "fd783f5fe1baac3dfdd7",
         "text": "Flatanger Feil 9"
-      },
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "6abd3c8f3268848cc11e",
-        "text": "Trondheim Vedlikehold 128"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "07a250654d3acab476f5",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 128",
+      "date": "2026-09-30T13:21:59.167Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c436285f215ba77b8e3a",
       "sourceId": "tensio",
