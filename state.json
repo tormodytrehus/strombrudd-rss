@@ -1,9 +1,36 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "329dddfa0197f5fa7011": {
+        "key": "329dddfa0197f5fa7011",
+        "contentHash": "078a4f40dfa9ed365554",
+        "text": "Midtre gauldal Vedlikehold 12"
+      },
+      "ecbf81a0987c04a703c6": {
+        "key": "ecbf81a0987c04a703c6",
+        "contentHash": "6abd3c8f3268848cc11e",
+        "text": "Trondheim Vedlikehold 128"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "fa162b260c407cac61d2",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 128",
+      "date": "2026-09-30T06:23:38.358Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "300ff45d34ee5c35f8f6",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Midtre gauldal Vedlikehold 12",
+      "date": "2026-09-30T06:23:38.358Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "cd6991d5e8e258f9dbb5",
       "sourceId": "tensio",
