@@ -1,10 +1,25 @@
 {
   "current": {
     "tensio": {
+      "f5a1eb4e9342e46d5ba8": {
+        "key": "f5a1eb4e9342e46d5ba8",
+        "contentHash": "170fe5136c602a795202",
+        "text": "Levanger Vedlikehold 32"
+      },
       "5a67ec7dfaefc1b07f7d": {
         "key": "5a67ec7dfaefc1b07f7d",
         "contentHash": "e254504ed020bf953888",
         "text": "Flatanger Feil 157"
+      },
+      "88580422f61f9f29fccb": {
+        "key": "88580422f61f9f29fccb",
+        "contentHash": "0b6f30ebf51a8e63ebd4",
+        "text": "Stjørdal Vedlikehold 2"
+      },
+      "962fb702874b0c718803": {
+        "key": "962fb702874b0c718803",
+        "contentHash": "6365c9751752a146b99b",
+        "text": "Steinkjer Vedlikehold 25"
       },
       "329dddfa0197f5fa7011": {
         "key": "329dddfa0197f5fa7011",
@@ -15,11 +30,48 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "6abd3c8f3268848cc11e",
         "text": "Trondheim Vedlikehold 128"
+      },
+      "035f1ff94929e0bbe339": {
+        "key": "035f1ff94929e0bbe339",
+        "contentHash": "327303f0cf91c7f6d738",
+        "text": "Rennebu Vedlikehold 14"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "01508035023ea1eec5e6",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Rennebu Vedlikehold 14",
+      "date": "2026-09-30T07:20:22.510Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "7a771f383324bc4de6c4",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Steinkjer Vedlikehold 25",
+      "date": "2026-09-30T07:20:22.510Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "e590031b4b91f8e584c2",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Stjørdal Vedlikehold 2",
+      "date": "2026-09-30T07:20:22.510Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "c07dbf3400e3ac1a7e4a",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Levanger Vedlikehold 32",
+      "date": "2026-09-30T07:20:22.510Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "2ff45510c057f8e9045c",
       "sourceId": "tensio",

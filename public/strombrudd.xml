@@ -4,7 +4,35 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 06:51:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:20:22 GMT</lastBuildDate>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">01508035023ea1eec5e6</guid>
+      <pubDate>Wed, 30 Sep 2026 07:20:22 GMT</pubDate>
+      <description>Rennebu Vedlikehold 14</description>
+    </item>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">7a771f383324bc4de6c4</guid>
+      <pubDate>Wed, 30 Sep 2026 07:20:22 GMT</pubDate>
+      <description>Steinkjer Vedlikehold 25</description>
+    </item>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">e590031b4b91f8e584c2</guid>
+      <pubDate>Wed, 30 Sep 2026 07:20:22 GMT</pubDate>
+      <description>Stjørdal Vedlikehold 2</description>
+    </item>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">c07dbf3400e3ac1a7e4a</guid>
+      <pubDate>Wed, 30 Sep 2026 07:20:22 GMT</pubDate>
+      <description>Levanger Vedlikehold 32</description>
+    </item>
     <item>
       <title>Nytt strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -676,34 +704,6 @@
       <guid isPermaLink="false">bf4c495d8a6920cdca8e</guid>
       <pubDate>Sat, 26 Sep 2026 08:43:45 GMT</pubDate>
       <description>Verdal Feil 80</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">f045959b33115e34fe77</guid>
-      <pubDate>Sat, 26 Sep 2026 05:55:58 GMT</pubDate>
-      <description>Snåsa Feil 17</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">a8a1b7d9b514e90d9ccf</guid>
-      <pubDate>Sat, 26 Sep 2026 05:42:37 GMT</pubDate>
-      <description>Snåsa Feil 17</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">f215f31de10740a82ea9</guid>
-      <pubDate>Sat, 26 Sep 2026 05:17:36 GMT</pubDate>
-      <description>Snåsa Feil 162</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">4c1ed62d07d8ace98da9</guid>
-      <pubDate>Sat, 26 Sep 2026 04:57:02 GMT</pubDate>
-      <description>Snåsa Feil 55</description>
     </item>
   </channel>
 </rss>
