@@ -11,10 +11,15 @@
         "contentHash": "cf5cf1021c1b830cb199",
         "text": "Lierne Vedlikehold 5"
       },
+      "e9205a99c2f0ad9297ba": {
+        "key": "e9205a99c2f0ad9297ba",
+        "contentHash": "f865c6cc78655fd14679",
+        "text": "Stjørdal Feil 1098"
+      },
       "5a67ec7dfaefc1b07f7d": {
         "key": "5a67ec7dfaefc1b07f7d",
-        "contentHash": "e254504ed020bf953888",
-        "text": "Flatanger Feil 157"
+        "contentHash": "7777324d02072bf977e5",
+        "text": "Flatanger Feil 88"
       },
       "88580422f61f9f29fccb": {
         "key": "88580422f61f9f29fccb",
@@ -40,6 +45,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ea70435bd13c7f09754f",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Flatanger Feil 88",
+      "date": "2026-09-30T08:21:06.301Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "0af33a1b149b876768ad",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Stjørdal Feil 1098",
+      "date": "2026-09-30T08:21:06.301Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "39cd27c1d32f2379c9d1",
       "sourceId": "tensio",
