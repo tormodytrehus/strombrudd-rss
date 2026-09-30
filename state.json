@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "9093f0e9222e32993cfa": {
-        "key": "9093f0e9222e32993cfa",
-        "contentHash": "98f7abf3eef000e32c6b",
-        "text": "Flatanger Vedlikehold 1"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "cd6991d5e8e258f9dbb5",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Flatanger Vedlikehold 1",
+      "date": "2026-09-30T05:47:13.316Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "010a63f2db723c714df3",
       "sourceId": "tensio",
