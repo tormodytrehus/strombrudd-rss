@@ -6,6 +6,11 @@
         "contentHash": "170fe5136c602a795202",
         "text": "Levanger Vedlikehold 32"
       },
+      "e5a7f82a652077fc6dc0": {
+        "key": "e5a7f82a652077fc6dc0",
+        "contentHash": "cf5cf1021c1b830cb199",
+        "text": "Lierne Vedlikehold 5"
+      },
       "5a67ec7dfaefc1b07f7d": {
         "key": "5a67ec7dfaefc1b07f7d",
         "contentHash": "e254504ed020bf953888",
@@ -15,11 +20,6 @@
         "key": "88580422f61f9f29fccb",
         "contentHash": "0b6f30ebf51a8e63ebd4",
         "text": "Stjørdal Vedlikehold 2"
-      },
-      "962fb702874b0c718803": {
-        "key": "962fb702874b0c718803",
-        "contentHash": "6365c9751752a146b99b",
-        "text": "Steinkjer Vedlikehold 25"
       },
       "329dddfa0197f5fa7011": {
         "key": "329dddfa0197f5fa7011",
@@ -40,6 +40,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "39cd27c1d32f2379c9d1",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Vedlikehold 25",
+      "date": "2026-09-30T07:48:16.698Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "3054af706ae8eefb1e11",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Lierne Vedlikehold 5",
+      "date": "2026-09-30T07:48:16.698Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "01508035023ea1eec5e6",
       "sourceId": "tensio",
