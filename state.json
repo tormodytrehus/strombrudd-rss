@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "e5a7f82a652077fc6dc0": {
-        "key": "e5a7f82a652077fc6dc0",
-        "contentHash": "cf5cf1021c1b830cb199",
-        "text": "Lierne Vedlikehold 5"
-      },
       "5a67ec7dfaefc1b07f7d": {
         "key": "5a67ec7dfaefc1b07f7d",
         "contentHash": "7777324d02072bf977e5",
@@ -16,25 +11,39 @@
         "contentHash": "0b6f30ebf51a8e63ebd4",
         "text": "Stjørdal Vedlikehold 2"
       },
-      "329dddfa0197f5fa7011": {
-        "key": "329dddfa0197f5fa7011",
-        "contentHash": "078a4f40dfa9ed365554",
-        "text": "Midtre gauldal Vedlikehold 12"
-      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "6abd3c8f3268848cc11e",
         "text": "Trondheim Vedlikehold 128"
-      },
-      "035f1ff94929e0bbe339": {
-        "key": "035f1ff94929e0bbe339",
-        "contentHash": "327303f0cf91c7f6d738",
-        "text": "Rennebu Vedlikehold 14"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "0da258b15f485a5db6b3",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Rennebu Vedlikehold 14",
+      "date": "2026-09-30T11:17:19.394Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "8dd404b542bdbe020b8e",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Midtre gauldal Vedlikehold 12",
+      "date": "2026-09-30T11:17:19.394Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "c423fecbbf4bb4a66534",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Lierne Vedlikehold 5",
+      "date": "2026-09-30T11:17:19.394Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "fda32c1a32cdfb3461da",
       "sourceId": "tensio",
