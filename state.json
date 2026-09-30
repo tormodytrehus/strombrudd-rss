@@ -16,16 +16,6 @@
         "contentHash": "0b6f30ebf51a8e63ebd4",
         "text": "Stjørdal Vedlikehold 2"
       },
-      "fb520801aa718f8cdf49": {
-        "key": "fb520801aa718f8cdf49",
-        "contentHash": "a384bb0791c4b59ba976",
-        "text": "Namsos Vedlikehold 7"
-      },
-      "e9205a99c2f0ad9297ba": {
-        "key": "e9205a99c2f0ad9297ba",
-        "contentHash": "94fe653417fd79bba5f7",
-        "text": "Stjørdal Feil 56"
-      },
       "329dddfa0197f5fa7011": {
         "key": "329dddfa0197f5fa7011",
         "contentHash": "078a4f40dfa9ed365554",
@@ -45,6 +35,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "fda32c1a32cdfb3461da",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Stjørdal Feil 56",
+      "date": "2026-09-30T09:49:07.238Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "c7f13d22b3db24efcf69",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Namsos Vedlikehold 7",
+      "date": "2026-09-30T09:49:07.238Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "6cc02d6d84278adbdba3",
       "sourceId": "tensio",
