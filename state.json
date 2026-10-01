@@ -6,10 +6,10 @@
         "contentHash": "16b7064b81f40256f37b",
         "text": "Indre fosen Vedlikehold 11"
       },
-      "962fb702874b0c718803": {
-        "key": "962fb702874b0c718803",
-        "contentHash": "c245e57fa2def8e10861",
-        "text": "Steinkjer Vedlikehold 90"
+      "94fbfce874767f985178": {
+        "key": "94fbfce874767f985178",
+        "contentHash": "ddfcb667bf7a21488fed",
+        "text": "Nærøysund Vedlikehold 2"
       },
       "4457bf0280611de7a73a": {
         "key": "4457bf0280611de7a73a",
@@ -30,6 +30,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "3418bf004598052546b0",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Vedlikehold 90",
+      "date": "2026-10-01T08:21:12.146Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "01b48bcd172d3022b978",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Nærøysund Vedlikehold 2",
+      "date": "2026-10-01T08:21:12.146Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "85b1832e8abc0621236a",
       "sourceId": "tensio",
