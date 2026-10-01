@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "fb4610f97734cd7c6cbf": {
-        "key": "fb4610f97734cd7c6cbf",
-        "contentHash": "16b7064b81f40256f37b",
-        "text": "Indre fosen Vedlikehold 11"
-      },
       "94fbfce874767f985178": {
         "key": "94fbfce874767f985178",
         "contentHash": "ddfcb667bf7a21488fed",
@@ -30,6 +25,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "f0d1950d840e50a63691",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Indre fosen Vedlikehold 11",
+      "date": "2026-10-01T08:49:03.261Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "3418bf004598052546b0",
       "sourceId": "tensio",
