@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "7a4fee176c622993970a": {
+        "key": "7a4fee176c622993970a",
+        "contentHash": "7eb607ad9f3a69bf6ee1",
+        "text": "Frøya Feil 96"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "82df7647b2084865a117",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Frøya Feil 96",
+      "date": "2026-10-01T13:49:23.860Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "d21bf822c703c0370465",
       "sourceId": "tensio",
