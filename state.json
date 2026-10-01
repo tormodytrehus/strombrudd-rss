@@ -1,10 +1,15 @@
 {
   "current": {
     "tensio": {
-      "94fbfce874767f985178": {
-        "key": "94fbfce874767f985178",
-        "contentHash": "ddfcb667bf7a21488fed",
-        "text": "Nærøysund Vedlikehold 2"
+      "85ff6358796bff6993bb": {
+        "key": "85ff6358796bff6993bb",
+        "contentHash": "8fe8f30d100fc0c9338d",
+        "text": "Steinkjer Feil 1"
+      },
+      "6e1e201f5943acf9d77e": {
+        "key": "6e1e201f5943acf9d77e",
+        "contentHash": "d44e713a8aed32079fb0",
+        "text": "Verdal Vedlikehold 4"
       },
       "4457bf0280611de7a73a": {
         "key": "4457bf0280611de7a73a",
@@ -25,6 +30,30 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ab500adc7b808350d958",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Nærøysund Vedlikehold 2",
+      "date": "2026-10-01T11:18:27.170Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "edde3dadb69937d4a37f",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Verdal Vedlikehold 4",
+      "date": "2026-10-01T11:18:27.170Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "c2673788a799bbd3561f",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Steinkjer Feil 1",
+      "date": "2026-10-01T11:18:27.170Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "5220150b942de7d204f2",
       "sourceId": "tensio",
