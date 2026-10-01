@@ -1,20 +1,28 @@
 {
   "current": {
     "tensio": {
+      "4223e467e385aae49c3f": {
+        "key": "4223e467e385aae49c3f",
+        "contentHash": "4c241e5d5ebc24d1fb40",
+        "text": "Frosta Vedlikehold 63"
+      },
       "85ff6358796bff6993bb": {
         "key": "85ff6358796bff6993bb",
         "contentHash": "12b708dbcd2bb712601c",
         "text": "Steinkjer Feil 139"
-      },
-      "4223e467e385aae49c3f": {
-        "key": "4223e467e385aae49c3f",
-        "contentHash": "f572f9125112641d63d5",
-        "text": "Frosta Vedlikehold 30"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "727edf193c6ec3d23e11",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Frosta Vedlikehold 63",
+      "date": "2026-10-01T20:23:27.642Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "d77b395587097f089c98",
       "sourceId": "tensio",
