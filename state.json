@@ -5,16 +5,19 @@
         "key": "4223e467e385aae49c3f",
         "contentHash": "4c241e5d5ebc24d1fb40",
         "text": "Frosta Vedlikehold 63"
-      },
-      "85ff6358796bff6993bb": {
-        "key": "85ff6358796bff6993bb",
-        "contentHash": "12b708dbcd2bb712601c",
-        "text": "Steinkjer Feil 139"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "a63d119e1ec7eec5dea1",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Feil 139",
+      "date": "2026-10-01T21:24:10.268Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "727edf193c6ec3d23e11",
       "sourceId": "tensio",
