@@ -1,35 +1,49 @@
 {
   "current": {
-    "tensio": {
-      "85ff6358796bff6993bb": {
-        "key": "85ff6358796bff6993bb",
-        "contentHash": "8fe8f30d100fc0c9338d",
-        "text": "Steinkjer Feil 1"
-      },
-      "6e1e201f5943acf9d77e": {
-        "key": "6e1e201f5943acf9d77e",
-        "contentHash": "d44e713a8aed32079fb0",
-        "text": "Verdal Vedlikehold 4"
-      },
-      "4457bf0280611de7a73a": {
-        "key": "4457bf0280611de7a73a",
-        "contentHash": "96541101a6fd83be8f56",
-        "text": "Tynset Vedlikehold 12"
-      },
-      "329dddfa0197f5fa7011": {
-        "key": "329dddfa0197f5fa7011",
-        "contentHash": "f475b392abc59c7ecb25",
-        "text": "Midtre gauldal Vedlikehold 10"
-      },
-      "fc3696f8546df39fdc20": {
-        "key": "fc3696f8546df39fdc20",
-        "contentHash": "75092c62c87420d742cc",
-        "text": "Oppdal Feil 5"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "d21bf822c703c0370465",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Oppdal Feil 5",
+      "date": "2026-10-01T11:47:12.292Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "e5794ee64e5ef978814e",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Midtre gauldal Vedlikehold 10",
+      "date": "2026-10-01T11:47:12.292Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "bca3a3a21794ba703652",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Tynset Vedlikehold 12",
+      "date": "2026-10-01T11:47:12.292Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "ca500eb2e8b0e8e969df",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Verdal Vedlikehold 4",
+      "date": "2026-10-01T11:47:12.292Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "5ba71753ddd57734a276",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Feil 1",
+      "date": "2026-10-01T11:47:12.292Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "ab500adc7b808350d958",
       "sourceId": "tensio",
