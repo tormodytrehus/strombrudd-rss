@@ -16,15 +16,31 @@
         "contentHash": "f475b392abc59c7ecb25",
         "text": "Midtre gauldal Vedlikehold 10"
       },
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "5afa6512275a2f019537",
-        "text": "Trondheim Vedlikehold 14"
+      "fc3696f8546df39fdc20": {
+        "key": "fc3696f8546df39fdc20",
+        "contentHash": "75092c62c87420d742cc",
+        "text": "Oppdal Feil 5"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "5220150b942de7d204f2",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 14",
+      "date": "2026-10-01T09:20:18.568Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "fdb979ba4f56f3170298",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Oppdal Feil 5",
+      "date": "2026-10-01T09:20:18.568Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "f0d1950d840e50a63691",
       "sourceId": "tensio",
