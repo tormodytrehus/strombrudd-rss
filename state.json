@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "4457bf0280611de7a73a": {
+        "key": "4457bf0280611de7a73a",
+        "contentHash": "96541101a6fd83be8f56",
+        "text": "Tynset Vedlikehold 12"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c1a287ffa864f4db6161",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Tynset Vedlikehold 12",
+      "date": "2026-10-01T06:25:58.180Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "b4f8f211844d12422d9a",
       "sourceId": "tensio",
