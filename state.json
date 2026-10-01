@@ -8,13 +8,21 @@
       },
       "4223e467e385aae49c3f": {
         "key": "4223e467e385aae49c3f",
-        "contentHash": "0ebe68f6c5caaa98c463",
-        "text": "Frosta Vedlikehold 12"
+        "contentHash": "09f09336afbb57bad7c6",
+        "text": "Frosta Vedlikehold 16"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "ca99cad79dcbf047a39e",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Frosta Vedlikehold 16",
+      "date": "2026-10-01T19:49:54.714Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "79e13e594f7038e03497",
       "sourceId": "tensio",
