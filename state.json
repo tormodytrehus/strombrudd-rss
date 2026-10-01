@@ -1,15 +1,67 @@
 {
   "current": {
     "tensio": {
+      "fb4610f97734cd7c6cbf": {
+        "key": "fb4610f97734cd7c6cbf",
+        "contentHash": "16b7064b81f40256f37b",
+        "text": "Indre fosen Vedlikehold 11"
+      },
+      "962fb702874b0c718803": {
+        "key": "962fb702874b0c718803",
+        "contentHash": "c245e57fa2def8e10861",
+        "text": "Steinkjer Vedlikehold 90"
+      },
       "4457bf0280611de7a73a": {
         "key": "4457bf0280611de7a73a",
         "contentHash": "96541101a6fd83be8f56",
         "text": "Tynset Vedlikehold 12"
+      },
+      "329dddfa0197f5fa7011": {
+        "key": "329dddfa0197f5fa7011",
+        "contentHash": "f475b392abc59c7ecb25",
+        "text": "Midtre gauldal Vedlikehold 10"
+      },
+      "ecbf81a0987c04a703c6": {
+        "key": "ecbf81a0987c04a703c6",
+        "contentHash": "5afa6512275a2f019537",
+        "text": "Trondheim Vedlikehold 14"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "85b1832e8abc0621236a",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 14",
+      "date": "2026-10-01T07:21:31.943Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "cefef8bb3d8e250465fd",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Midtre gauldal Vedlikehold 10",
+      "date": "2026-10-01T07:21:31.943Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "9ebec5e671663e72ee64",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Steinkjer Vedlikehold 90",
+      "date": "2026-10-01T07:21:31.943Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "9cecb1bf7c185e1725eb",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Indre fosen Vedlikehold 11",
+      "date": "2026-10-01T07:21:31.943Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c1a287ffa864f4db6161",
       "sourceId": "tensio",
