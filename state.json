@@ -5,16 +5,19 @@
         "key": "85ff6358796bff6993bb",
         "contentHash": "12b708dbcd2bb712601c",
         "text": "Steinkjer Feil 139"
-      },
-      "7a4fee176c622993970a": {
-        "key": "7a4fee176c622993970a",
-        "contentHash": "7eb607ad9f3a69bf6ee1",
-        "text": "Frøya Feil 96"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "62647a69da30b6fb66ae",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Frøya Feil 96",
+      "date": "2026-10-01T15:52:41.886Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "273274ea5839c1b9a095",
       "sourceId": "tensio",
