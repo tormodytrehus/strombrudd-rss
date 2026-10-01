@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "6079957086e5e64cea21": {
+        "key": "6079957086e5e64cea21",
+        "contentHash": "0d4f8a970d6bc3f8a12a",
+        "text": "Trondheim Feil 529"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c5751d1efbd237d09b16",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Feil 529",
+      "date": "2026-10-01T02:20:01.344Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "785c9e93f0380decd9ce",
       "sourceId": "tensio",
