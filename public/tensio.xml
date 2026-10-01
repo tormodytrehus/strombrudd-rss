@@ -4,7 +4,14 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 13:49:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:21:52 GMT</lastBuildDate>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">273274ea5839c1b9a095</guid>
+      <pubDate>Thu, 01 Oct 2026 14:21:52 GMT</pubDate>
+      <description>Steinkjer Feil 139</description>
+    </item>
     <item>
       <title>Nytt strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -696,13 +703,6 @@
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
       <guid isPermaLink="false">b144e305f6054cf3dd70</guid>
       <pubDate>Sat, 26 Sep 2026 12:20:29 GMT</pubDate>
-      <description>Verdal Feil 58</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">a035e1656fc73aa12d8a</guid>
-      <pubDate>Sat, 26 Sep 2026 11:55:45 GMT</pubDate>
       <description>Verdal Feil 58</description>
     </item>
   </channel>
