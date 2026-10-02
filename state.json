@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "fb520801aa718f8cdf49": {
+        "key": "fb520801aa718f8cdf49",
+        "contentHash": "92892112050a78dc1905",
+        "text": "Namsos Vedlikehold 46"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "e150bfffbfd6fa3ba81c",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Namsos Vedlikehold 46",
+      "date": "2026-10-02T11:18:31.107Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "4551331f1e0ca7503c0a",
       "sourceId": "tensio",

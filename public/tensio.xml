@@ -4,7 +4,14 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 10:47:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:18:31 GMT</lastBuildDate>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">e150bfffbfd6fa3ba81c</guid>
+      <pubDate>Fri, 02 Oct 2026 11:18:31 GMT</pubDate>
+      <description>Namsos Vedlikehold 46</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">17c4a922a54767236c56</guid>
       <pubDate>Tue, 29 Sep 2026 07:19:31 GMT</pubDate>
       <description>Tynset Vedlikehold 22</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">833a8978e94f3f200ceb</guid>
-      <pubDate>Tue, 29 Sep 2026 07:19:31 GMT</pubDate>
-      <description>Inderøy Vedlikehold 15</description>
     </item>
   </channel>
 </rss>
