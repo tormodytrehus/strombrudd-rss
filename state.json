@@ -8,8 +8,8 @@
       },
       "fb520801aa718f8cdf49": {
         "key": "fb520801aa718f8cdf49",
-        "contentHash": "abf0bcc4d3f01f1ca860",
-        "text": "Namsos Vedlikehold 12"
+        "contentHash": "a384bb0791c4b59ba976",
+        "text": "Namsos Vedlikehold 7"
       },
       "962fb702874b0c718803": {
         "key": "962fb702874b0c718803",
@@ -25,6 +25,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "9e0263b1e0a1efdd5693",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Namsos Vedlikehold 7",
+      "date": "2026-10-02T07:47:56.903Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c6a548901d5f2b4f95fb",
       "sourceId": "tensio",
