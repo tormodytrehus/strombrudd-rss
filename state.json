@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "fb520801aa718f8cdf49": {
-        "key": "fb520801aa718f8cdf49",
-        "contentHash": "abf0bcc4d3f01f1ca860",
-        "text": "Namsos Vedlikehold 12"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "4baa987bbf34a291c2c2",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Namsos Vedlikehold 12",
+      "date": "2026-10-02T06:52:26.478Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "8dc734989a93abbcadd8",
       "sourceId": "tensio",
