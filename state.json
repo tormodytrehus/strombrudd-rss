@@ -1,15 +1,10 @@
 {
   "current": {
     "tensio": {
-      "6e1e201f5943acf9d77e": {
-        "key": "6e1e201f5943acf9d77e",
-        "contentHash": "d44e713a8aed32079fb0",
-        "text": "Verdal Vedlikehold 4"
-      },
       "fb520801aa718f8cdf49": {
         "key": "fb520801aa718f8cdf49",
-        "contentHash": "a384bb0791c4b59ba976",
-        "text": "Namsos Vedlikehold 7"
+        "contentHash": "abf0bcc4d3f01f1ca860",
+        "text": "Namsos Vedlikehold 12"
       },
       "962fb702874b0c718803": {
         "key": "962fb702874b0c718803",
@@ -25,6 +20,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "b8dfa55225d8ac800df2",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Verdal Vedlikehold 4",
+      "date": "2026-10-02T08:20:29.396Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "2a63846f4a9ed8ac948c",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Namsos Vedlikehold 12",
+      "date": "2026-10-02T08:20:29.396Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "9e0263b1e0a1efdd5693",
       "sourceId": "tensio",
