@@ -6,11 +6,6 @@
         "contentHash": "abf0bcc4d3f01f1ca860",
         "text": "Namsos Vedlikehold 12"
       },
-      "962fb702874b0c718803": {
-        "key": "962fb702874b0c718803",
-        "contentHash": "718c4925c8f40eb5e8df",
-        "text": "Steinkjer Vedlikehold 1"
-      },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "e21e17f102c09c7e3ed3",
@@ -20,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "51cc181c45a0739eb346",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Vedlikehold 1",
+      "date": "2026-10-02T08:46:55.993Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "b8dfa55225d8ac800df2",
       "sourceId": "tensio",
