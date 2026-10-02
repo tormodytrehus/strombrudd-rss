@@ -1,15 +1,17 @@
 {
   "current": {
-    "tensio": {
-      "52942e4cd4749edb1d22": {
-        "key": "52942e4cd4749edb1d22",
-        "contentHash": "905c694864cefa4e2468",
-        "text": "Midtre gauldal Feil 7"
-      }
-    },
+    "tensio": {},
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "be79c2add0d2d88a9098",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Midtre gauldal Feil 7",
+      "date": "2026-10-02T19:18:07.706Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "6d86417cfb6621b5184c",
       "sourceId": "tensio",
