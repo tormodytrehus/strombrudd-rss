@@ -1,15 +1,31 @@
 {
   "current": {
     "tensio": {
-      "fb520801aa718f8cdf49": {
-        "key": "fb520801aa718f8cdf49",
-        "contentHash": "92892112050a78dc1905",
-        "text": "Namsos Vedlikehold 46"
+      "52942e4cd4749edb1d22": {
+        "key": "52942e4cd4749edb1d22",
+        "contentHash": "905c694864cefa4e2468",
+        "text": "Midtre gauldal Feil 7"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "6d86417cfb6621b5184c",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Namsos Vedlikehold 46",
+      "date": "2026-10-02T11:47:13.631Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "808b28d5792476d3677a",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Midtre gauldal Feil 7",
+      "date": "2026-10-02T11:47:13.631Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "e150bfffbfd6fa3ba81c",
       "sourceId": "tensio",

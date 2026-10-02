@@ -4,7 +4,21 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 11:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:47:13 GMT</lastBuildDate>
+    <item>
+      <title>Strømbrudd avsluttet hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">6d86417cfb6621b5184c</guid>
+      <pubDate>Fri, 02 Oct 2026 11:47:13 GMT</pubDate>
+      <description>Namsos Vedlikehold 46</description>
+    </item>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">808b28d5792476d3677a</guid>
+      <pubDate>Fri, 02 Oct 2026 11:47:13 GMT</pubDate>
+      <description>Midtre gauldal Feil 7</description>
+    </item>
     <item>
       <title>Nytt strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -690,20 +704,6 @@
       <guid isPermaLink="false">d2219bfd2d6f26584fac</guid>
       <pubDate>Tue, 29 Sep 2026 10:47:49 GMT</pubDate>
       <description>Trondheim Vedlikehold 7</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">890b18228aa8dee61021</guid>
-      <pubDate>Tue, 29 Sep 2026 10:18:56 GMT</pubDate>
-      <description>history_toggle_offPlanlagt start2026-09-30 09:00history_toggle_offPlanlagt slutt2026-09-30 10:00</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">8ed4f848e0e957d7324a</guid>
-      <pubDate>Tue, 29 Sep 2026 10:18:56 GMT</pubDate>
-      <description>Orkland Vedlikehold 68</description>
     </item>
   </channel>
 </rss>
