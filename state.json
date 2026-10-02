@@ -1,9 +1,62 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "6e1e201f5943acf9d77e": {
+        "key": "6e1e201f5943acf9d77e",
+        "contentHash": "d44e713a8aed32079fb0",
+        "text": "Verdal Vedlikehold 4"
+      },
+      "fb520801aa718f8cdf49": {
+        "key": "fb520801aa718f8cdf49",
+        "contentHash": "abf0bcc4d3f01f1ca860",
+        "text": "Namsos Vedlikehold 12"
+      },
+      "962fb702874b0c718803": {
+        "key": "962fb702874b0c718803",
+        "contentHash": "718c4925c8f40eb5e8df",
+        "text": "Steinkjer Vedlikehold 1"
+      },
+      "ecbf81a0987c04a703c6": {
+        "key": "ecbf81a0987c04a703c6",
+        "contentHash": "e21e17f102c09c7e3ed3",
+        "text": "Trondheim Vedlikehold 3"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "c6a548901d5f2b4f95fb",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 3",
+      "date": "2026-10-02T07:19:47.946Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "81f241a23bf1300bc1d3",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Steinkjer Vedlikehold 1",
+      "date": "2026-10-02T07:19:47.946Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "4e7b384bddf8af9f9f14",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Namsos Vedlikehold 12",
+      "date": "2026-10-02T07:19:47.946Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "2579b8dd3b3007238b15",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Verdal Vedlikehold 4",
+      "date": "2026-10-02T07:19:47.946Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "4baa987bbf34a291c2c2",
       "sourceId": "tensio",
