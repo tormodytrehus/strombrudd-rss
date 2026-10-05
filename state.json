@@ -21,6 +21,14 @@
   },
   "events": [
     {
+      "id": "6d575ddc4bb3feda8810",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 32",
+      "date": "2026-10-05T08:00:21.420Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
       "id": "96787a811583ea2286a2",
       "sourceId": "tensio",
       "title": "Oppdatert strømbrudd hos Tensio",
