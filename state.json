@@ -1,10 +1,10 @@
 {
   "current": {
     "tensio": {
-      "562e46f5cd98895f928b": {
-        "key": "562e46f5cd98895f928b",
-        "contentHash": "17ea88b6d3ba924a3323",
-        "text": "Hitra Feil 24"
+      "88580422f61f9f29fccb": {
+        "key": "88580422f61f9f29fccb",
+        "contentHash": "67f3e438c6a55652eb5b",
+        "text": "Stjørdal Vedlikehold 3"
       },
       "6079957086e5e64cea21": {
         "key": "6079957086e5e64cea21",
@@ -15,6 +15,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "a146028c42fa3d4a833a",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Hitra Feil 24",
+      "date": "2026-10-05T13:24:07.227Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "9eb6a903cccd2e7c30cd",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Stjørdal Vedlikehold 3",
+      "date": "2026-10-05T13:24:07.227Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "95874df98eb3166e90be",
       "sourceId": "tensio",
