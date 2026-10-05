@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "1963199ae429722f4e80": {
-        "key": "1963199ae429722f4e80",
-        "contentHash": "376427e9b08b3c0e8458",
-        "text": "Nærøysund Feil 20"
-      },
       "e14deee98bb30764948f": {
         "key": "e14deee98bb30764948f",
         "contentHash": "48f38d7ccfbcae33e88f",
@@ -20,6 +15,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "83424ab6b75f0c8b966c",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Nærøysund Feil 20",
+      "date": "2026-10-05T10:20:39.698Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "215dfcce615bcfbda6bf",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 12",
+      "date": "2026-10-05T10:20:39.698Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "efd0514f00bb426a9f60",
       "sourceId": "tensio",
