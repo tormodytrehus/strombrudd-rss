@@ -1,15 +1,20 @@
 {
   "current": {
     "tensio": {
+      "5a67ec7dfaefc1b07f7d": {
+        "key": "5a67ec7dfaefc1b07f7d",
+        "contentHash": "852c185a260ddd37b576",
+        "text": "Flatanger Feil 337"
+      },
       "f40864139fda64a0181c": {
         "key": "f40864139fda64a0181c",
         "contentHash": "f2d2674f30fb925bfa3b",
         "text": "Namsos Feil 691"
       },
-      "5a67ec7dfaefc1b07f7d": {
-        "key": "5a67ec7dfaefc1b07f7d",
-        "contentHash": "7d084ea5f4c97544b476",
-        "text": "Flatanger Feil 338"
+      "c9bd33c88b37360759ef": {
+        "key": "c9bd33c88b37360759ef",
+        "contentHash": "e8605c7a3a1c732310a8",
+        "text": "Ukjent kommune Feil 2242"
       }
     },
     "nettselskapet": {
@@ -36,6 +41,46 @@
     }
   },
   "events": [
+    {
+      "id": "dab3872386bd84eb2331",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-10-05 08:30history_toggle_offPlanlagt slutt2026-10-05 12:00",
+      "date": "2026-10-05T17:17:29.050Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "666e371adc22d623db19",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Ukjent kommune Feil 2242",
+      "date": "2026-10-05T17:17:29.050Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "8b27b430fe763afae8aa",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Flatanger Feil 337",
+      "date": "2026-10-05T17:17:29.050Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "a91549ecd519189b93a0",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Namsos Feil 397",
+      "date": "2026-10-05T17:17:29.050Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "4eae2eac92d3a10c97ee",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Flatanger Feil 392",
+      "date": "2026-10-05T17:17:29.050Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "b85a8befca02a41e1ae9",
       "sourceId": "nettselskapet",
@@ -3994,46 +4039,6 @@
       "title": "Nytt strømbrudd hos Tensio",
       "description": "Namsos Vedlikehold 4",
       "date": "2026-09-15T08:20:24.248Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "c2fd39aba1dae752a927",
-      "sourceId": "tensio",
-      "title": "Strømbrudd avsluttet hos Tensio",
-      "description": "Åfjord Vedlikehold 25",
-      "date": "2026-09-15T07:20:03.567Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "4e99cddcaa192c7fef87",
-      "sourceId": "tensio",
-      "title": "Nytt strømbrudd hos Tensio",
-      "description": "Frosta Vedlikehold 13",
-      "date": "2026-09-15T07:20:03.567Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "1bdb93133357e04f819d",
-      "sourceId": "tensio",
-      "title": "Nytt strømbrudd hos Tensio",
-      "description": "Steinkjer Vedlikehold 2",
-      "date": "2026-09-15T07:20:03.567Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "2efe9f5cd6e0dbe06ded",
-      "sourceId": "tensio",
-      "title": "Nytt strømbrudd hos Tensio",
-      "description": "Åfjord Vedlikehold 25",
-      "date": "2026-09-15T06:24:02.918Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "50d26354fdf4d4c7e741",
-      "sourceId": "tensio",
-      "title": "Strømbrudd avsluttet hos Tensio",
-      "description": "Frøya Vedlikehold 122",
-      "date": "2026-09-14T14:48:28.909Z",
       "link": "https://www.tensio.no/no/kunde/strombruddskart"
     }
   ]
