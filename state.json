@@ -3,8 +3,8 @@
     "tensio": {
       "85ff6358796bff6993bb": {
         "key": "85ff6358796bff6993bb",
-        "contentHash": "f130105b888fc988bca8",
-        "text": "Steinkjer Feil 1479"
+        "contentHash": "2b164fe6b2fd4e667044",
+        "text": "Steinkjer Feil 756"
       },
       "6079957086e5e64cea21": {
         "key": "6079957086e5e64cea21",
@@ -15,6 +15,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "807d9e1938d0a4632f59",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Steinkjer Feil 756",
+      "date": "2026-10-05T14:23:19.093Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "56d66168f1886fddec2a",
       "sourceId": "tensio",
