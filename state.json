@@ -1,10 +1,10 @@
 {
   "current": {
     "tensio": {
-      "562e46f5cd98895f928b": {
-        "key": "562e46f5cd98895f928b",
-        "contentHash": "17ea88b6d3ba924a3323",
-        "text": "Hitra Feil 24"
+      "f40864139fda64a0181c": {
+        "key": "f40864139fda64a0181c",
+        "contentHash": "3b7a5eab9dc8aa4514c0",
+        "text": "Namsos Feil 317"
       }
     },
     "nettselskapet": {
@@ -31,6 +31,30 @@
     }
   },
   "events": [
+    {
+      "id": "cde470149003e35fa214",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-10-05 08:30history_toggle_offPlanlagt slutt2026-10-05 12:00",
+      "date": "2026-10-05T15:21:37.971Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "bc2b7ea069e52624a6ee",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Hitra Feil 24",
+      "date": "2026-10-05T15:21:37.971Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "8e84caa2258c25b26412",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Namsos Feil 317",
+      "date": "2026-10-05T15:21:37.971Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "550fcb1cd7ebb60036ff",
       "sourceId": "nettselskapet",
