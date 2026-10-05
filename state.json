@@ -1,20 +1,44 @@
 {
   "current": {
     "tensio": {
-      "e14deee98bb30764948f": {
-        "key": "e14deee98bb30764948f",
-        "contentHash": "48f38d7ccfbcae33e88f",
-        "text": "Malvik Vedlikehold 7"
+      "1963199ae429722f4e80": {
+        "key": "1963199ae429722f4e80",
+        "contentHash": "730cbd6331aa5c990c67",
+        "text": "Nærøysund Feil 1"
       },
       "ecbf81a0987c04a703c6": {
         "key": "ecbf81a0987c04a703c6",
-        "contentHash": "f0b92cc4f47223a55751",
-        "text": "Trondheim Vedlikehold 5"
+        "contentHash": "07f03cd8ee9fbbc505ac",
+        "text": "Trondheim Vedlikehold 12"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "1f5238fa577a83c11f1c",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Malvik Vedlikehold 7",
+      "date": "2026-10-05T10:49:29.821Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "700076dab5daaa851407",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 12",
+      "date": "2026-10-05T10:49:29.821Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "5137616d2736bd93b745",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Nærøysund Feil 1",
+      "date": "2026-10-05T10:49:29.821Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "83424ab6b75f0c8b966c",
       "sourceId": "tensio",
