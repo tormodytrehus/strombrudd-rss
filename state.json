@@ -10,16 +10,35 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "f0b92cc4f47223a55751",
         "text": "Trondheim Vedlikehold 5"
-      },
-      "035f1ff94929e0bbe339": {
-        "key": "035f1ff94929e0bbe339",
-        "contentHash": "2ec4f08be674c57e1b78",
-        "text": "Rennebu Vedlikehold 86"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "3dd9e53140982726c10e",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Rennebu Vedlikehold 86",
+      "date": "2026-10-05T09:21:40.316Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "bacb218bc865a56b500f",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 12",
+      "date": "2026-10-05T09:21:40.316Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "6ef580d32424a99b2c52",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Trondheim Vedlikehold 32",
+      "date": "2026-10-05T09:21:40.316Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "d601c42c2273c3a12b04",
       "sourceId": "tensio",
