@@ -5,11 +5,37 @@
         "key": "ecbf81a0987c04a703c6",
         "contentHash": "07f03cd8ee9fbbc505ac",
         "text": "Trondheim Vedlikehold 12"
+      },
+      "562e46f5cd98895f928b": {
+        "key": "562e46f5cd98895f928b",
+        "contentHash": "17ea88b6d3ba924a3323",
+        "text": "Hitra Feil 24"
+      },
+      "6079957086e5e64cea21": {
+        "key": "6079957086e5e64cea21",
+        "contentHash": "f364a822e06b6bb0a3a4",
+        "text": "Trondheim Feil 433"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "3ea426bb0665c0c131bf",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Feil 433",
+      "date": "2026-10-05T12:24:37.684Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "57ea642a996f916f40e1",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Hitra Feil 24",
+      "date": "2026-10-05T12:24:37.684Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "50ea9b7b3384d4ecce2e",
       "sourceId": "tensio",
