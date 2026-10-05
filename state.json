@@ -1,20 +1,100 @@
 {
   "current": {
     "tensio": {
-      "85ff6358796bff6993bb": {
-        "key": "85ff6358796bff6993bb",
-        "contentHash": "2b164fe6b2fd4e667044",
-        "text": "Steinkjer Feil 756"
-      },
-      "6079957086e5e64cea21": {
-        "key": "6079957086e5e64cea21",
-        "contentHash": "44fd58b7146e8d3499c5",
-        "text": "Trondheim Feil 24"
+      "562e46f5cd98895f928b": {
+        "key": "562e46f5cd98895f928b",
+        "contentHash": "17ea88b6d3ba924a3323",
+        "text": "Hitra Feil 24"
       }
     },
-    "nettselskapet": {}
+    "nettselskapet": {
+      "68a53d01729a2343ec3e": {
+        "key": "68a53d01729a2343ec3e",
+        "contentHash": "d0e465437b3773702b25",
+        "text": "Avbrudd (strøm)"
+      },
+      "7b044df4148231424c85": {
+        "key": "7b044df4148231424c85",
+        "contentHash": "cbf74d21c5ebb7f2157f",
+        "text": "history_toggle_offPlanlagt start2026-10-05 09:00history_toggle_offPlanlagt slutt2026-10-05 14:00"
+      },
+      "a13d8c1e9433ef8b2ef4": {
+        "key": "a13d8c1e9433ef8b2ef4",
+        "contentHash": "eeead1f4c7738447e33f",
+        "text": "scheduleStart2026-10-05 16:16history_toggle_offPlanlagt sluttUkjent"
+      },
+      "e8fa4d46cd916509be40": {
+        "key": "e8fa4d46cd916509be40",
+        "contentHash": "189fa0fc3d1f2d527a44",
+        "text": "0 Berørte kunder166 Gjenopprettede kunder260 Berørte kunder667 Gjenopprettede kunder171 Berørte kunder"
+      }
+    }
   },
   "events": [
+    {
+      "id": "550fcb1cd7ebb60036ff",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "0 Berørte kunder166 Gjenopprettede kunder260 Berørte kunder667 Gjenopprettede kunder171 Berørte kunder",
+      "date": "2026-10-05T14:50:48.020Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "dbb744dec602f6fe35d8",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "scheduleStart2026-10-05 16:16history_toggle_offPlanlagt sluttUkjent",
+      "date": "2026-10-05T14:50:48.020Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "21acf08c40be47393cac",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-10-05 09:00history_toggle_offPlanlagt slutt2026-10-05 14:00",
+      "date": "2026-10-05T14:50:48.020Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "b2404922ba82d8aba2f7",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-10-05 08:30history_toggle_offPlanlagt slutt2026-10-05 12:00",
+      "date": "2026-10-05T14:50:48.020Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "a951d3b83f4c98eee431",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "Avbrudd (strøm)",
+      "date": "2026-10-05T14:50:48.020Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "28a0764d86892d48ee1a",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Feil 24",
+      "date": "2026-10-05T14:50:48.020Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "eacffbd3e8cbbd13b9dd",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Steinkjer Feil 756",
+      "date": "2026-10-05T14:50:48.020Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "592a6bc3d3882c2381c8",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Hitra Feil 24",
+      "date": "2026-10-05T14:50:48.020Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "807d9e1938d0a4632f59",
       "sourceId": "tensio",
