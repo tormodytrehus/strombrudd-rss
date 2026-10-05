@@ -4,7 +4,14 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:50:22 GMT</lastBuildDate>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">83c61cb0ea2ea40badd2</guid>
+      <pubDate>Mon, 05 Oct 2026 15:50:22 GMT</pubDate>
+      <description>Namsos Feil 99</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">0da258b15f485a5db6b3</guid>
       <pubDate>Wed, 30 Sep 2026 11:17:19 GMT</pubDate>
       <description>Rennebu Vedlikehold 14</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">8dd404b542bdbe020b8e</guid>
-      <pubDate>Wed, 30 Sep 2026 11:17:19 GMT</pubDate>
-      <description>Midtre gauldal Vedlikehold 12</description>
     </item>
   </channel>
 </rss>

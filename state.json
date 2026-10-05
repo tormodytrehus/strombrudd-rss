@@ -3,8 +3,8 @@
     "tensio": {
       "f40864139fda64a0181c": {
         "key": "f40864139fda64a0181c",
-        "contentHash": "3b7a5eab9dc8aa4514c0",
-        "text": "Namsos Feil 317"
+        "contentHash": "dcbc0f99957823cda9a5",
+        "text": "Namsos Feil 99"
       }
     },
     "nettselskapet": {
@@ -25,12 +25,36 @@
       },
       "e8fa4d46cd916509be40": {
         "key": "e8fa4d46cd916509be40",
-        "contentHash": "189fa0fc3d1f2d527a44",
-        "text": "0 Berørte kunder166 Gjenopprettede kunder260 Berørte kunder667 Gjenopprettede kunder171 Berørte kunder"
+        "contentHash": "5ba45d836f767f445e6a",
+        "text": "0 Berørte kunder667 Gjenopprettede kunder171 Berørte kunder342 Gjenopprettede kunder84 Berørte kunder"
       }
     }
   },
   "events": [
+    {
+      "id": "f321f3172807fe1268a3",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "0 Berørte kunder667 Gjenopprettede kunder171 Berørte kunder342 Gjenopprettede kunder84 Berørte kunder",
+      "date": "2026-10-05T15:50:22.890Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "4a578a441c2262ab59cd",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-10-05 08:30history_toggle_offPlanlagt slutt2026-10-05 12:00",
+      "date": "2026-10-05T15:50:22.890Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "83c61cb0ea2ea40badd2",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Namsos Feil 99",
+      "date": "2026-10-05T15:50:22.890Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "cde470149003e35fa214",
       "sourceId": "nettselskapet",
