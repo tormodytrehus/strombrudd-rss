@@ -36,6 +36,14 @@
   },
   "events": [
     {
+      "id": "10e0cfb73436b6c33513",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Steinkjer Feil 32",
+      "date": "2026-10-06T03:18:23.413Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
       "id": "98fe675d346604183421",
       "sourceId": "tensio",
       "title": "Oppdatert strømbrudd hos Tensio",
@@ -4024,14 +4032,6 @@
       "sourceId": "tensio",
       "title": "Oppdatert strømbrudd hos Tensio",
       "description": "Trondheim Vedlikehold 13",
-      "date": "2026-09-22T08:20:56.429Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "0839fe8894d2d5797639",
-      "sourceId": "tensio",
-      "title": "Nytt strømbrudd hos Tensio",
-      "description": "Melhus Vedlikehold 120",
       "date": "2026-09-22T08:20:56.429Z",
       "link": "https://www.tensio.no/no/kunde/strombruddskart"
     }

@@ -4,7 +4,14 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 02:48:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:18:23 GMT</lastBuildDate>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">10e0cfb73436b6c33513</guid>
+      <pubDate>Tue, 06 Oct 2026 03:18:23 GMT</pubDate>
+      <description>Steinkjer Feil 32</description>
+    </item>
     <item>
       <title>Oppdatert strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">3b09014eb9617de77ba9</guid>
       <pubDate>Mon, 05 Oct 2026 18:22:48 GMT</pubDate>
       <description>Flatanger Feil 556</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">50dab64fc1e9195c9a20</guid>
-      <pubDate>Mon, 05 Oct 2026 18:22:48 GMT</pubDate>
-      <description>Flatanger Feil 256</description>
     </item>
   </channel>
 </rss>
