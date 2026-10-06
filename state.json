@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "85ff6358796bff6993bb": {
-        "key": "85ff6358796bff6993bb",
-        "contentHash": "45dae4d124b223bccac3",
-        "text": "Steinkjer Feil 72"
-      },
       "5a67ec7dfaefc1b07f7d": {
         "key": "5a67ec7dfaefc1b07f7d",
         "contentHash": "127df13bc6797bdfde38",
@@ -15,6 +10,21 @@
         "key": "1963199ae429722f4e80",
         "contentHash": "ce427107bf4c02de77f8",
         "text": "Nærøysund Feil 2"
+      },
+      "85ff6358796bff6993bb": {
+        "key": "85ff6358796bff6993bb",
+        "contentHash": "45dae4d124b223bccac3",
+        "text": "Steinkjer Feil 72"
+      },
+      "6079957086e5e64cea21": {
+        "key": "6079957086e5e64cea21",
+        "contentHash": "5f90bc8f87c822f0b36f",
+        "text": "Trondheim Feil 19"
+      },
+      "7af5faf652a7f857c88a": {
+        "key": "7af5faf652a7f857c88a",
+        "contentHash": "bb9359c3f897d593bcb9",
+        "text": "Orkland Feil 7"
       },
       "329dddfa0197f5fa7011": {
         "key": "329dddfa0197f5fa7011",
@@ -30,6 +40,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "b694cae4b4a039a87682",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Orkland Feil 7",
+      "date": "2026-10-06T10:18:35.202Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "4d1102b7d00cda5e8cf5",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Trondheim Feil 19",
+      "date": "2026-10-06T10:18:35.202Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "77995ebbfc5b7f825552",
       "sourceId": "tensio",
@@ -4011,22 +4037,6 @@
       "sourceId": "nettselskapet",
       "title": "Strømbrudd avsluttet hos Nettselskapet AS",
       "description": "0 Berørte kunder0 Gjenopprettede kunder405 Berørte kunder9 Gjenopprettede kunder",
-      "date": "2026-09-23T07:44:46.837Z",
-      "link": "https://nettselskapet.as/driftsmeldinger"
-    },
-    {
-      "id": "e5cae7b055f07554f2f9",
-      "sourceId": "nettselskapet",
-      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
-      "description": "scheduleStart2026-09-23 09:03history_toggle_offPlanlagt slutt2026-09-23 11:00",
-      "date": "2026-09-23T07:44:46.837Z",
-      "link": "https://nettselskapet.as/driftsmeldinger"
-    },
-    {
-      "id": "4cf9a2b3e4d019e66d02",
-      "sourceId": "nettselskapet",
-      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
-      "description": "history_toggle_offPlanlagt start2026-10-01 07:30history_toggle_offPlanlagt slutt2026-10-01 17:30",
       "date": "2026-09-23T07:44:46.837Z",
       "link": "https://nettselskapet.as/driftsmeldinger"
     }
