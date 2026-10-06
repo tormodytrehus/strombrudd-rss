@@ -4,7 +4,35 @@
     <title>Nettselskapet AS – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/nettselskapet.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Nettselskapet AS.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:31:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:57:06 GMT</lastBuildDate>
+    <item>
+      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
+      <link>https://nettselskapet.as/driftsmeldinger</link>
+      <guid isPermaLink="false">d4f271c481f4aef8ade1</guid>
+      <pubDate>Tue, 06 Oct 2026 01:57:06 GMT</pubDate>
+      <description>0 Berørte kunder712 Gjenopprettede kunder268 Berørte kunder838 Gjenopprettede kunder426 Gjenopprettede kunder5 Gjenopprettede kunder</description>
+    </item>
+    <item>
+      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
+      <link>https://nettselskapet.as/driftsmeldinger</link>
+      <guid isPermaLink="false">b0e68e659cd71010d735</guid>
+      <pubDate>Tue, 06 Oct 2026 01:57:06 GMT</pubDate>
+      <description>scheduleStart2026-10-06 01:21history_toggle_offPlanlagt sluttUkjent</description>
+    </item>
+    <item>
+      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
+      <link>https://nettselskapet.as/driftsmeldinger</link>
+      <guid isPermaLink="false">155ba3cc6a2afc2fff58</guid>
+      <pubDate>Tue, 06 Oct 2026 01:57:06 GMT</pubDate>
+      <description>history_toggle_offPlanlagt start2026-10-05 09:00history_toggle_offPlanlagt slutt2026-10-05 14:00</description>
+    </item>
+    <item>
+      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
+      <link>https://nettselskapet.as/driftsmeldinger</link>
+      <guid isPermaLink="false">24a28ba48dc77ed8fb46</guid>
+      <pubDate>Tue, 06 Oct 2026 01:57:06 GMT</pubDate>
+      <description>Avbrudd (strøm)</description>
+    </item>
     <item>
       <title>Oppdatert strømbrudd hos Nettselskapet AS</title>
       <link>https://nettselskapet.as/driftsmeldinger</link>
@@ -612,34 +640,6 @@
       <link>https://nettselskapet.as/driftsmeldinger</link>
       <guid isPermaLink="false">e1ef9da789fa1e2bed16</guid>
       <pubDate>Wed, 23 Sep 2026 07:17:53 GMT</pubDate>
-      <description>Avbrudd (strøm)</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">0a5440ec75c984b151ca</guid>
-      <pubDate>Mon, 21 Sep 2026 11:18:58 GMT</pubDate>
-      <description>0 Berørte kunder0 Gjenopprettede kunder9 Berørte kunder</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">b2b08b186b3783e53d44</guid>
-      <pubDate>Mon, 21 Sep 2026 11:18:58 GMT</pubDate>
-      <description>scheduleStart2026-09-21 12:10history_toggle_offPlanlagt slutt2026-09-21 13:00</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">a5128fd46fa8042fa83f</guid>
-      <pubDate>Mon, 21 Sep 2026 11:18:58 GMT</pubDate>
-      <description>history_toggle_offPlanlagt start2026-09-23 09:00history_toggle_offPlanlagt slutt2026-09-23 11:00</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">0f433748a977cc8c985f</guid>
-      <pubDate>Mon, 21 Sep 2026 11:18:58 GMT</pubDate>
       <description>Avbrudd (strøm)</description>
     </item>
   </channel>
