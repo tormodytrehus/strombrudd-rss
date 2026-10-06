@@ -4,7 +4,7 @@
     <title>Nettselskapet AS – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/nettselskapet.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Nettselskapet AS.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 10:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:48:56 GMT</lastBuildDate>
     <item>
       <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
       <link>https://nettselskapet.as/driftsmeldinger</link>
@@ -690,13 +690,6 @@
       <guid isPermaLink="false">db50a6632f042656044e</guid>
       <pubDate>Thu, 24 Sep 2026 06:49:11 GMT</pubDate>
       <description>Avbrudd (strøm)</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">49431ce5d38773376039</guid>
-      <pubDate>Wed, 23 Sep 2026 07:44:46 GMT</pubDate>
-      <description>0 Berørte kunder0 Gjenopprettede kunder405 Berørte kunder9 Gjenopprettede kunder</description>
     </item>
   </channel>
 </rss>

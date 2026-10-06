@@ -11,20 +11,25 @@
         "contentHash": "ce427107bf4c02de77f8",
         "text": "Nærøysund Feil 2"
       },
+      "3c53662cb2c39aaca8f9": {
+        "key": "3c53662cb2c39aaca8f9",
+        "contentHash": "901e1bf64a4ab6595fc6",
+        "text": "Inderøy Feil 251"
+      },
       "85ff6358796bff6993bb": {
         "key": "85ff6358796bff6993bb",
         "contentHash": "45dae4d124b223bccac3",
         "text": "Steinkjer Feil 72"
       },
-      "6079957086e5e64cea21": {
-        "key": "6079957086e5e64cea21",
-        "contentHash": "5f90bc8f87c822f0b36f",
-        "text": "Trondheim Feil 19"
-      },
       "7af5faf652a7f857c88a": {
         "key": "7af5faf652a7f857c88a",
         "contentHash": "bb9359c3f897d593bcb9",
         "text": "Orkland Feil 7"
+      },
+      "6079957086e5e64cea21": {
+        "key": "6079957086e5e64cea21",
+        "contentHash": "5f90bc8f87c822f0b36f",
+        "text": "Trondheim Feil 19"
       },
       "329dddfa0197f5fa7011": {
         "key": "329dddfa0197f5fa7011",
@@ -40,6 +45,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "27435ec76277039faaf3",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Inderøy Feil 251",
+      "date": "2026-10-06T10:48:56.984Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "b694cae4b4a039a87682",
       "sourceId": "tensio",
@@ -4031,14 +4044,6 @@
       "description": "Overhalla Vedlikehold 57",
       "date": "2026-09-23T07:59:06.284Z",
       "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "49431ce5d38773376039",
-      "sourceId": "nettselskapet",
-      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
-      "description": "0 Berørte kunder0 Gjenopprettede kunder405 Berørte kunder9 Gjenopprettede kunder",
-      "date": "2026-09-23T07:44:46.837Z",
-      "link": "https://nettselskapet.as/driftsmeldinger"
     }
   ]
 }
