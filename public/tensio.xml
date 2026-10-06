@@ -4,7 +4,28 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 11:18:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:47:43 GMT</lastBuildDate>
+    <item>
+      <title>Strømbrudd avsluttet hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">5dd3539094de8d311f6e</guid>
+      <pubDate>Tue, 06 Oct 2026 11:47:43 GMT</pubDate>
+      <description>Trondheim Vedlikehold 1</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">c3c1d3b7504488949f30</guid>
+      <pubDate>Tue, 06 Oct 2026 11:47:43 GMT</pubDate>
+      <description>Flatanger Feil 5</description>
+    </item>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">55a738a6f727c0ac6656</guid>
+      <pubDate>Tue, 06 Oct 2026 11:47:43 GMT</pubDate>
+      <description>Inderøy Feil 21</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -683,27 +704,6 @@
       <guid isPermaLink="false">dfa33b94c8631fa1cde9</guid>
       <pubDate>Mon, 05 Oct 2026 21:35:53 GMT</pubDate>
       <description>Stjørdal Feil 211</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">d3ed1e42cc07892629ef</guid>
-      <pubDate>Mon, 05 Oct 2026 21:35:53 GMT</pubDate>
-      <description>Lierne Feil 79</description>
-    </item>
-    <item>
-      <title>Nytt strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">d95d3fd335fba183a0ea</guid>
-      <pubDate>Mon, 05 Oct 2026 21:35:53 GMT</pubDate>
-      <description>Meråker Feil 148</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">2a1bd683d61c7f234eb4</guid>
-      <pubDate>Mon, 05 Oct 2026 21:35:53 GMT</pubDate>
-      <description>Steinkjer Feil 138</description>
     </item>
   </channel>
 </rss>

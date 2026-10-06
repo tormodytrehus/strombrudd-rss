@@ -3,23 +3,23 @@
     "tensio": {
       "3c53662cb2c39aaca8f9": {
         "key": "3c53662cb2c39aaca8f9",
-        "contentHash": "901e1bf64a4ab6595fc6",
-        "text": "Inderøy Feil 251"
-      },
-      "5a67ec7dfaefc1b07f7d": {
-        "key": "5a67ec7dfaefc1b07f7d",
-        "contentHash": "127df13bc6797bdfde38",
-        "text": "Flatanger Feil 25"
-      },
-      "1963199ae429722f4e80": {
-        "key": "1963199ae429722f4e80",
-        "contentHash": "ce427107bf4c02de77f8",
-        "text": "Nærøysund Feil 2"
+        "contentHash": "da5a952e513559344b88",
+        "text": "Inderøy Feil 21"
       },
       "85ff6358796bff6993bb": {
         "key": "85ff6358796bff6993bb",
         "contentHash": "45dae4d124b223bccac3",
         "text": "Steinkjer Feil 72"
+      },
+      "5a67ec7dfaefc1b07f7d": {
+        "key": "5a67ec7dfaefc1b07f7d",
+        "contentHash": "a77236acc0a1fd8b774c",
+        "text": "Flatanger Feil 5"
+      },
+      "1963199ae429722f4e80": {
+        "key": "1963199ae429722f4e80",
+        "contentHash": "ce427107bf4c02de77f8",
+        "text": "Nærøysund Feil 2"
       },
       "6079957086e5e64cea21": {
         "key": "6079957086e5e64cea21",
@@ -30,16 +30,35 @@
         "key": "329dddfa0197f5fa7011",
         "contentHash": "603fe045a86f711160cc",
         "text": "Midtre gauldal Vedlikehold 2"
-      },
-      "ecbf81a0987c04a703c6": {
-        "key": "ecbf81a0987c04a703c6",
-        "contentHash": "91930a93716f3f6bfa1e",
-        "text": "Trondheim Vedlikehold 1"
       }
     },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "5dd3539094de8d311f6e",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Trondheim Vedlikehold 1",
+      "date": "2026-10-06T11:47:43.680Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "c3c1d3b7504488949f30",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Flatanger Feil 5",
+      "date": "2026-10-06T11:47:43.680Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "55a738a6f727c0ac6656",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Inderøy Feil 21",
+      "date": "2026-10-06T11:47:43.680Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "e426cb9de698aff7bf2f",
       "sourceId": "tensio",
@@ -4014,30 +4033,6 @@
       "title": "Oppdatert strømbrudd hos Tensio",
       "description": "Trondheim Vedlikehold 120",
       "date": "2026-09-23T08:21:27.127Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "185fc8dda93f96fe3309",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Overhalla Vedlikehold 57",
-      "date": "2026-09-23T08:21:27.127Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "79028f05b9367f872478",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Trondheim Vedlikehold 344",
-      "date": "2026-09-23T07:59:06.284Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "b0e1ac84af64638f8519",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Trondheim Vedlikehold 120",
-      "date": "2026-09-23T07:59:06.284Z",
       "link": "https://www.tensio.no/no/kunde/strombruddskart"
     }
   ]
