@@ -4,7 +4,14 @@
     <title>Tensio – strømbrudd</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/tensio.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 10:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:18:10 GMT</lastBuildDate>
+    <item>
+      <title>Strømbrudd avsluttet hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">e426cb9de698aff7bf2f</guid>
+      <pubDate>Tue, 06 Oct 2026 11:18:10 GMT</pubDate>
+      <description>Orkland Feil 7</description>
+    </item>
     <item>
       <title>Nytt strømbrudd hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">2a1bd683d61c7f234eb4</guid>
       <pubDate>Mon, 05 Oct 2026 21:35:53 GMT</pubDate>
       <description>Steinkjer Feil 138</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">cab8b2a709611ecdcb91</guid>
-      <pubDate>Mon, 05 Oct 2026 21:35:53 GMT</pubDate>
-      <description>Namsos Feil 135</description>
     </item>
   </channel>
 </rss>
