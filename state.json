@@ -1,11 +1,6 @@
 {
   "current": {
     "tensio": {
-      "f40864139fda64a0181c": {
-        "key": "f40864139fda64a0181c",
-        "contentHash": "2a074c1765afa8620755",
-        "text": "Namsos Feil 2"
-      },
       "85ff6358796bff6993bb": {
         "key": "85ff6358796bff6993bb",
         "contentHash": "45dae4d124b223bccac3",
@@ -35,6 +30,22 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "77995ebbfc5b7f825552",
+      "sourceId": "tensio",
+      "title": "Strømbrudd avsluttet hos Tensio",
+      "description": "Namsos Feil 2",
+      "date": "2026-10-06T09:48:57.030Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
+      "id": "3eeb52717fd89e71277d",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Steinkjer Feil 90",
+      "date": "2026-10-06T09:48:57.030Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "4e4c6a83f27208af161f",
       "sourceId": "tensio",
@@ -4018,22 +4029,6 @@
       "description": "history_toggle_offPlanlagt start2026-10-01 07:30history_toggle_offPlanlagt slutt2026-10-01 17:30",
       "date": "2026-09-23T07:44:46.837Z",
       "link": "https://nettselskapet.as/driftsmeldinger"
-    },
-    {
-      "id": "79b154d277166b20e762",
-      "sourceId": "nettselskapet",
-      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
-      "description": "Avbrudd (strøm)",
-      "date": "2026-09-23T07:44:46.837Z",
-      "link": "https://nettselskapet.as/driftsmeldinger"
-    },
-    {
-      "id": "f217c73b977d0b6a1b12",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Trondheim Vedlikehold 344",
-      "date": "2026-09-23T07:44:46.837Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
     }
   ]
 }

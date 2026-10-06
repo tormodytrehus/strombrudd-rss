@@ -1,53 +1,47 @@
 {
-  "checkedAt": "2026-10-06T09:19:34.472Z",
+  "checkedAt": "2026-10-06T09:48:57.030Z",
   "url": "https://www.tensio.no/no/kunde/strombruddskart",
   "title": "Strømbruddskart for Tensio og Trøndelagsområde",
-  "bodyText": "Skip to Cookie banner Hopp til hovedinnhold Hopp til meny Hopp til søk Kunde Proff Meny EN Søk Min Side Strømbruddskart Avsluttede Pågående Planlagte Strømløse kunder 194 Namsos Feil 2 Steinkjer Feil 90 Flatanger Feil 25 Nærøysund Feil 2 Steinkjer Feil 72 Midtre gauldal Vedlikehold 2 Trondheim Vedlikehold 1 Oppdater Finner du ikke ditt strømbrudd i kartet? Se vår sjekkliste ved strømbrudd",
+  "bodyText": "Skip to Cookie banner Hopp til hovedinnhold Hopp til meny Hopp til søk Kunde Proff Meny EN Søk Min Side Strømbruddskart Avsluttede Pågående Planlagte Strømløse kunder 192 Steinkjer Feil 90 Flatanger Feil 25 Nærøysund Feil 2 Steinkjer Feil 72 Midtre gauldal Vedlikehold 2 Trondheim Vedlikehold 1 Oppdater Finner du ikke ditt strømbrudd i kartet? Se vår sjekkliste ved strømbrudd",
   "domCandidates": [
     {
       "index": 0,
       "tag": "LI",
       "className": "DetailsListItem-module-scss-module__Mn_CAa__feature",
-      "text": "Namsos Feil 2"
+      "text": "Steinkjer Feil 90"
     },
     {
       "index": 1,
       "tag": "LI",
       "className": "DetailsListItem-module-scss-module__Mn_CAa__feature",
-      "text": "Steinkjer Feil 90"
+      "text": "Flatanger Feil 25"
     },
     {
       "index": 2,
       "tag": "LI",
       "className": "DetailsListItem-module-scss-module__Mn_CAa__feature",
-      "text": "Flatanger Feil 25"
+      "text": "Nærøysund Feil 2"
     },
     {
       "index": 3,
       "tag": "LI",
       "className": "DetailsListItem-module-scss-module__Mn_CAa__feature",
-      "text": "Nærøysund Feil 2"
+      "text": "Steinkjer Feil 72"
     },
     {
       "index": 4,
       "tag": "LI",
       "className": "DetailsListItem-module-scss-module__Mn_CAa__feature",
-      "text": "Steinkjer Feil 72"
+      "text": "Midtre gauldal Vedlikehold 2"
     },
     {
       "index": 5,
       "tag": "LI",
       "className": "DetailsListItem-module-scss-module__Mn_CAa__feature",
-      "text": "Midtre gauldal Vedlikehold 2"
-    },
-    {
-      "index": 6,
-      "tag": "LI",
-      "className": "DetailsListItem-module-scss-module__Mn_CAa__feature",
       "text": "Trondheim Vedlikehold 1"
     },
     {
-      "index": 7,
+      "index": 6,
       "tag": "DIV",
       "className": "leaflet-control-layers-base",
       "text": "Satelitt Karttype Mørk Karttype Standard Karttype"
@@ -72,47 +66,7 @@
     },
     {
       "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/0/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/0/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://api-www.tensio.no/power-outage/features?status=Terminated&includeArcgisFeatures=false&region=TS&cached=true"
-    },
-    {
-      "status": 200,
-      "url": "https://api-www.tensio.no/power-outage/features?status=Ongoing&region=TS&includeArcgisFeatures=false&cached=true"
-    },
-    {
-      "status": 200,
-      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer"
-    },
-    {
-      "status": 200,
-      "url": "https://api-www.tensio.no/power-outage/features?status=Ongoing&region=TN&includeArcgisFeatures=false&cached=true"
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTS/FeatureServer/0/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
@@ -124,11 +78,27 @@
     },
     {
       "status": 200,
+      "url": "https://api-www.tensio.no/power-outage/features?status=Ongoing&region=TN&includeArcgisFeatures=false&cached=true"
+    },
+    {
+      "status": 200,
       "url": "https://api-www.tensio.no/power-outage/features?status=Planned&region=TN&includeArcgisFeatures=false&cached=true"
     },
     {
       "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+      "url": "https://api-www.tensio.no/power-outage/features?status=Terminated&includeArcgisFeatures=false&region=TS&cached=true"
+    },
+    {
+      "status": 200,
+      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer"
+    },
+    {
+      "status": 200,
+      "url": "https://api-www.tensio.no/power-outage/features?status=Ongoing&region=TS&includeArcgisFeatures=false&cached=true"
+    },
+    {
+      "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
@@ -136,15 +106,15 @@
     },
     {
       "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTS/FeatureServer/0/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
       "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTN/FeatureServer/0/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
-    },
-    {
-      "status": 200,
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTN/FeatureServer/1/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
@@ -156,7 +126,27 @@
     },
     {
       "status": 200,
-      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer/resources/styles/root.json?f=json"
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTN/FeatureServer/1/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/0/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/0/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
+    },
+    {
+      "status": 200,
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson"
     },
     {
       "status": 200,
@@ -164,11 +154,11 @@
     },
     {
       "status": 200,
-      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/styles/root.json?f=json"
+      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer/resources/styles/root.json?f=json"
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheBygg_WM/VectorTileServer?f=json"
+      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/styles/root.json?f=json"
     },
     {
       "status": 200,
@@ -176,19 +166,15 @@
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/sprites/sprite.json"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheBygg_WM/VectorTileServer?f=json"
     },
     {
       "status": 200,
       "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/sprites/sprite.png"
     },
     {
-      "status": 204,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/35.pbf"
-    },
-    {
-      "status": 204,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/35.pbf"
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/sprites/sprite.json"
     },
     {
       "status": 204,
@@ -197,6 +183,22 @@
     {
       "status": 204,
       "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/32.pbf"
+    },
+    {
+      "status": 204,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/35.pbf"
+    },
+    {
+      "status": 204,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/35.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/18/32.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/34.pbf"
     },
     {
       "status": 200,
@@ -208,23 +210,15 @@
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/33.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/18/32.pbf"
-    },
-    {
-      "status": 200,
       "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/32.pbf"
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/33.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/16/33.pbf"
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/34.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/6/17/33.pbf"
     },
     {
       "status": 200,
@@ -236,11 +230,47 @@
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/fonts/Arial%20Regular/0-255.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/fonts/Arial%20Italic/0-255.pbf"
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/fonts/Arial%20Italic/0-255.pbf"
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/fonts/Arial%20Regular/0-255.pbf"
+    },
+    {
+      "status": 204,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/35/69.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/34/66.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/35/68.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/35/66.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/33/66.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/33/67.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/34/69.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/34/68.pbf"
+    },
+    {
+      "status": 200,
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/35/67.pbf"
     },
     {
       "status": 200,
@@ -252,43 +282,7 @@
     },
     {
       "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/33/66.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/35/67.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/35/66.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/35/68.pbf"
-    },
-    {
-      "status": 200,
       "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/33/68.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/33/67.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/34/66.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/34/69.pbf"
-    },
-    {
-      "status": 200,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/34/68.pbf"
-    },
-    {
-      "status": 204,
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/tile/7/35/69.pbf"
     }
   ],
   "apiResponses": [],
@@ -325,139 +319,103 @@
       ]
     },
     {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTS/FeatureServer/0/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
       "matches": [
         {
-          "path": "features[0].properties",
-          "text": "eventid: 2663662 | num_ab: 90 | last_updated: 1791271315000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POLYGON ((629696.0 7113744.0, 631093.0 7114298.0, 631751.0 7114782.0, 631883.0 7114962.0, 631314.0 7117183.0, 627389.0 7114178.0, 627553.0 7113928.0, 628276.0 7113767.0, 629696.0 7113744.0)) | starttime: 1791267360000 | municipal_txt: STEINKJER | timelimit: 1791279000000 | gridlevel_txt: Høy | SHAPE__Length: 12240.151153450406 | num_ab_regained: 239 | objectid: 3163 | type_txt: Driftsforstyrrelse | SHAPE__Area: 7725941.15259049"
-        },
-        {
-          "path": "features[1].properties",
-          "text": "eventid: 2660062 | num_ab: 25 | last_updated: 1791274477000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POLYGON ((579193.0 7141936.0, 581175.0 7144331.0, 580232.0 7144468.0, 578685.0 7144372.0, 578036.0 7143294.0, 578023.0 7143077.0, 579193.0 7141936.0)) | starttime: 1791218760000 | municipal_txt: FLATANGER | timelimit: 1791270000000 | gridlevel_txt: Høy | SHAPE__Length: 8725.573492749316 | num_ab_regained: 312 | objectid: 3143 | type_txt: Driftsforstyrrelse | SHAPE__Area: 4376338.883515105"
-        },
-        {
           "path": "features[2].properties",
-          "text": "eventid: 2660762 | num_ab: 72 | last_updated: 1791277734000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POLYGON ((595243.0 7089413.0, 595513.0 7089655.0, 602820.0 7096781.0, 602830.0 7096920.0, 602523.0 7097090.0, 600699.0 7097265.0, 600392.0 7097156.0, 597566.0 7093426.0, 595243.0 7089413.0)) | starttime: 1791222240000 | municipal_txt: STEINKJER | timelimit: 1791270000000 | gridlevel_txt: Høy | SHAPE__Length: 22541.81541386487 | num_ab_regained: 0 | objectid: 3154 | type_txt: Driftsforstyrrelse | SHAPE__Area: 12257870.24899449"
-        },
-        {
-          "path": "features[3].properties",
-          "text": "eventid: 2660030 | num_ab: 2 | last_updated: 1791251250000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POLYGON ((618138.0 7130014.0, 618160.0 7130919.0, 614627.0 7135566.0, 618138.0 7130014.0)) | starttime: 1791218640000 | municipal_txt: NAMSOS | timelimit: 1791280800000 | gridlevel_txt: Høy | SHAPE__Length: 13314.503709669614 | num_ab_regained: 689 | objectid: 3142 | type_txt: Driftsforstyrrelse | SHAPE__Area: 1650411.6006098"
+          "text": "seq_no: 1 | eventid: 83840681 | num_ab: 29 | last_updated: 1790575281000 | reason_txt: Nybygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (553926.64516129 7021629.58064516) | globalid: {776FE2BF-B89F-4BFE-90C0-699D907563CF} | starttime: 1790575200000 | municipal_txt: Skaun | timelimit: 1790598600000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790575383442 | created_date: 1790575383442 | num_ab_regained: 0 | objectid: 26516 | type_txt: Utkobling"
         },
         {
           "path": "features[4].properties",
-          "text": "eventid: 2661470 | num_ab: 2 | last_updated: 1791277090000 | customer_web_text: Tensio beklager at det er strømbrudd i området. På grunn av værforholdene og sikkerheten til vårt mannskap, må vi avvente feilretting. | original_wkt: POLYGON ((577103.0 7192088.0, 577158.0 7192155.0, 577096.0 7192118.0, 577103.0 7192088.0)) | starttime: 1791229020000 | municipal_txt: NÆRØYSUND | timelimit: 1791270000000 | gridlevel_txt: Høy | SHAPE__Length: 189.7764046316179 | num_ab_regained: 246 | objectid: 3159 | type_txt: Driftsforstyrrelse | SHAPE__Area: 1060.462125025"
-        }
-      ]
-    },
-    {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
-      "matches": [
-        {
-          "path": "features[0].properties",
-          "text": "eventid: 83883347 | num_ab: 0 | last_updated: 1791266552000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling som vil berøre ditt anlegg på {ADRESSE} fra 09.10.2026 09:00 til 09.10.2026 15:00. Følg alle våre saker på https://tensio.no/stromstans | original_wkt: POINT (573878.0625 7033109.59375) | starttime: 1791529200000 | municipal_txt: Trondheim | timelimit: 1791550800000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 12202 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[3].properties",
-          "text": "eventid: 83888999 | num_ab: 0 | last_updated: 1791275691000 | reason_txt: Forebyggende vedlikehold | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (569018.25 7029957.66666667) | starttime: 1791356400000 | municipal_txt: Trondheim | timelimit: 1791363600000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 12209 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[5].properties",
-          "text": "eventid: 83884739 | num_ab: 0 | last_updated: 1791266294000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (573759.111111111 7017758.33333333) | starttime: 1791781200000 | municipal_txt: Trondheim | timelimit: 1791810000000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 12206 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[11].properties",
-          "text": "eventid: 83866438 | num_ab: 0 | last_updated: 1791183767000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling som vil berøre ditt anlegg på {ADRESSE} fra 13.10.2026 08:00 til 13.10.2026 15:00. Følg alle våre saker på https://tensio.no/stromstans | original_wkt: POINT (537760.857142857 7050380.57142857) | starttime: 1791871200000 | municipal_txt: Orkland | timelimit: 1791896400000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 12204 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[12].properties",
-          "text": "eventid: 83885484 | num_ab: 0 | last_updated: 1791266984000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (564848.673611111 7030980.0) | starttime: 1791835200000 | municipal_txt: Trondheim | timelimit: 1791846000000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 12207 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[13].properties",
-          "text": "eventid: 83888228 | num_ab: 0 | last_updated: 1791269560000 | reason_txt: Kabelarbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (560415.666666667 6979229.66666667) | starttime: 1791531000000 | municipal_txt: Midtre Gauldal | timelimit: 1791547200000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 12208 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[16].properties",
-          "text": "eventid: 83885080 | num_ab: 0 | last_updated: 1791266612000 | reason_txt: Linjearbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (468600.419354839 7035214.90322581) | starttime: 1791529200000 | municipal_txt: Hitra | timelimit: 1791536400000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 12205 | type_txt: Utkobling"
-        }
-      ]
-    },
-    {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
-      "matches": [
-        {
-          "path": "features[0].properties",
-          "text": "eventid: 83883347 | num_ab: 0 | last_updated: 1791266552000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling som vil berøre ditt anlegg på {ADRESSE} fra 09.10.2026 09:00 til 09.10.2026 15:00. Følg alle våre saker på https://tensio.no/stromstans | original_wkt: POLYGON ((573883.0 7033095.0, 573916.0 7033116.0, 573855.0 7033119.0, 573775.0 7033111.0, 573783.0 7033096.0, 573883.0 7033095.0)) | starttime: 1791529200000 | municipal_txt: Trondheim | timelimit: 1791550800000 | gridlevel_txt: Lav | SHAPE__Length: 297.75845015009304 | num_ab_regained: 0 | objectid: 9820 | type_txt: Utkobling | SHAPE__Area: 2510.786399755"
-        },
-        {
-          "path": "features[2].properties",
-          "text": "eventid: 83888999 | num_ab: 0 | last_updated: 1791275691000 | reason_txt: Forebyggende vedlikehold | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((568984.0 7029883.0, 569044.0 7029961.0, 569071.0 7030028.0, 569046.0 7030022.0, 569023.0 7030011.0, 568984.0 7029883.0)) | starttime: 1791356400000 | municipal_txt: Trondheim | timelimit: 1791363600000 | gridlevel_txt: Lav | SHAPE__Length: 355.8686325843154 | num_ab_regained: 0 | objectid: 9827 | type_txt: Utkobling | SHAPE__Area: 3770.46780915"
+          "text": "seq_no: 1 | eventid: 83840669 | num_ab: 4 | last_updated: 1790505190000 | reason_txt: Ombygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (562333.0 7017974.5) | globalid: {E02FCE25-D2F1-42FF-B481-AF441B9F64EF} | starttime: 1790316000000 | municipal_txt: Melhus | timelimit: 1790337600000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790505594482 | created_date: 1790505594482 | num_ab_regained: 0 | objectid: 26514 | type_txt: Utkobling"
         },
         {
           "path": "features[6].properties",
-          "text": "eventid: 83884739 | num_ab: 0 | last_updated: 1791266294000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((573856.0 7017639.0, 573915.0 7017814.0, 573863.0 7017938.0, 573470.0 7017793.0, 573349.0 7017692.0, 573856.0 7017639.0)) | starttime: 1791781200000 | municipal_txt: Trondheim | timelimit: 1791810000000 | gridlevel_txt: Høy | SHAPE__Length: 1406.2075854204656 | num_ab_regained: 0 | objectid: 9824 | type_txt: Utkobling | SHAPE__Area: 95371.785723465"
+          "text": "seq_no: 1 | eventid: 83862549 | num_ab: 4 | last_updated: 1790579368000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (494851.5 7055362.75) | globalid: {DDFAE531-14B7-41C5-961B-350444760AE2} | starttime: 1790578800000 | municipal_txt: Hitra | timelimit: 1790596800000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790597008892 | created_date: 1790597008892 | num_ab_regained: 0 | objectid: 26544 | type_txt: Utkobling"
         },
         {
-          "path": "features[9].properties",
-          "text": "eventid: 83866438 | num_ab: 0 | last_updated: 1791183767000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling som vil berøre ditt anlegg på {ADRESSE} fra 13.10.2026 08:00 til 13.10.2026 15:00. Følg alle våre saker på https://tensio.no/stromstans | original_wkt: POLYGON ((537724.0 7050339.0, 537751.0 7050353.0, 537822.0 7050405.0, 537798.0 7050410.0, 537719.0 7050383.0, 537724.0 7050339.0)) | starttime: 1791871200000 | municipal_txt: Orkland | timelimit: 1791896400000 | gridlevel_txt: Lav | SHAPE__Length: 270.9239045126488 | num_ab_regained: 0 | objectid: 9822 | type_txt: Utkobling | SHAPE__Area: 3052.446560855"
+          "path": "features[8].properties",
+          "text": "seq_no: 1 | eventid: 83838214 | num_ab: 1 | last_updated: 1790748045000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (566716.0 6987833.0) | globalid: {60743481-7DCA-4C1F-B86E-36BA52BE7F1D} | starttime: 1790748000000 | municipal_txt: Midtre Gauldal | timelimit: 1790771400000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790748299933 | created_date: 1790748299933 | num_ab_regained: 0 | objectid: 26563 | type_txt: Utkobling"
         },
         {
-          "path": "features[10].properties",
-          "text": "eventid: 83885484 | num_ab: 0 | last_updated: 1791266984000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((565823.0 7030273.0, 565781.0 7031358.0, 565611.0 7031389.0, 562088.0 7031030.0, 565823.0 7030273.0)) | starttime: 1791835200000 | municipal_txt: Trondheim | timelimit: 1791846000000 | gridlevel_txt: Høy | SHAPE__Length: 8616.21285241159 | num_ab_regained: 0 | objectid: 9825 | type_txt: Utkobling | SHAPE__Area: 2098075.75598094"
-        },
-        {
-          "path": "features[12].properties",
-          "text": "eventid: 83885080 | num_ab: 0 | last_updated: 1791266612000 | reason_txt: Linjearbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((469177.0 7033955.0, 469815.0 7034103.0, 470342.0 7034577.0, 467504.0 7036409.0, 467262.0 7036395.0, 467608.0 7035750.0, 469177.0 7033955.0)) | starttime: 1791529200000 | municipal_txt: Hitra | timelimit: 1791536400000 | gridlevel_txt: Høy | SHAPE__Length: 8110.821612269363 | num_ab_regained: 0 | objectid: 9823 | type_txt: Utkobling | SHAPE__Area: 2572879.123540715"
+          "path": "features[13].properties",
+          "text": "seq_no: 1 | eventid: 83853364 | num_ab: 19 | last_updated: 1790505584000 | reason_txt: Annen årsak | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (583686.7 7030418.25) | globalid: {B64CB773-3C36-4BDE-91F1-D59CC655DB6D} | starttime: 1790053200000 | municipal_txt: Malvik | timelimit: 1790946000000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790507385689 | created_date: 1790507385689 | num_ab_regained: 0 | objectid: 26515 | type_txt: Utkobling"
         },
         {
           "path": "features[14].properties",
-          "text": "eventid: 83888228 | num_ab: 0 | last_updated: 1791269560000 | reason_txt: Kabelarbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((560397.0 6979133.0, 560425.0 6979277.0, 560425.0 6979279.0, 560397.0 6979133.0)) | starttime: 1791531000000 | municipal_txt: Midtre Gauldal | timelimit: 1791547200000 | gridlevel_txt: Lav | SHAPE__Length: 297.56125217476284 | num_ab_regained: 0 | objectid: 9826 | type_txt: Utkobling | SHAPE__Area: 28.04185859"
-        }
-      ]
-    },
-    {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/0/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
-      "matches": [
-        {
-          "path": "features[0].properties",
-          "text": "eventid: 2660030 | num_ab: 2 | last_updated: 1791251250000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POINT (616975.0 7132166.33333333) | starttime: 1791218640000 | municipal_txt: NAMSOS | timelimit: 1791280800000 | gridlevel_txt: Høy | num_ab_regained: 689 | objectid: 4007 | type_txt: Driftsforstyrrelse"
+          "text": "seq_no: 1 | eventid: 83868459 | num_ab: 5 | last_updated: 1790580573000 | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (569038.0 7034269.0) | globalid: {147B1316-DF36-485B-9FCB-97A5CFA6C809} | starttime: 1790578800000 | municipal_txt: Trondheim | timelimit: 1790593200000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790600619362 | created_date: 1790600619362 | num_ab_regained: 0 | objectid: 26545 | type_txt: Utkobling"
         },
         {
-          "path": "features[1].properties",
-          "text": "eventid: 2663662 | num_ab: 90 | last_updated: 1791271315000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POINT (630100.171428572 7114917.79047619) | starttime: 1791267360000 | municipal_txt: STEINKJER | timelimit: 1791279000000 | gridlevel_txt: Høy | num_ab_regained: 239 | objectid: 4029 | type_txt: Driftsforstyrrelse"
+          "path": "features[15].properties",
+          "text": "seq_no: 1 | eventid: 83881216 | num_ab: 5 | last_updated: 1790844527000 | reason_txt: Strømløs | created_user: Administrator | original_wkt: POINT (515639.2 6944355.8) | globalid: {DC9CC04C-1C4C-40ED-AEEF-CE21A03752A5} | starttime: 1790841120000 | municipal_txt: Oppdal | timelimit: 1790852400000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790844671849 | created_date: 1790844671849 | num_ab_regained: 0 | objectid: 26590 | type_txt: Driftsforstyrrelse"
         },
         {
-          "path": "features[2].properties",
-          "text": "eventid: 2660062 | num_ab: 25 | last_updated: 1791274477000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POINT (579331.633333333 7143517.46666667) | starttime: 1791218760000 | municipal_txt: FLATANGER | timelimit: 1791270000000 | gridlevel_txt: Høy | num_ab_regained: 312 | objectid: 4008 | type_txt: Driftsforstyrrelse"
+          "path": "features[18].properties",
+          "text": "seq_no: 1 | eventid: 83858494 | num_ab: 1 | last_updated: 1790460109000 | reason_txt: Annen årsak | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (570872.0 7035312.0) | globalid: {135E0E98-92EB-49CF-A525-FF1A6104F404} | starttime: 1790460000000 | municipal_txt: Trondheim | timelimit: 1790488800000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790460184417 | created_date: 1790460184417 | num_ab_regained: 0 | objectid: 26510 | type_txt: Utkobling"
         },
         {
-          "path": "features[3].properties",
-          "text": "eventid: 2661470 | num_ab: 2 | last_updated: 1791277090000 | customer_web_text: Tensio beklager at det er strømbrudd i området. På grunn av værforholdene og sikkerheten til vårt mannskap, må vi avvente feilretting. | original_wkt: POINT (577119.0 7192120.33333333) | starttime: 1791229020000 | municipal_txt: NÆRØYSUND | timelimit: 1791270000000 | gridlevel_txt: Høy | num_ab_regained: 246 | objectid: 4025 | type_txt: Driftsforstyrrelse"
+          "path": "features[20].properties",
+          "text": "seq_no: 1 | eventid: 83866854 | num_ab: 22 | last_updated: 1790661679000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (571965.869565217 6923136.08695652) | globalid: {A56BFC09-4B2B-4981-B10D-EFDEDD9BFDAE} | starttime: 1790661600000 | municipal_txt: Tynset | timelimit: 1790667000000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790661797964 | created_date: 1790661797964 | num_ab_regained: 0 | objectid: 26550 | type_txt: Utkobling"
         },
         {
-          "path": "features[4].properties",
-          "text": "eventid: 2660762 | num_ab: 72 | last_updated: 1791277734000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POINT (598945.518072289 7093361.34939759) | starttime: 1791222240000 | municipal_txt: STEINKJER | timelimit: 1791270000000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 4020 | type_txt: Driftsforstyrrelse"
-        }
-      ]
-    },
-    {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
-      "matches": [
-        {
-          "path": "features[0].properties",
-          "text": "eventid: 2642617 | num_ab: 0 | last_updated: 1791180089000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((617281.0 7081472.0, 617340.0 7081512.0, 617408.0 7081582.0, 617588.0 7081779.0, 617613.0 7081994.0, 617395.0 7081857.0, 617285.0 7081514.0, 617281.0 7081472.0)) | starttime: 1791442800000 | municipal_txt: INDERØY | timelimit: 1791462600000 | gridlevel_txt: Høy | SHAPE__Length: 1312.3270413406833 | num_ab_regained: 0 | objectid: 7129 | type_txt: Utkobling | SHAPE__Area: 68289.13054354"
+          "path": "features[24].properties",
+          "text": "seq_no: 1 | eventid: 83867326 | num_ab: 128 | last_updated: 1790577419000 | reason_txt: Annen årsak | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (571092.317829457 7034685.17829457) | globalid: {E323A536-9B7A-4DE1-A468-39E996820BDB} | starttime: 1790577000000 | municipal_txt: Trondheim | timelimit: 1790589600000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790578107448 | created_date: 1790578107448 | num_ab_regained: 0 | objectid: 26521 | type_txt: Utkobling"
         },
         {
-          "path": "features[1].properties",
-          "text": "eventid: 2664130 | num_ab: 0 | last_updated: 1791273786000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((639827.0 7031429.0, 639876.0 7031449.0, 640507.0 7031940.0, 639959.0 7032346.0, 639390.0 7032151.0, 639339.0 7032084.0, 639385.0 7032007.0, 639784.0 7031473.0, 639818.0 7031434.0, 639827.0 7031429.0)) | starttime: 1791442800000 | municipal_txt: MERÅKER | timelimit: 1791460800000 | gridlevel_txt: Høy | SHAPE__Length: 3038.7042306099 | num_ab_regained: 0 | objectid: 7145 | type_txt: Utkobling | SHAPE__Area: 571440.976162285"
+          "path": "features[25].properties",
+          "text": "seq_no: 1 | eventid: 83866970 | num_ab: 48 | last_updated: 1790670643000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (569300.12244898 6937448.7755102) | globalid: {A61371DE-0587-4BB2-BFD6-0FC273281600} | starttime: 1790670600000 | municipal_txt: Tynset | timelimit: 1790676000000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790670729442 | created_date: 1790670729442 | num_ab_regained: 0 | objectid: 26552 | type_txt: Utkobling"
         },
         {
-          "path": "features[2].properties",
-          "text": "eventid: 2654497 | num_ab: 0 | last_updated: 1791093828000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((630214.0 7080685.0, 631122.0 7081002.0, 631308.0 7081116.0, 631357.0 7081261.0, 630975.0 7082124.0, 629734.0 7082426.0, 629390.0 7082330.0, 629326.0 7082016.0, 629830.0 7080815.0, 630214.0 7080685.0)) | starttime: 1791356400000 | municipal_txt: VERDAL | timelimit: 1791370800000 | gridlevel_txt: Høy | SHAPE__Length: 5940.154190524759 | num_ab_regained: 0 | objectid: 7142 | type_txt: Utkobling | SHAPE__Area: 2404992.68648841"
+          "path": "features[26].properties",
+          "text": "seq_no: 1 | eventid: 83869651 | num_ab: 128 | last_updated: 1790748930000 | reason_txt: Annen årsak | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (571092.317829457 7034685.17829457) | globalid: {9725D242-F7FF-4E2D-BAC4-EEC433D80FCE} | starttime: 1790748900000 | municipal_txt: Trondheim | timelimit: 1790773200000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790749045894 | created_date: 1790749045894 | num_ab_regained: 0 | objectid: 26568 | type_txt: Utkobling"
         },
         {
-          "path": "features[3].properties",
-          "text": "eventid: 2656244 | num_ab: 0 | last_updated: 1791180122000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((623849.0 7067880.0, 623886.0 7067882.0, 624013.0 7067908.0, 624177.0 7068088.0, 623877.0 7068151.0, 623861.0 7068137.0, 623849.0 7067880.0)) | starttime: 1791442800000 | municipal_txt: LEVANGER | timelimit: 1791453600000 | gridlevel_txt: Høy | SHAPE__Length: 995.4546349369574 | num_ab_regained: 0 | objectid: 7144 | type_txt: Utkobling | SHAPE__Area: 56341.79668965"
+          "path": "features[27].properties",
+          "text": "seq_no: 1 | eventid: 83870815 | num_ab: 14 | last_updated: 1790838529000 | reason_txt: Nybygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (564988.0 7029947.07142857) | globalid: {56595DD9-2AC9-433E-9A24-FF9594805D40} | starttime: 1790836200000 | municipal_txt: Trondheim | timelimit: 1790854200000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790846281142 | created_date: 1790846281142 | num_ab_regained: 0 | objectid: 26593 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[28].properties",
+          "text": "seq_no: 1 | eventid: 83886444 | num_ab: 340 | last_updated: 1791221307000 | created_user: Administrator | customer_web_text: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Inntil vi har lokalisert feilsted og årsak til hendelse, er det vanskelig å anslå når strømmen vil være tilbake. | original_wkt: POINT (558200.169971671 7093183.0878187) | globalid: {8BF6D5E7-03DE-4733-B09A-2C391564091C} | starttime: 1791221220000 | municipal_txt: Åfjord | timelimit: 1791232200000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1791221395822 | created_date: 1791221395822 | num_ab_regained: 0 | objectid: 26647 | type_txt: Driftsforstyrrelse"
+        },
+        {
+          "path": "features[29].properties",
+          "text": "seq_no: 1 | eventid: 83867330 | num_ab: 68 | last_updated: 1790676002000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (535677.985294118 6991723.85294118) | globalid: {99117B39-83C5-4FD4-ABD4-138614B6F038} | starttime: 1790676000000 | municipal_txt: Orkland | timelimit: 1790681400000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790676110025 | created_date: 1790676110025 | num_ab_regained: 0 | objectid: 26554 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[30].properties",
+          "text": "seq_no: 1 | eventid: 83842529 | num_ab: 10 | last_updated: 1790838436000 | reason_txt: Nybygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (565629.3 6976732.3) | globalid: {B9D94B3F-CF62-43D7-B712-C63E48AB316B} | starttime: 1790838000000 | municipal_txt: Midtre Gauldal | timelimit: 1790852400000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790853631426 | created_date: 1790853631426 | num_ab_regained: 0 | objectid: 26596 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[32].properties",
+          "text": "seq_no: 1 | eventid: 83865318 | num_ab: 18 | last_updated: 1790664080000 | reason_txt: Nybygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (571471.0 7034371.83333333) | globalid: {5B099C2F-BCF2-4616-B199-EA62B3D53514} | starttime: 1790663400000 | municipal_txt: Trondheim | timelimit: 1790681400000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790677592889 | created_date: 1790677592889 | num_ab_regained: 0 | objectid: 26556 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[33].properties",
+          "text": "seq_no: 1 | eventid: 83869611 | num_ab: 14 | last_updated: 1790752794000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (552527.411764706 6963785.23529412) | globalid: {0C68A86D-DB99-4A30-9988-8EBD85F07E09} | starttime: 1790751600000 | municipal_txt: Rennebu | timelimit: 1790769600000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790752885372 | created_date: 1790752885372 | num_ab_regained: 0 | objectid: 26572 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[35].properties",
+          "text": "seq_no: 1 | eventid: 83874932 | num_ab: 3 | last_updated: 1790581756000 | reason_txt: Strømløs | created_user: Administrator | original_wkt: POINT (499018.666666667 7055781.0) | globalid: {B131C1F8-A6BC-46CC-8B63-13C851764316} | starttime: 1790573820000 | municipal_txt: Hitra | timelimit: 1790584200000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790581881613 | created_date: 1790581881613 | num_ab_regained: 0 | objectid: 26526 | type_txt: Driftsforstyrrelse"
+        },
+        {
+          "path": "features[36].properties",
+          "text": "seq_no: 1 | eventid: 83866978 | num_ab: 9 | last_updated: 1790677878000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (563904.1 6944137.4) | globalid: {B2132CA1-12CD-417B-BCC1-D73D419D491A} | starttime: 1790677800000 | municipal_txt: Tynset | timelimit: 1790683200000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790677964912 | created_date: 1790677964912 | num_ab_regained: 0 | objectid: 26557 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[37].properties",
+          "text": "seq_no: 1 | eventid: 83881468 | num_ab: 96 | last_updated: 1790862111000 | reason_txt: Linje henger lavt | created_user: Administrator | customer_web_text: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi arbeider med saken og det er foreløpig usikkert når strømmen vil være tilbake | original_wkt: POINT (482278.939393939 7082644.50505051) | globalid: {4DB93E9D-617F-4EDB-93A9-358D64570E0C} | starttime: 1790851260000 | municipal_txt: Frøya | timelimit: 1790861400000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790862200285 | created_date: 1790862200285 | num_ab_regained: 0 | objectid: 26601 | type_txt: Driftsforstyrrelse"
+        },
+        {
+          "path": "features[39].properties",
+          "text": "seq_no: 1 | eventid: 83839882 | num_ab: 7 | last_updated: 1790661777000 | reason_txt: Ombygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (555010.285714286 7018010.0) | globalid: {4D03212A-E6C7-4A97-812B-ACE90AC7169A} | starttime: 1790659800000 | municipal_txt: Skaun | timelimit: 1790679600000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790687150273 | created_date: 1790687150273 | num_ab_regained: 0 | objectid: 26561 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[40].properties",
+          "text": "seq_no: 1 | eventid: 83871071 | num_ab: 7 | last_updated: 1790677568000 | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (569012.0 7034286.28571429) | globalid: {F9E8B98F-3E6A-4461-B471-2E343C7ED7BC} | starttime: 1790663400000 | municipal_txt: Trondheim | timelimit: 1790686800000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790687150273 | created_date: 1790687150273 | num_ab_regained: 0 | objectid: 26562 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[43].properties",
+          "text": "seq_no: 1 | eventid: 83885652 | num_ab: 24 | last_updated: 1791202809000 | reason_txt: Lav spenning | created_user: Administrator | customer_web_text: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi arbeider med saken og det er foreløpig usikkert når strømmen vil være tilbake | original_wkt: POINT (499682.083333333 7056592.66666667) | globalid: {C6A34DF4-2A40-43AF-8072-199E3114B684} | starttime: 1791201300000 | municipal_txt: Hitra | timelimit: 1791212400000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1791202899477 | created_date: 1791202899477 | num_ab_regained: 0 | objectid: 26629 | type_txt: Driftsforstyrrelse"
         }
       ]
     },
@@ -643,6 +601,27 @@
       ]
     },
     {
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/1/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "matches": [
+        {
+          "path": "features[0].properties",
+          "text": "eventid: 2660762 | num_ab: 72 | last_updated: 1791279045000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POLYGON ((595243.0 7089413.0, 595513.0 7089655.0, 602820.0 7096781.0, 602830.0 7096920.0, 602523.0 7097090.0, 600699.0 7097265.0, 600392.0 7097156.0, 597566.0 7093426.0, 595243.0 7089413.0)) | starttime: 1791222240000 | municipal_txt: STEINKJER | timelimit: 1791293400000 | gridlevel_txt: Høy | SHAPE__Length: 22541.81541386487 | num_ab_regained: 0 | objectid: 3154 | type_txt: Driftsforstyrrelse | SHAPE__Area: 12257870.24899449"
+        },
+        {
+          "path": "features[1].properties",
+          "text": "eventid: 2663662 | num_ab: 90 | last_updated: 1791279074000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POLYGON ((629696.0 7113744.0, 631093.0 7114298.0, 631751.0 7114782.0, 631883.0 7114962.0, 631314.0 7117183.0, 627389.0 7114178.0, 627553.0 7113928.0, 628276.0 7113767.0, 629696.0 7113744.0)) | starttime: 1791267360000 | municipal_txt: STEINKJER | timelimit: 1791293400000 | gridlevel_txt: Høy | SHAPE__Length: 12240.151153450406 | num_ab_regained: 239 | objectid: 3163 | type_txt: Driftsforstyrrelse | SHAPE__Area: 7725941.15259049"
+        },
+        {
+          "path": "features[2].properties",
+          "text": "eventid: 2660062 | num_ab: 25 | last_updated: 1791279104000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POLYGON ((579193.0 7141936.0, 581175.0 7144331.0, 580232.0 7144468.0, 578685.0 7144372.0, 578036.0 7143294.0, 578023.0 7143077.0, 579193.0 7141936.0)) | starttime: 1791218760000 | municipal_txt: FLATANGER | timelimit: 1791291600000 | gridlevel_txt: Høy | SHAPE__Length: 8725.573492749316 | num_ab_regained: 312 | objectid: 3143 | type_txt: Driftsforstyrrelse | SHAPE__Area: 4376338.883515105"
+        },
+        {
+          "path": "features[3].properties",
+          "text": "eventid: 2661470 | num_ab: 2 | last_updated: 1791277090000 | customer_web_text: Tensio beklager at det er strømbrudd i området. På grunn av værforholdene og sikkerheten til vårt mannskap, må vi avvente feilretting. | original_wkt: POLYGON ((577103.0 7192088.0, 577158.0 7192155.0, 577096.0 7192118.0, 577103.0 7192088.0)) | starttime: 1791229020000 | municipal_txt: NÆRØYSUND | timelimit: 1791270000000 | gridlevel_txt: Høy | SHAPE__Length: 189.7764046316179 | num_ab_regained: 246 | objectid: 3159 | type_txt: Driftsforstyrrelse | SHAPE__Area: 1060.462125025"
+        }
+      ]
+    },
+    {
       "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer",
       "matches": [
         {
@@ -652,35 +631,231 @@
       ]
     },
     {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "url": "https://api-www.tensio.no/power-outage/features?status=Terminated&region=TN&includeArcgisFeatures=false&cached=true",
       "matches": [
         {
-          "path": "features[0].properties",
-          "text": "eventid: 2664130 | num_ab: 0 | last_updated: 1791273786000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (639858.866666667 7031896.1) | starttime: 1791442800000 | municipal_txt: MERÅKER | timelimit: 1791460800000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9462 | type_txt: Utkobling"
+          "path": "[0]",
+          "text": "region: TN | id: 2660030 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | municipalTxt: NAMSOS | numAbRegained: 0 | numAb: 691 | startTime: 1791218640000 | lastUpdated: 1791218703000 | timeLimit: 1791228600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791279300000"
         },
         {
-          "path": "features[1].properties",
-          "text": "eventid: 2642617 | num_ab: 0 | last_updated: 1791180089000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (617446.059701493 7081742.3880597) | starttime: 1791442800000 | municipal_txt: INDERØY | timelimit: 1791462600000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9441 | type_txt: Utkobling"
+          "path": "[1]",
+          "text": "region: TN | id: 2660362 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | municipalTxt: NAMSOS | numAbRegained: 0 | numAb: 292 | startTime: 1791220620000 | lastUpdated: 1791220704000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791237900000"
         },
         {
-          "path": "features[2].properties",
-          "text": "eventid: 2654337 | num_ab: 0 | last_updated: 1791182705000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (608138.0 7145037.5) | starttime: 1791442800000 | municipal_txt: NAMSOS | timelimit: 1791475200000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9452 | type_txt: Utkobling"
+          "path": "[2]",
+          "text": "region: TN | id: 2660558 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 840 | startTime: 1791221820000 | lastUpdated: 1791221877000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791223200000"
         },
         {
-          "path": "features[3].properties",
-          "text": "eventid: 2658774 | num_ab: 0 | last_updated: 1791183309000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (624914.0 7215582.0) | starttime: 1791444600000 | municipal_txt: LEKA | timelimit: 1791457200000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9461 | type_txt: Utkobling"
+          "path": "[3]",
+          "text": "region: TN | id: 2647379 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 12 | startTime: 1790665200000 | lastUpdated: 1790667145000 | timeLimit: 1790677800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790679600000"
         },
         {
-          "path": "features[4].properties",
-          "text": "eventid: 2657666 | num_ab: 0 | last_updated: 1791093768000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (610563.0 7202530.0) | starttime: 1791358200000 | municipal_txt: NÆRØYSUND | timelimit: 1791369000000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 9459 | type_txt: Utkobling"
+          "path": "[4]",
+          "text": "region: TN | id: 2655103 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Inntill vi har lokalisert feilsted og årsak til hendelse, er det vanskelig å anslå når strømmen vil være tilbake. | municipalTxt: STJØRDAL | numAbRegained: 0 | numAb: 1098 | startTime: 1790756160000 | lastUpdated: 1790756236000 | timeLimit: 1790767800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790761200000"
         },
         {
-          "path": "features[5].properties",
-          "text": "eventid: 2654497 | num_ab: 0 | last_updated: 1791093828000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (630571.0625 7081636.225) | starttime: 1791356400000 | municipal_txt: VERDAL | timelimit: 1791370800000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9457 | type_txt: Utkobling"
+          "path": "[5]",
+          "text": "region: TN | id: 2659990 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: NAMSOS | numAbRegained: 0 | numAb: 397 | startTime: 1791218100000 | lastUpdated: 1791219134000 | timeLimit: 1791228600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791229500000"
         },
         {
-          "path": "features[6].properties",
-          "text": "eventid: 2656244 | num_ab: 0 | last_updated: 1791180122000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (623968.545454545 7067989.36363636) | starttime: 1791442800000 | municipal_txt: LEVANGER | timelimit: 1791453600000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9460 | type_txt: Utkobling"
+          "path": "[6]",
+          "text": "region: TN | id: 2661258 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 566 | startTime: 1791226380000 | lastUpdated: 1791226381000 | timeLimit: 1791237600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791252900000"
+        },
+        {
+          "path": "[7]",
+          "text": "region: TN | id: 2653109 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | reasonTxt: Høy spenning | numAbRegained: 0 | numAb: 7 | startTime: 1790758800000 | lastUpdated: 1790759035000 | timeLimit: 1790759700000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790761200000"
+        },
+        {
+          "path": "[8]",
+          "text": "region: TN | id: 2646611 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STEINKJER | numAbRegained: 152 | numAb: 90 | startTime: 1790838000000 | lastUpdated: 1790838093000 | timeLimit: 1790841600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790842500000"
+        },
+        {
+          "path": "[9]",
+          "text": "region: TN | id: 2655986 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 374 | numAb: 16 | startTime: 1790777460000 | lastUpdated: 1790779377000 | timeLimit: 1790787600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790784600000"
+        },
+        {
+          "path": "[10]",
+          "text": "region: TN | id: 2646771 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: INDRE FOSEN | numAbRegained: 0 | numAb: 11 | startTime: 1790837400000 | lastUpdated: 1790837629000 | timeLimit: 1790844600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790844000000"
+        },
+        {
+          "path": "[11]",
+          "text": "region: TN | id: 2646449 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 25 | startTime: 1790751600000 | lastUpdated: 1790751647000 | timeLimit: 1790755200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790753400000"
+        },
+        {
+          "path": "[12]",
+          "text": "region: TN | id: 2658554 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: LEKA | numAbRegained: 0 | numAb: 1 | startTime: 1791106860000 | lastUpdated: 1791116239000 | timeLimit: 1791117000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791117000000"
+        },
+        {
+          "path": "[13]",
+          "text": "region: TN | id: 2644332 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: LEVANGER | numAbRegained: 0 | numAb: 32 | startTime: 1790751600000 | lastUpdated: 1790751972000 | timeLimit: 1790762400000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790757600000"
+        },
+        {
+          "path": "[14]",
+          "text": "region: TN | id: 2652973 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 2 | startTime: 1790842200000 | lastUpdated: 1790842259000 | timeLimit: 1790856600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790852100000"
+        },
+        {
+          "path": "[15]",
+          "text": "region: TN | id: 2653393 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 2 | startTime: 1790841600000 | lastUpdated: 1790843870000 | timeLimit: 1790856000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790852100000"
+        },
+        {
+          "path": "[16]",
+          "text": "region: TN | id: 2649011 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: LIERNE | numAbRegained: 0 | numAb: 5 | startTime: 1790751600000 | lastUpdated: 1790752841000 | timeLimit: 1790769600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790765700000"
+        },
+        {
+          "path": "[17]",
+          "text": "region: TN | id: 2656288 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 1 | startTime: 1790840100000 | lastUpdated: 1790852388000 | timeLimit: 1790850600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790854500000"
+        },
+        {
+          "path": "[18]",
+          "text": "region: TN | id: 2660566 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 800 | startTime: 1791221880000 | lastUpdated: 1791221933000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791240300000"
+        },
+        {
+          "path": "[19]",
+          "text": "region: TN | id: 2649243 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: VERDAL | reasonTxt: Annen årsak | numAbRegained: 0 | numAb: 4 | startTime: 1790838000000 | lastUpdated: 1790851936000 | timeLimit: 1790852400000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790854500000"
+        },
+        {
+          "path": "[20]",
+          "text": "region: TN | id: 2656850 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 139 | startTime: 1790864220000 | lastUpdated: 1790864252000 | timeLimit: 1790875800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790889900000"
+        },
+        {
+          "path": "[21]",
+          "text": "region: TN | id: 2660174 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 392 | startTime: 1791219420000 | lastUpdated: 1791219457000 | timeLimit: 1791230400000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791234000000"
+        },
+        {
+          "path": "[22]",
+          "text": "region: TN | id: 2660302 | status: Terminated | typeTxt: Driftsforstyrrelse | numAbRegained: 0 | numAb: 2242 | startTime: 1791220380000 | lastUpdated: 1791220416000 | timeLimit: 1791230400000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791276600000"
+        },
+        {
+          "path": "[23]",
+          "text": "region: TN | id: 2645636 | status: Terminated | typeTxt: Utkobling | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 1 | startTime: 1790582400000 | lastUpdated: 1790583982000 | timeLimit: 1790593200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790747100000"
+        },
+        {
+          "path": "[24]",
+          "text": "region: TN | id: 2639435 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: INDERØY | numAbRegained: 0 | numAb: 15 | startTime: 1790665200000 | lastUpdated: 1790665266000 | timeLimit: 1790676000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790670900000"
+        },
+        {
+          "path": "[25]",
+          "text": "region: TN | id: 2660462 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 256 | startTime: 1791221580000 | lastUpdated: 1791221645000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791225300000"
+        },
+        {
+          "path": "[26]",
+          "text": "region: TN | id: 2643868 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: INDERØY | numAbRegained: 0 | numAb: 12 | startTime: 1790665200000 | lastUpdated: 1790666481000 | timeLimit: 1790676000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790677800000"
+        },
+        {
+          "path": "[27]",
+          "text": "region: TN | id: 2654811 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 391 | startTime: 1790750160000 | lastUpdated: 1790750165000 | timeLimit: 1790760600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790775300000"
+        },
+        {
+          "path": "[28]",
+          "text": "region: TN | id: 2648415 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STJØRDAL | reasonTxt: Annen årsak | numAbRegained: 0 | numAb: 2 | startTime: 1790751600000 | lastUpdated: 1790751714000 | timeLimit: 1790769600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790772600000"
+        },
+        {
+          "path": "[29]",
+          "text": "region: TN | id: 2642537 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: FROSTA | reasonTxt: Annen årsak | numAbRegained: 0 | numAb: 10 | startTime: 1790881200000 | lastUpdated: 1790881321000 | timeLimit: 1790910000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790905200000"
+        },
+        {
+          "path": "[30]",
+          "text": "region: TN | id: 2652139 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | numAbRegained: 0 | numAb: 12 | startTime: 1790920800000 | lastUpdated: 1790921192000 | timeLimit: 1790935200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790931600000"
+        },
+        {
+          "path": "[31]",
+          "text": "region: TN | id: 2653933 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | reasonTxt: Høy spenning | numAbRegained: 0 | numAb: 7 | startTime: 1790926200000 | lastUpdated: 1790926604000 | timeLimit: 1790927100000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790927700000"
+        },
+        {
+          "path": "[32]",
+          "text": "region: TN | id: 2654421 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: VERDAL | numAbRegained: 0 | numAb: 4 | startTime: 1790922600000 | lastUpdated: 1790924420000 | timeLimit: 1790931600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790928000000"
+        },
+        {
+          "path": "[33]",
+          "text": "region: TN | id: 2646615 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 1 | startTime: 1790924400000 | lastUpdated: 1790924538000 | timeLimit: 1790928000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790929800000"
+        },
+        {
+          "path": "[34]",
+          "text": "region: TN | id: 2653941 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | reasonTxt: Høy spenning | numAbRegained: 0 | numAb: 35 | startTime: 1790935200000 | lastUpdated: 1790935283000 | timeLimit: 1790936100000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790937300000"
+        },
+        {
+          "path": "[35]",
+          "text": "region: TN | id: 2653945 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | reasonTxt: Høy spenning | numAbRegained: 0 | numAb: 46 | startTime: 1790938800000 | lastUpdated: 1790939043000 | timeLimit: 1790939700000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790940600000"
+        },
+        {
+          "path": "[36]",
+          "text": "region: TN | id: 2658798 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STJØRDAL | numAbRegained: 0 | numAb: 613 | startTime: 1791178260000 | lastUpdated: 1791178279000 | timeLimit: 1791189000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791180300000"
+        },
+        {
+          "path": "[37]",
+          "text": "region: TN | id: 2660510 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 556 | startTime: 1791221700000 | lastUpdated: 1791221728000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791229200000"
+        },
+        {
+          "path": "[38]",
+          "text": "region: TN | id: 2660478 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 2 | startTime: 1791221640000 | lastUpdated: 1791221700000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791222300000"
+        },
+        {
+          "path": "[39]",
+          "text": "region: TN | id: 2660582 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 600 | startTime: 1791221880000 | lastUpdated: 1791221922000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791222900000"
+        },
+        {
+          "path": "[40]",
+          "text": "region: TN | id: 2659182 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 1 | startTime: 1791188580000 | lastUpdated: 1791188613000 | timeLimit: 1791199800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791189900000"
+        },
+        {
+          "path": "[41]",
+          "text": "region: TN | id: 2658894 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi arbeider med saken og det er foreløpig usikkert når strømmen vil være tilbake. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 20 | startTime: 1791181380000 | lastUpdated: 1791192478000 | timeLimit: 1791192600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791194700000"
+        },
+        {
+          "path": "[42]",
+          "text": "region: TN | id: 2659366 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 1 | startTime: 1791196260000 | lastUpdated: 1791196277000 | timeLimit: 1791207000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791198300000"
+        },
+        {
+          "path": "[43]",
+          "text": "region: TN | id: 2656686 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STJØRDAL | numAbRegained: 0 | numAb: 3 | startTime: 1791181800000 | lastUpdated: 1791205827000 | timeLimit: 1791187200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791207900000"
+        },
+        {
+          "path": "[44]",
+          "text": "region: TN | id: 2659646 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 1479 | startTime: 1791208200000 | lastUpdated: 1791208244000 | timeLimit: 1791219600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791210600000"
+        },
+        {
+          "path": "[45]",
+          "text": "region: TN | id: 2659762 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: NAMSOS | numAbRegained: 0 | numAb: 317 | startTime: 1791212940000 | lastUpdated: 1791212965000 | timeLimit: 1791223200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791218700000"
+        },
+        {
+          "path": "[46]",
+          "text": "region: TN | id: 2660638 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 376 | startTime: 1791222000000 | lastUpdated: 1791222040000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791270300000"
+        },
+        {
+          "path": "[47]",
+          "text": "region: TN | id: 2661014 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 12 | startTime: 1791223740000 | lastUpdated: 1791225792000 | timeLimit: 1791270000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791250500000"
+        },
+        {
+          "path": "[48]",
+          "text": "region: TN | id: 2661702 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: MERÅKER | numAbRegained: 0 | numAb: 240 | startTime: 1791230700000 | lastUpdated: 1791230755000 | timeLimit: 1791241200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791244500000"
+        },
+        {
+          "path": "[49]",
+          "text": "region: TN | id: 2661970 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STJØRDAL | numAbRegained: 0 | numAb: 613 | startTime: 1791233640000 | lastUpdated: 1791233706000 | timeLimit: 1791244800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791250500000"
+        },
+        {
+          "path": "[50]",
+          "text": "region: TN | id: 2662206 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: LIERNE | numAbRegained: 228 | numAb: 79 | startTime: 1791234840000 | lastUpdated: 1791234883000 | timeLimit: 1791244800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791267600000"
+        },
+        {
+          "path": "[51]",
+          "text": "region: TN | id: 2663858 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi arbeider med saken og det er foreløpig usikkert når strømmen vil være tilbake. | municipalTxt: RØYRVIK | numAbRegained: 0 | numAb: 166 | startTime: 1791269580000 | lastUpdated: 1791269625000 | timeLimit: 1791280800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791270000000"
+        },
+        {
+          "path": "[52]",
+          "text": "region: TN | id: 2663494 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: LIERNE | numAbRegained: 0 | numAb: 36 | startTime: 1791262260000 | lastUpdated: 1791268412000 | timeLimit: 1791273600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791271500000"
+        },
+        {
+          "path": "[53]",
+          "text": "region: TN | id: 2661046 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Reparasjon pågår | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 3 | startTime: 1791224220000 | lastUpdated: 1791271334000 | timeLimit: 1791235800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791273300000"
+        },
+        {
+          "path": "[54]",
+          "text": "region: TN | id: 2646847 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: VERDAL | numAbRegained: 0 | numAb: 7 | startTime: 1791270000000 | lastUpdated: 1791270192000 | timeLimit: 1791277200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791275400000"
+        },
+        {
+          "path": "[55]",
+          "text": "region: TN | id: 2656440 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 25 | startTime: 1791273600000 | lastUpdated: 1791273697000 | timeLimit: 1791277200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791276900000"
         }
       ]
     },
@@ -778,103 +953,77 @@
       ]
     },
     {
-      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansHistoricalTS/FeatureServer/0/query?where=seq_no%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
       "matches": [
         {
-          "path": "features[2].properties",
-          "text": "seq_no: 1 | eventid: 83840681 | num_ab: 29 | last_updated: 1790575281000 | reason_txt: Nybygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (553926.64516129 7021629.58064516) | globalid: {776FE2BF-B89F-4BFE-90C0-699D907563CF} | starttime: 1790575200000 | municipal_txt: Skaun | timelimit: 1790598600000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790575383442 | created_date: 1790575383442 | num_ab_regained: 0 | objectid: 26516 | type_txt: Utkobling"
+          "path": "features[0].properties",
+          "text": "eventid: 83883347 | num_ab: 0 | last_updated: 1791266552000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling som vil berøre ditt anlegg på {ADRESSE} fra 09.10.2026 09:00 til 09.10.2026 15:00. Følg alle våre saker på https://tensio.no/stromstans | original_wkt: POINT (573878.0625 7033109.59375) | starttime: 1791529200000 | municipal_txt: Trondheim | timelimit: 1791550800000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 12202 | type_txt: Utkobling"
         },
         {
-          "path": "features[4].properties",
-          "text": "seq_no: 1 | eventid: 83840669 | num_ab: 4 | last_updated: 1790505190000 | reason_txt: Ombygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (562333.0 7017974.5) | globalid: {E02FCE25-D2F1-42FF-B481-AF441B9F64EF} | starttime: 1790316000000 | municipal_txt: Melhus | timelimit: 1790337600000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790505594482 | created_date: 1790505594482 | num_ab_regained: 0 | objectid: 26514 | type_txt: Utkobling"
+          "path": "features[3].properties",
+          "text": "eventid: 83888999 | num_ab: 0 | last_updated: 1791275691000 | reason_txt: Forebyggende vedlikehold | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (569018.25 7029957.66666667) | starttime: 1791356400000 | municipal_txt: Trondheim | timelimit: 1791363600000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 12209 | type_txt: Utkobling"
         },
         {
-          "path": "features[6].properties",
-          "text": "seq_no: 1 | eventid: 83862549 | num_ab: 4 | last_updated: 1790579368000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (494851.5 7055362.75) | globalid: {DDFAE531-14B7-41C5-961B-350444760AE2} | starttime: 1790578800000 | municipal_txt: Hitra | timelimit: 1790596800000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790597008892 | created_date: 1790597008892 | num_ab_regained: 0 | objectid: 26544 | type_txt: Utkobling"
+          "path": "features[5].properties",
+          "text": "eventid: 83884739 | num_ab: 0 | last_updated: 1791266294000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (573759.111111111 7017758.33333333) | starttime: 1791781200000 | municipal_txt: Trondheim | timelimit: 1791810000000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 12206 | type_txt: Utkobling"
         },
         {
-          "path": "features[8].properties",
-          "text": "seq_no: 1 | eventid: 83838214 | num_ab: 1 | last_updated: 1790748045000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (566716.0 6987833.0) | globalid: {60743481-7DCA-4C1F-B86E-36BA52BE7F1D} | starttime: 1790748000000 | municipal_txt: Midtre Gauldal | timelimit: 1790771400000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790748299933 | created_date: 1790748299933 | num_ab_regained: 0 | objectid: 26563 | type_txt: Utkobling"
+          "path": "features[11].properties",
+          "text": "eventid: 83866438 | num_ab: 0 | last_updated: 1791183767000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling som vil berøre ditt anlegg på {ADRESSE} fra 13.10.2026 08:00 til 13.10.2026 15:00. Følg alle våre saker på https://tensio.no/stromstans | original_wkt: POINT (537760.857142857 7050380.57142857) | starttime: 1791871200000 | municipal_txt: Orkland | timelimit: 1791896400000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 12204 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[12].properties",
+          "text": "eventid: 83885484 | num_ab: 0 | last_updated: 1791266984000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (564848.673611111 7030980.0) | starttime: 1791835200000 | municipal_txt: Trondheim | timelimit: 1791846000000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 12207 | type_txt: Utkobling"
         },
         {
           "path": "features[13].properties",
-          "text": "seq_no: 1 | eventid: 83853364 | num_ab: 19 | last_updated: 1790505584000 | reason_txt: Annen årsak | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (583686.7 7030418.25) | globalid: {B64CB773-3C36-4BDE-91F1-D59CC655DB6D} | starttime: 1790053200000 | municipal_txt: Malvik | timelimit: 1790946000000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790507385689 | created_date: 1790507385689 | num_ab_regained: 0 | objectid: 26515 | type_txt: Utkobling"
+          "text": "eventid: 83888228 | num_ab: 0 | last_updated: 1791269560000 | reason_txt: Kabelarbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (560415.666666667 6979229.66666667) | starttime: 1791531000000 | municipal_txt: Midtre Gauldal | timelimit: 1791547200000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 12208 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[16].properties",
+          "text": "eventid: 83885080 | num_ab: 0 | last_updated: 1791266612000 | reason_txt: Linjearbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (468600.419354839 7035214.90322581) | starttime: 1791529200000 | municipal_txt: Hitra | timelimit: 1791536400000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 12205 | type_txt: Utkobling"
+        }
+      ]
+    },
+    {
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTS/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "matches": [
+        {
+          "path": "features[0].properties",
+          "text": "eventid: 83883347 | num_ab: 0 | last_updated: 1791266552000 | reason_txt: Annen årsak | customer_web_text: Tensio har planlagt en strømutkobling som vil berøre ditt anlegg på {ADRESSE} fra 09.10.2026 09:00 til 09.10.2026 15:00. Følg alle våre saker på https://tensio.no/stromstans | original_wkt: POLYGON ((573883.0 7033095.0, 573916.0 7033116.0, 573855.0 7033119.0, 573775.0 7033111.0, 573783.0 7033096.0, 573883.0 7033095.0)) | starttime: 1791529200000 | municipal_txt: Trondheim | timelimit: 1791550800000 | gridlevel_txt: Lav | SHAPE__Length: 297.75845015009304 | num_ab_regained: 0 | objectid: 9820 | type_txt: Utkobling | SHAPE__Area: 2510.786399755"
+        },
+        {
+          "path": "features[2].properties",
+          "text": "eventid: 83888999 | num_ab: 0 | last_updated: 1791275691000 | reason_txt: Forebyggende vedlikehold | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((568984.0 7029883.0, 569044.0 7029961.0, 569071.0 7030028.0, 569046.0 7030022.0, 569023.0 7030011.0, 568984.0 7029883.0)) | starttime: 1791356400000 | municipal_txt: Trondheim | timelimit: 1791363600000 | gridlevel_txt: Lav | SHAPE__Length: 355.8686325843154 | num_ab_regained: 0 | objectid: 9827 | type_txt: Utkobling | SHAPE__Area: 3770.46780915"
+        },
+        {
+          "path": "features[6].properties",
+          "text": "eventid: 83884739 | num_ab: 0 | last_updated: 1791266294000 | reason_txt: Nybygging | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((573856.0 7017639.0, 573915.0 7017814.0, 573863.0 7017938.0, 573470.0 7017793.0, 573349.0 7017692.0, 573856.0 7017639.0)) | starttime: 1791781200000 | municipal_txt: Trondheim | timelimit: 1791810000000 | gridlevel_txt: Høy | SHAPE__Length: 1406.2075854204656 | num_ab_regained: 0 | objectid: 9824 | type_txt: Utkobling | SHAPE__Area: 95371.785723465"
+        },
+        {
+          "path": "features[9].properties",
+          "text": "eventid: 83866438 | num_ab: 0 | last_updated: 1791183767000 | reason_txt: Ombygging | customer_web_text: Tensio har planlagt en strømutkobling som vil berøre ditt anlegg på {ADRESSE} fra 13.10.2026 08:00 til 13.10.2026 15:00. Følg alle våre saker på https://tensio.no/stromstans | original_wkt: POLYGON ((537724.0 7050339.0, 537751.0 7050353.0, 537822.0 7050405.0, 537798.0 7050410.0, 537719.0 7050383.0, 537724.0 7050339.0)) | starttime: 1791871200000 | municipal_txt: Orkland | timelimit: 1791896400000 | gridlevel_txt: Lav | SHAPE__Length: 270.9239045126488 | num_ab_regained: 0 | objectid: 9822 | type_txt: Utkobling | SHAPE__Area: 3052.446560855"
+        },
+        {
+          "path": "features[10].properties",
+          "text": "eventid: 83885484 | num_ab: 0 | last_updated: 1791266984000 | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((565823.0 7030273.0, 565781.0 7031358.0, 565611.0 7031389.0, 562088.0 7031030.0, 565823.0 7030273.0)) | starttime: 1791835200000 | municipal_txt: Trondheim | timelimit: 1791846000000 | gridlevel_txt: Høy | SHAPE__Length: 8616.21285241159 | num_ab_regained: 0 | objectid: 9825 | type_txt: Utkobling | SHAPE__Area: 2098075.75598094"
+        },
+        {
+          "path": "features[12].properties",
+          "text": "eventid: 83885080 | num_ab: 0 | last_updated: 1791266612000 | reason_txt: Linjearbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((469177.0 7033955.0, 469815.0 7034103.0, 470342.0 7034577.0, 467504.0 7036409.0, 467262.0 7036395.0, 467608.0 7035750.0, 469177.0 7033955.0)) | starttime: 1791529200000 | municipal_txt: Hitra | timelimit: 1791536400000 | gridlevel_txt: Høy | SHAPE__Length: 8110.821612269363 | num_ab_regained: 0 | objectid: 9823 | type_txt: Utkobling | SHAPE__Area: 2572879.123540715"
         },
         {
           "path": "features[14].properties",
-          "text": "seq_no: 1 | eventid: 83868459 | num_ab: 5 | last_updated: 1790580573000 | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (569038.0 7034269.0) | globalid: {147B1316-DF36-485B-9FCB-97A5CFA6C809} | starttime: 1790578800000 | municipal_txt: Trondheim | timelimit: 1790593200000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790600619362 | created_date: 1790600619362 | num_ab_regained: 0 | objectid: 26545 | type_txt: Utkobling"
-        },
+          "text": "eventid: 83888228 | num_ab: 0 | last_updated: 1791269560000 | reason_txt: Kabelarbeid | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POLYGON ((560397.0 6979133.0, 560425.0 6979277.0, 560425.0 6979279.0, 560397.0 6979133.0)) | starttime: 1791531000000 | municipal_txt: Midtre Gauldal | timelimit: 1791547200000 | gridlevel_txt: Lav | SHAPE__Length: 297.56125217476284 | num_ab_regained: 0 | objectid: 9826 | type_txt: Utkobling | SHAPE__Area: 28.04185859"
+        }
+      ]
+    },
+    {
+      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer?f=json",
+      "matches": [
         {
-          "path": "features[15].properties",
-          "text": "seq_no: 1 | eventid: 83881216 | num_ab: 5 | last_updated: 1790844527000 | reason_txt: Strømløs | created_user: Administrator | original_wkt: POINT (515639.2 6944355.8) | globalid: {DC9CC04C-1C4C-40ED-AEEF-CE21A03752A5} | starttime: 1790841120000 | municipal_txt: Oppdal | timelimit: 1790852400000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790844671849 | created_date: 1790844671849 | num_ab_regained: 0 | objectid: 26590 | type_txt: Driftsforstyrrelse"
-        },
-        {
-          "path": "features[18].properties",
-          "text": "seq_no: 1 | eventid: 83858494 | num_ab: 1 | last_updated: 1790460109000 | reason_txt: Annen årsak | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (570872.0 7035312.0) | globalid: {135E0E98-92EB-49CF-A525-FF1A6104F404} | starttime: 1790460000000 | municipal_txt: Trondheim | timelimit: 1790488800000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790460184417 | created_date: 1790460184417 | num_ab_regained: 0 | objectid: 26510 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[20].properties",
-          "text": "seq_no: 1 | eventid: 83866854 | num_ab: 22 | last_updated: 1790661679000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (571965.869565217 6923136.08695652) | globalid: {A56BFC09-4B2B-4981-B10D-EFDEDD9BFDAE} | starttime: 1790661600000 | municipal_txt: Tynset | timelimit: 1790667000000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790661797964 | created_date: 1790661797964 | num_ab_regained: 0 | objectid: 26550 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[24].properties",
-          "text": "seq_no: 1 | eventid: 83867326 | num_ab: 128 | last_updated: 1790577419000 | reason_txt: Annen årsak | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (571092.317829457 7034685.17829457) | globalid: {E323A536-9B7A-4DE1-A468-39E996820BDB} | starttime: 1790577000000 | municipal_txt: Trondheim | timelimit: 1790589600000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790578107448 | created_date: 1790578107448 | num_ab_regained: 0 | objectid: 26521 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[25].properties",
-          "text": "seq_no: 1 | eventid: 83866970 | num_ab: 48 | last_updated: 1790670643000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (569300.12244898 6937448.7755102) | globalid: {A61371DE-0587-4BB2-BFD6-0FC273281600} | starttime: 1790670600000 | municipal_txt: Tynset | timelimit: 1790676000000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790670729442 | created_date: 1790670729442 | num_ab_regained: 0 | objectid: 26552 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[26].properties",
-          "text": "seq_no: 1 | eventid: 83869651 | num_ab: 128 | last_updated: 1790748930000 | reason_txt: Annen årsak | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (571092.317829457 7034685.17829457) | globalid: {9725D242-F7FF-4E2D-BAC4-EEC433D80FCE} | starttime: 1790748900000 | municipal_txt: Trondheim | timelimit: 1790773200000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790749045894 | created_date: 1790749045894 | num_ab_regained: 0 | objectid: 26568 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[27].properties",
-          "text": "seq_no: 1 | eventid: 83870815 | num_ab: 14 | last_updated: 1790838529000 | reason_txt: Nybygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (564988.0 7029947.07142857) | globalid: {56595DD9-2AC9-433E-9A24-FF9594805D40} | starttime: 1790836200000 | municipal_txt: Trondheim | timelimit: 1790854200000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790846281142 | created_date: 1790846281142 | num_ab_regained: 0 | objectid: 26593 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[28].properties",
-          "text": "seq_no: 1 | eventid: 83886444 | num_ab: 340 | last_updated: 1791221307000 | created_user: Administrator | customer_web_text: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Inntil vi har lokalisert feilsted og årsak til hendelse, er det vanskelig å anslå når strømmen vil være tilbake. | original_wkt: POINT (558200.169971671 7093183.0878187) | globalid: {8BF6D5E7-03DE-4733-B09A-2C391564091C} | starttime: 1791221220000 | municipal_txt: Åfjord | timelimit: 1791232200000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1791221395822 | created_date: 1791221395822 | num_ab_regained: 0 | objectid: 26647 | type_txt: Driftsforstyrrelse"
-        },
-        {
-          "path": "features[29].properties",
-          "text": "seq_no: 1 | eventid: 83867330 | num_ab: 68 | last_updated: 1790676002000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (535677.985294118 6991723.85294118) | globalid: {99117B39-83C5-4FD4-ABD4-138614B6F038} | starttime: 1790676000000 | municipal_txt: Orkland | timelimit: 1790681400000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790676110025 | created_date: 1790676110025 | num_ab_regained: 0 | objectid: 26554 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[30].properties",
-          "text": "seq_no: 1 | eventid: 83842529 | num_ab: 10 | last_updated: 1790838436000 | reason_txt: Nybygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (565629.3 6976732.3) | globalid: {B9D94B3F-CF62-43D7-B712-C63E48AB316B} | starttime: 1790838000000 | municipal_txt: Midtre Gauldal | timelimit: 1790852400000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790853631426 | created_date: 1790853631426 | num_ab_regained: 0 | objectid: 26596 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[32].properties",
-          "text": "seq_no: 1 | eventid: 83865318 | num_ab: 18 | last_updated: 1790664080000 | reason_txt: Nybygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (571471.0 7034371.83333333) | globalid: {5B099C2F-BCF2-4616-B199-EA62B3D53514} | starttime: 1790663400000 | municipal_txt: Trondheim | timelimit: 1790681400000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790677592889 | created_date: 1790677592889 | num_ab_regained: 0 | objectid: 26556 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[33].properties",
-          "text": "seq_no: 1 | eventid: 83869611 | num_ab: 14 | last_updated: 1790752794000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (552527.411764706 6963785.23529412) | globalid: {0C68A86D-DB99-4A30-9988-8EBD85F07E09} | starttime: 1790751600000 | municipal_txt: Rennebu | timelimit: 1790769600000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790752885372 | created_date: 1790752885372 | num_ab_regained: 0 | objectid: 26572 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[35].properties",
-          "text": "seq_no: 1 | eventid: 83874932 | num_ab: 3 | last_updated: 1790581756000 | reason_txt: Strømløs | created_user: Administrator | original_wkt: POINT (499018.666666667 7055781.0) | globalid: {B131C1F8-A6BC-46CC-8B63-13C851764316} | starttime: 1790573820000 | municipal_txt: Hitra | timelimit: 1790584200000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790581881613 | created_date: 1790581881613 | num_ab_regained: 0 | objectid: 26526 | type_txt: Driftsforstyrrelse"
-        },
-        {
-          "path": "features[36].properties",
-          "text": "seq_no: 1 | eventid: 83866978 | num_ab: 9 | last_updated: 1790677878000 | reason_txt: Forebyggende vedlikehold | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (563904.1 6944137.4) | globalid: {B2132CA1-12CD-417B-BCC1-D73D419D491A} | starttime: 1790677800000 | municipal_txt: Tynset | timelimit: 1790683200000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790677964912 | created_date: 1790677964912 | num_ab_regained: 0 | objectid: 26557 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[37].properties",
-          "text": "seq_no: 1 | eventid: 83881468 | num_ab: 96 | last_updated: 1790862111000 | reason_txt: Linje henger lavt | created_user: Administrator | customer_web_text: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi arbeider med saken og det er foreløpig usikkert når strømmen vil være tilbake | original_wkt: POINT (482278.939393939 7082644.50505051) | globalid: {4DB93E9D-617F-4EDB-93A9-358D64570E0C} | starttime: 1790851260000 | municipal_txt: Frøya | timelimit: 1790861400000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1790862200285 | created_date: 1790862200285 | num_ab_regained: 0 | objectid: 26601 | type_txt: Driftsforstyrrelse"
-        },
-        {
-          "path": "features[39].properties",
-          "text": "seq_no: 1 | eventid: 83839882 | num_ab: 7 | last_updated: 1790661777000 | reason_txt: Ombygging | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (555010.285714286 7018010.0) | globalid: {4D03212A-E6C7-4A97-812B-ACE90AC7169A} | starttime: 1790659800000 | municipal_txt: Skaun | timelimit: 1790679600000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790687150273 | created_date: 1790687150273 | num_ab_regained: 0 | objectid: 26561 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[40].properties",
-          "text": "seq_no: 1 | eventid: 83871071 | num_ab: 7 | last_updated: 1790677568000 | created_user: Administrator | customer_web_text: Tensio har planlagt en strømutkobling i dette området | original_wkt: POINT (569012.0 7034286.28571429) | globalid: {F9E8B98F-3E6A-4461-B471-2E343C7ED7BC} | starttime: 1790663400000 | municipal_txt: Trondheim | timelimit: 1790686800000 | last_edited_user: Administrator | gridlevel_txt: Lav | last_edited_date: 1790687150273 | created_date: 1790687150273 | num_ab_regained: 0 | objectid: 26562 | type_txt: Utkobling"
-        },
-        {
-          "path": "features[43].properties",
-          "text": "seq_no: 1 | eventid: 83885652 | num_ab: 24 | last_updated: 1791202809000 | reason_txt: Lav spenning | created_user: Administrator | customer_web_text: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi arbeider med saken og det er foreløpig usikkert når strømmen vil være tilbake | original_wkt: POINT (499682.083333333 7056592.66666667) | globalid: {C6A34DF4-2A40-43AF-8072-199E3114B684} | starttime: 1791201300000 | municipal_txt: Hitra | timelimit: 1791212400000 | last_edited_user: Administrator | gridlevel_txt: Høy | last_edited_date: 1791202899477 | created_date: 1791202899477 | num_ab_regained: 0 | objectid: 26629 | type_txt: Driftsforstyrrelse"
+          "path": "root",
+          "text": "currentVersion: 11.5 | name: GeocacheKanvasMork_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene, OpenStreetMap | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 0 | maxLOD: 16 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 171910"
         }
       ]
     },
@@ -1016,240 +1165,6 @@
       ]
     },
     {
-      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer?f=json",
-      "matches": [
-        {
-          "path": "root",
-          "text": "currentVersion: 11.5 | name: GeocacheKanvasMork_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene, OpenStreetMap | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 0 | maxLOD: 16 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 171910"
-        }
-      ]
-    },
-    {
-      "url": "https://api-www.tensio.no/power-outage/features?status=Terminated&region=TN&includeArcgisFeatures=false&cached=true",
-      "matches": [
-        {
-          "path": "[0]",
-          "text": "region: TN | id: 2660362 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | municipalTxt: NAMSOS | numAbRegained: 0 | numAb: 292 | startTime: 1791220620000 | lastUpdated: 1791220704000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791237900000"
-        },
-        {
-          "path": "[1]",
-          "text": "region: TN | id: 2660558 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 840 | startTime: 1791221820000 | lastUpdated: 1791221877000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791223200000"
-        },
-        {
-          "path": "[2]",
-          "text": "region: TN | id: 2647379 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 12 | startTime: 1790665200000 | lastUpdated: 1790667145000 | timeLimit: 1790677800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790679600000"
-        },
-        {
-          "path": "[3]",
-          "text": "region: TN | id: 2655103 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Inntill vi har lokalisert feilsted og årsak til hendelse, er det vanskelig å anslå når strømmen vil være tilbake. | municipalTxt: STJØRDAL | numAbRegained: 0 | numAb: 1098 | startTime: 1790756160000 | lastUpdated: 1790756236000 | timeLimit: 1790767800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790761200000"
-        },
-        {
-          "path": "[4]",
-          "text": "region: TN | id: 2659990 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: NAMSOS | numAbRegained: 0 | numAb: 397 | startTime: 1791218100000 | lastUpdated: 1791219134000 | timeLimit: 1791228600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791229500000"
-        },
-        {
-          "path": "[5]",
-          "text": "region: TN | id: 2661258 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 566 | startTime: 1791226380000 | lastUpdated: 1791226381000 | timeLimit: 1791237600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791252900000"
-        },
-        {
-          "path": "[6]",
-          "text": "region: TN | id: 2653109 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | reasonTxt: Høy spenning | numAbRegained: 0 | numAb: 7 | startTime: 1790758800000 | lastUpdated: 1790759035000 | timeLimit: 1790759700000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790761200000"
-        },
-        {
-          "path": "[7]",
-          "text": "region: TN | id: 2646611 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STEINKJER | numAbRegained: 152 | numAb: 90 | startTime: 1790838000000 | lastUpdated: 1790838093000 | timeLimit: 1790841600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790842500000"
-        },
-        {
-          "path": "[8]",
-          "text": "region: TN | id: 2655986 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 374 | numAb: 16 | startTime: 1790777460000 | lastUpdated: 1790779377000 | timeLimit: 1790787600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790784600000"
-        },
-        {
-          "path": "[9]",
-          "text": "region: TN | id: 2646771 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: INDRE FOSEN | numAbRegained: 0 | numAb: 11 | startTime: 1790837400000 | lastUpdated: 1790837629000 | timeLimit: 1790844600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790844000000"
-        },
-        {
-          "path": "[10]",
-          "text": "region: TN | id: 2646449 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 25 | startTime: 1790751600000 | lastUpdated: 1790751647000 | timeLimit: 1790755200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790753400000"
-        },
-        {
-          "path": "[11]",
-          "text": "region: TN | id: 2658554 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: LEKA | numAbRegained: 0 | numAb: 1 | startTime: 1791106860000 | lastUpdated: 1791116239000 | timeLimit: 1791117000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791117000000"
-        },
-        {
-          "path": "[12]",
-          "text": "region: TN | id: 2644332 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: LEVANGER | numAbRegained: 0 | numAb: 32 | startTime: 1790751600000 | lastUpdated: 1790751972000 | timeLimit: 1790762400000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790757600000"
-        },
-        {
-          "path": "[13]",
-          "text": "region: TN | id: 2652973 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 2 | startTime: 1790842200000 | lastUpdated: 1790842259000 | timeLimit: 1790856600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790852100000"
-        },
-        {
-          "path": "[14]",
-          "text": "region: TN | id: 2653393 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 2 | startTime: 1790841600000 | lastUpdated: 1790843870000 | timeLimit: 1790856000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790852100000"
-        },
-        {
-          "path": "[15]",
-          "text": "region: TN | id: 2649011 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: LIERNE | numAbRegained: 0 | numAb: 5 | startTime: 1790751600000 | lastUpdated: 1790752841000 | timeLimit: 1790769600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790765700000"
-        },
-        {
-          "path": "[16]",
-          "text": "region: TN | id: 2656288 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 1 | startTime: 1790840100000 | lastUpdated: 1790852388000 | timeLimit: 1790850600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790854500000"
-        },
-        {
-          "path": "[17]",
-          "text": "region: TN | id: 2660566 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 800 | startTime: 1791221880000 | lastUpdated: 1791221933000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791240300000"
-        },
-        {
-          "path": "[18]",
-          "text": "region: TN | id: 2649243 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: VERDAL | reasonTxt: Annen årsak | numAbRegained: 0 | numAb: 4 | startTime: 1790838000000 | lastUpdated: 1790851936000 | timeLimit: 1790852400000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790854500000"
-        },
-        {
-          "path": "[19]",
-          "text": "region: TN | id: 2656850 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 139 | startTime: 1790864220000 | lastUpdated: 1790864252000 | timeLimit: 1790875800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790889900000"
-        },
-        {
-          "path": "[20]",
-          "text": "region: TN | id: 2660174 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 392 | startTime: 1791219420000 | lastUpdated: 1791219457000 | timeLimit: 1791230400000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791234000000"
-        },
-        {
-          "path": "[21]",
-          "text": "region: TN | id: 2660302 | status: Terminated | typeTxt: Driftsforstyrrelse | numAbRegained: 0 | numAb: 2242 | startTime: 1791220380000 | lastUpdated: 1791220416000 | timeLimit: 1791230400000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791276600000"
-        },
-        {
-          "path": "[22]",
-          "text": "region: TN | id: 2645636 | status: Terminated | typeTxt: Utkobling | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 1 | startTime: 1790582400000 | lastUpdated: 1790583982000 | timeLimit: 1790593200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790747100000"
-        },
-        {
-          "path": "[23]",
-          "text": "region: TN | id: 2639435 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: INDERØY | numAbRegained: 0 | numAb: 15 | startTime: 1790665200000 | lastUpdated: 1790665266000 | timeLimit: 1790676000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790670900000"
-        },
-        {
-          "path": "[24]",
-          "text": "region: TN | id: 2660462 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 256 | startTime: 1791221580000 | lastUpdated: 1791221645000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791225300000"
-        },
-        {
-          "path": "[25]",
-          "text": "region: TN | id: 2643868 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: INDERØY | numAbRegained: 0 | numAb: 12 | startTime: 1790665200000 | lastUpdated: 1790666481000 | timeLimit: 1790676000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790677800000"
-        },
-        {
-          "path": "[26]",
-          "text": "region: TN | id: 2654811 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 391 | startTime: 1790750160000 | lastUpdated: 1790750165000 | timeLimit: 1790760600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790775300000"
-        },
-        {
-          "path": "[27]",
-          "text": "region: TN | id: 2648415 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STJØRDAL | reasonTxt: Annen årsak | numAbRegained: 0 | numAb: 2 | startTime: 1790751600000 | lastUpdated: 1790751714000 | timeLimit: 1790769600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790772600000"
-        },
-        {
-          "path": "[28]",
-          "text": "region: TN | id: 2642537 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: FROSTA | reasonTxt: Annen årsak | numAbRegained: 0 | numAb: 10 | startTime: 1790881200000 | lastUpdated: 1790881321000 | timeLimit: 1790910000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790905200000"
-        },
-        {
-          "path": "[29]",
-          "text": "region: TN | id: 2652139 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | numAbRegained: 0 | numAb: 12 | startTime: 1790920800000 | lastUpdated: 1790921192000 | timeLimit: 1790935200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790931600000"
-        },
-        {
-          "path": "[30]",
-          "text": "region: TN | id: 2653933 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | reasonTxt: Høy spenning | numAbRegained: 0 | numAb: 7 | startTime: 1790926200000 | lastUpdated: 1790926604000 | timeLimit: 1790927100000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790927700000"
-        },
-        {
-          "path": "[31]",
-          "text": "region: TN | id: 2654421 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: VERDAL | numAbRegained: 0 | numAb: 4 | startTime: 1790922600000 | lastUpdated: 1790924420000 | timeLimit: 1790931600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790928000000"
-        },
-        {
-          "path": "[32]",
-          "text": "region: TN | id: 2646615 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 1 | startTime: 1790924400000 | lastUpdated: 1790924538000 | timeLimit: 1790928000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790929800000"
-        },
-        {
-          "path": "[33]",
-          "text": "region: TN | id: 2653941 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | reasonTxt: Høy spenning | numAbRegained: 0 | numAb: 35 | startTime: 1790935200000 | lastUpdated: 1790935283000 | timeLimit: 1790936100000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790937300000"
-        },
-        {
-          "path": "[34]",
-          "text": "region: TN | id: 2653945 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NAMSOS | reasonTxt: Høy spenning | numAbRegained: 0 | numAb: 46 | startTime: 1790938800000 | lastUpdated: 1790939043000 | timeLimit: 1790939700000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1790940600000"
-        },
-        {
-          "path": "[35]",
-          "text": "region: TN | id: 2658798 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STJØRDAL | numAbRegained: 0 | numAb: 613 | startTime: 1791178260000 | lastUpdated: 1791178279000 | timeLimit: 1791189000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791180300000"
-        },
-        {
-          "path": "[36]",
-          "text": "region: TN | id: 2660510 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: FLATANGER | numAbRegained: 0 | numAb: 556 | startTime: 1791221700000 | lastUpdated: 1791221728000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791229200000"
-        },
-        {
-          "path": "[37]",
-          "text": "region: TN | id: 2660478 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 2 | startTime: 1791221640000 | lastUpdated: 1791221700000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791222300000"
-        },
-        {
-          "path": "[38]",
-          "text": "region: TN | id: 2660582 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 600 | startTime: 1791221880000 | lastUpdated: 1791221922000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791222900000"
-        },
-        {
-          "path": "[39]",
-          "text": "region: TN | id: 2659182 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 1 | startTime: 1791188580000 | lastUpdated: 1791188613000 | timeLimit: 1791199800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791189900000"
-        },
-        {
-          "path": "[40]",
-          "text": "region: TN | id: 2658894 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi arbeider med saken og det er foreløpig usikkert når strømmen vil være tilbake. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 20 | startTime: 1791181380000 | lastUpdated: 1791192478000 | timeLimit: 1791192600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791194700000"
-        },
-        {
-          "path": "[41]",
-          "text": "region: TN | id: 2659366 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 1 | startTime: 1791196260000 | lastUpdated: 1791196277000 | timeLimit: 1791207000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791198300000"
-        },
-        {
-          "path": "[42]",
-          "text": "region: TN | id: 2656686 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: STJØRDAL | numAbRegained: 0 | numAb: 3 | startTime: 1791181800000 | lastUpdated: 1791205827000 | timeLimit: 1791187200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791207900000"
-        },
-        {
-          "path": "[43]",
-          "text": "region: TN | id: 2659646 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 1479 | startTime: 1791208200000 | lastUpdated: 1791208244000 | timeLimit: 1791219600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791210600000"
-        },
-        {
-          "path": "[44]",
-          "text": "region: TN | id: 2659762 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: NAMSOS | numAbRegained: 0 | numAb: 317 | startTime: 1791212940000 | lastUpdated: 1791212965000 | timeLimit: 1791223200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791218700000"
-        },
-        {
-          "path": "[45]",
-          "text": "region: TN | id: 2660638 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 376 | startTime: 1791222000000 | lastUpdated: 1791222040000 | timeLimit: 1791232200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791270300000"
-        },
-        {
-          "path": "[46]",
-          "text": "region: TN | id: 2661014 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STEINKJER | numAbRegained: 0 | numAb: 12 | startTime: 1791223740000 | lastUpdated: 1791225792000 | timeLimit: 1791270000000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791250500000"
-        },
-        {
-          "path": "[47]",
-          "text": "region: TN | id: 2661702 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: MERÅKER | numAbRegained: 0 | numAb: 240 | startTime: 1791230700000 | lastUpdated: 1791230755000 | timeLimit: 1791241200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791244500000"
-        },
-        {
-          "path": "[48]",
-          "text": "region: TN | id: 2661970 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: STJØRDAL | numAbRegained: 0 | numAb: 613 | startTime: 1791233640000 | lastUpdated: 1791233706000 | timeLimit: 1791244800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791250500000"
-        },
-        {
-          "path": "[49]",
-          "text": "region: TN | id: 2662206 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: LIERNE | numAbRegained: 228 | numAb: 79 | startTime: 1791234840000 | lastUpdated: 1791234883000 | timeLimit: 1791244800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791267600000"
-        },
-        {
-          "path": "[50]",
-          "text": "region: TN | id: 2663858 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Det har oppstått en feil i det elektriske nettet som har ført til avbrudd i strømforsyningen. Vi arbeider med saken og det er foreløpig usikkert når strømmen vil være tilbake. | municipalTxt: RØYRVIK | numAbRegained: 0 | numAb: 166 | startTime: 1791269580000 | lastUpdated: 1791269625000 | timeLimit: 1791280800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791270000000"
-        },
-        {
-          "path": "[51]",
-          "text": "region: TN | id: 2663494 | status: Terminated | typeTxt: Driftsforstyrrelse | municipalTxt: LIERNE | numAbRegained: 0 | numAb: 36 | startTime: 1791262260000 | lastUpdated: 1791268412000 | timeLimit: 1791273600000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791271500000"
-        },
-        {
-          "path": "[52]",
-          "text": "region: TN | id: 2661046 | status: Terminated | typeTxt: Driftsforstyrrelse | customerWebText: Reparasjon pågår | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 3 | startTime: 1791224220000 | lastUpdated: 1791271334000 | timeLimit: 1791235800000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791273300000"
-        },
-        {
-          "path": "[53]",
-          "text": "region: TN | id: 2646847 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: VERDAL | numAbRegained: 0 | numAb: 7 | startTime: 1791270000000 | lastUpdated: 1791270192000 | timeLimit: 1791277200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791275400000"
-        },
-        {
-          "path": "[54]",
-          "text": "region: TN | id: 2656440 | status: Terminated | typeTxt: Utkobling | customerWebText: Tensio har planlagt en strømutkopling i dette området. | municipalTxt: NÆRØYSUND | numAbRegained: 0 | numAb: 25 | startTime: 1791273600000 | lastUpdated: 1791273697000 | timeLimit: 1791277200000 | isTimeLimitOverwritten: false | isPoint: true | terminatedTimestamp: 1791276900000"
-        }
-      ]
-    },
-    {
       "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer",
       "matches": [
         {
@@ -1384,6 +1299,90 @@
       ]
     },
     {
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/0/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "matches": [
+        {
+          "path": "features[0].properties",
+          "text": "eventid: 2663662 | num_ab: 90 | last_updated: 1791279074000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POINT (630100.171428572 7114917.79047619) | starttime: 1791267360000 | municipal_txt: STEINKJER | timelimit: 1791293400000 | gridlevel_txt: Høy | num_ab_regained: 239 | objectid: 4029 | type_txt: Driftsforstyrrelse"
+        },
+        {
+          "path": "features[1].properties",
+          "text": "eventid: 2660062 | num_ab: 25 | last_updated: 1791279104000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POINT (579331.633333333 7143517.46666667) | starttime: 1791218760000 | municipal_txt: FLATANGER | timelimit: 1791291600000 | gridlevel_txt: Høy | num_ab_regained: 312 | objectid: 4008 | type_txt: Driftsforstyrrelse"
+        },
+        {
+          "path": "features[2].properties",
+          "text": "eventid: 2661470 | num_ab: 2 | last_updated: 1791277090000 | customer_web_text: Tensio beklager at det er strømbrudd i området. På grunn av værforholdene og sikkerheten til vårt mannskap, må vi avvente feilretting. | original_wkt: POINT (577119.0 7192120.33333333) | starttime: 1791229020000 | municipal_txt: NÆRØYSUND | timelimit: 1791270000000 | gridlevel_txt: Høy | num_ab_regained: 246 | objectid: 4025 | type_txt: Driftsforstyrrelse"
+        },
+        {
+          "path": "features[3].properties",
+          "text": "eventid: 2660762 | num_ab: 72 | last_updated: 1791279045000 | customer_web_text: Tensio har registrert at det har skjedd et avbrudd i strømforsyningen. Vi vil utbedre feilen så raskt som mulig, men det må tas høyde for at feilrettingen kan ta lengre tid enn normalt. | original_wkt: POINT (598945.518072289 7093361.34939759) | starttime: 1791222240000 | municipal_txt: STEINKJER | timelimit: 1791293400000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 4020 | type_txt: Driftsforstyrrelse"
+        }
+      ]
+    },
+    {
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/3/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "matches": [
+        {
+          "path": "features[0].properties",
+          "text": "eventid: 2642617 | num_ab: 0 | last_updated: 1791180089000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((617281.0 7081472.0, 617340.0 7081512.0, 617408.0 7081582.0, 617588.0 7081779.0, 617613.0 7081994.0, 617395.0 7081857.0, 617285.0 7081514.0, 617281.0 7081472.0)) | starttime: 1791442800000 | municipal_txt: INDERØY | timelimit: 1791462600000 | gridlevel_txt: Høy | SHAPE__Length: 1312.3270413406833 | num_ab_regained: 0 | objectid: 7129 | type_txt: Utkobling | SHAPE__Area: 68289.13054354"
+        },
+        {
+          "path": "features[1].properties",
+          "text": "eventid: 2664130 | num_ab: 0 | last_updated: 1791273786000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((639827.0 7031429.0, 639876.0 7031449.0, 640507.0 7031940.0, 639959.0 7032346.0, 639390.0 7032151.0, 639339.0 7032084.0, 639385.0 7032007.0, 639784.0 7031473.0, 639818.0 7031434.0, 639827.0 7031429.0)) | starttime: 1791442800000 | municipal_txt: MERÅKER | timelimit: 1791460800000 | gridlevel_txt: Høy | SHAPE__Length: 3038.7042306099 | num_ab_regained: 0 | objectid: 7145 | type_txt: Utkobling | SHAPE__Area: 571440.976162285"
+        },
+        {
+          "path": "features[2].properties",
+          "text": "eventid: 2654497 | num_ab: 0 | last_updated: 1791093828000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((630214.0 7080685.0, 631122.0 7081002.0, 631308.0 7081116.0, 631357.0 7081261.0, 630975.0 7082124.0, 629734.0 7082426.0, 629390.0 7082330.0, 629326.0 7082016.0, 629830.0 7080815.0, 630214.0 7080685.0)) | starttime: 1791356400000 | municipal_txt: VERDAL | timelimit: 1791370800000 | gridlevel_txt: Høy | SHAPE__Length: 5940.154190524759 | num_ab_regained: 0 | objectid: 7142 | type_txt: Utkobling | SHAPE__Area: 2404992.68648841"
+        },
+        {
+          "path": "features[3].properties",
+          "text": "eventid: 2656244 | num_ab: 0 | last_updated: 1791180122000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POLYGON ((623849.0 7067880.0, 623886.0 7067882.0, 624013.0 7067908.0, 624177.0 7068088.0, 623877.0 7068151.0, 623861.0 7068137.0, 623849.0 7067880.0)) | starttime: 1791442800000 | municipal_txt: LEVANGER | timelimit: 1791453600000 | gridlevel_txt: Høy | SHAPE__Length: 995.4546349369574 | num_ab_regained: 0 | objectid: 7144 | type_txt: Utkobling | SHAPE__Area: 56341.79668965"
+        }
+      ]
+    },
+    {
+      "url": "https://kart.tensio.no/enterprise/rest/services/Hosted/StromstansTN/FeatureServer/2/query?where=1%3D1&geometryType=esriGeometryPoint&spatialRel=esriSpatialRelIntersects&units=esriSRUnit_Meter&outFields=*&returnGeometry=true&returnTrueCurves=false&outSR=4326&returnIdsOnly=false&returnCountOnly=false&returnZ=true&returnM=true&returnDistinctValues=false&returnExtentOnly=false&featureEncoding=esriDefault&f=geojson",
+      "matches": [
+        {
+          "path": "features[0].properties",
+          "text": "eventid: 2664130 | num_ab: 0 | last_updated: 1791273786000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (639858.866666667 7031896.1) | starttime: 1791442800000 | municipal_txt: MERÅKER | timelimit: 1791460800000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9462 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[1].properties",
+          "text": "eventid: 2642617 | num_ab: 0 | last_updated: 1791180089000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (617446.059701493 7081742.3880597) | starttime: 1791442800000 | municipal_txt: INDERØY | timelimit: 1791462600000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9441 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[2].properties",
+          "text": "eventid: 2654337 | num_ab: 0 | last_updated: 1791182705000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (608138.0 7145037.5) | starttime: 1791442800000 | municipal_txt: NAMSOS | timelimit: 1791475200000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9452 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[3].properties",
+          "text": "eventid: 2658774 | num_ab: 0 | last_updated: 1791183309000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (624914.0 7215582.0) | starttime: 1791444600000 | municipal_txt: LEKA | timelimit: 1791457200000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9461 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[4].properties",
+          "text": "eventid: 2657666 | num_ab: 0 | last_updated: 1791093768000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (610563.0 7202530.0) | starttime: 1791358200000 | municipal_txt: NÆRØYSUND | timelimit: 1791369000000 | gridlevel_txt: Lav | num_ab_regained: 0 | objectid: 9459 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[5].properties",
+          "text": "eventid: 2654497 | num_ab: 0 | last_updated: 1791093828000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (630571.0625 7081636.225) | starttime: 1791356400000 | municipal_txt: VERDAL | timelimit: 1791370800000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9457 | type_txt: Utkobling"
+        },
+        {
+          "path": "features[6].properties",
+          "text": "eventid: 2656244 | num_ab: 0 | last_updated: 1791180122000 | customer_web_text: Tensio har planlagt en strømutkopling i dette området. | original_wkt: POINT (623968.545454545 7067989.36363636) | starttime: 1791442800000 | municipal_txt: LEVANGER | timelimit: 1791453600000 | gridlevel_txt: Høy | num_ab_regained: 0 | objectid: 9460 | type_txt: Utkobling"
+        }
+      ]
+    },
+    {
+      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer?f=json",
+      "matches": [
+        {
+          "path": "root",
+          "text": "currentVersion: 11.5 | name: GeocacheKanvas_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene, OpenStreetMap | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 0 | maxLOD: 16 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 171910"
+        }
+      ]
+    },
+    {
       "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvasMork_WM/VectorTileServer/resources/styles/root.json?f=json",
       "matches": [
         {
@@ -1465,15 +1464,6 @@
       ]
     },
     {
-      "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer?f=json",
-      "matches": [
-        {
-          "path": "root",
-          "text": "currentVersion: 11.5 | name: GeocacheKanvas_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene, OpenStreetMap | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 0 | maxLOD: 16 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 171910"
-        }
-      ]
-    },
-    {
       "url": "https://services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer/resources/styles/root.json?f=json",
       "matches": [
         {
@@ -1551,20 +1541,20 @@
       ]
     },
     {
-      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheBygg_WM/VectorTileServer?f=json",
-      "matches": [
-        {
-          "path": "root",
-          "text": "currentVersion: 11.5 | name: GeocacheBygg_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 13 | maxLOD: 17 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 171910"
-        }
-      ]
-    },
-    {
       "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheKanvas_WM/VectorTileServer?f=json",
       "matches": [
         {
           "path": "root",
           "text": "currentVersion: 11.5 | name: GeocacheKanvas_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene, OpenStreetMap | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 0 | maxLOD: 16 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 171910"
+        }
+      ]
+    },
+    {
+      "url": "https://vector.services.geodataonline.no/arcgis/rest/services/GeocacheVector/GeocacheBygg_WM/VectorTileServer?f=json",
+      "matches": [
+        {
+          "path": "root",
+          "text": "currentVersion: 11.5 | name: GeocacheBygg_WM | copyrightText: ©️ Geodata AS, Kartverket, Geovekst og kommunene | capabilities: TilesOnly,Tilemap | type: indexedVector | defaultStyles: /resources/styles | exportTilesAllowed: true | minScale: 0 | maxScale: 17.625 | maxzoom: 24 | minLOD: 13 | maxLOD: 17 | tileMap: /tilemap | maxExportTilesCount: 100000 | arcgisProxyBuild: 171910"
         }
       ]
     }
