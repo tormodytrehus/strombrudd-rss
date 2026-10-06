@@ -4,7 +4,14 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 05:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:47:27 GMT</lastBuildDate>
+    <item>
+      <title>Oppdatert strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">08102c474da7bbc60747</guid>
+      <pubDate>Tue, 06 Oct 2026 05:47:27 GMT</pubDate>
+      <description>Steinkjer Feil 17</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
       <link>https://nettselskapet.as/driftsmeldinger</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">cab8b2a709611ecdcb91</guid>
       <pubDate>Mon, 05 Oct 2026 21:35:53 GMT</pubDate>
       <description>Namsos Feil 135</description>
-    </item>
-    <item>
-      <title>Strømbrudd avsluttet hos Nettselskapet AS</title>
-      <link>https://nettselskapet.as/driftsmeldinger</link>
-      <guid isPermaLink="false">555681c28f1eac9ea070</guid>
-      <pubDate>Mon, 05 Oct 2026 18:52:51 GMT</pubDate>
-      <description>0 Berørte kunder667 Gjenopprettede kunder171 Berørte kunder426 Gjenopprettede kunder</description>
     </item>
   </channel>
 </rss>

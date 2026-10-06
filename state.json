@@ -36,6 +36,14 @@
   },
   "events": [
     {
+      "id": "08102c474da7bbc60747",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Steinkjer Feil 17",
+      "date": "2026-10-06T05:47:27.068Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
+    {
       "id": "3b0f8678eabcfff296a6",
       "sourceId": "nettselskapet",
       "title": "Strømbrudd avsluttet hos Nettselskapet AS",
@@ -4024,14 +4032,6 @@
       "sourceId": "tensio",
       "title": "Strømbrudd avsluttet hos Tensio",
       "description": "Trondheim Vedlikehold 13",
-      "date": "2026-09-22T13:18:11.960Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "cabc45cf3e27a9c080b3",
-      "sourceId": "tensio",
-      "title": "Nytt strømbrudd hos Tensio",
-      "description": "Tydal Feil 5",
       "date": "2026-09-22T13:18:11.960Z",
       "link": "https://www.tensio.no/no/kunde/strombruddskart"
     }
