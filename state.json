@@ -11,6 +11,11 @@
         "contentHash": "45dae4d124b223bccac3",
         "text": "Steinkjer Feil 72"
       },
+      "ba5953318d81e59f65a1": {
+        "key": "ba5953318d81e59f65a1",
+        "contentHash": "b8b0bcc1aec852bfeabe",
+        "text": "Namsskogan Feil 5"
+      },
       "1963199ae429722f4e80": {
         "key": "1963199ae429722f4e80",
         "contentHash": "ce427107bf4c02de77f8",
@@ -20,6 +25,14 @@
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "86230d0049f6666ccd6c",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Namsskogan Feil 5",
+      "date": "2026-10-06T12:52:01.939Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "c895eabe35c05b12de53",
       "sourceId": "tensio",
@@ -4010,14 +4023,6 @@
       "title": "Oppdatert strømbrudd hos Tensio",
       "description": "Trondheim Vedlikehold 120",
       "date": "2026-09-23T08:59:13.891Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "76ca267dad9b1f9e58c4",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Trondheim Vedlikehold 344",
-      "date": "2026-09-23T08:45:05.398Z",
       "link": "https://www.tensio.no/no/kunde/strombruddskart"
     }
   ]
