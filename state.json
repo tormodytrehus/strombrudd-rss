@@ -6,6 +6,11 @@
         "contentHash": "2e1d01cd812724f4460d",
         "text": "Lierne Feil 79"
       },
+      "5a67ec7dfaefc1b07f7d": {
+        "key": "5a67ec7dfaefc1b07f7d",
+        "contentHash": "127df13bc6797bdfde38",
+        "text": "Flatanger Feil 25"
+      },
       "1963199ae429722f4e80": {
         "key": "1963199ae429722f4e80",
         "contentHash": "ce427107bf4c02de77f8",
@@ -20,11 +25,6 @@
         "key": "f40864139fda64a0181c",
         "contentHash": "2a074c1765afa8620755",
         "text": "Namsos Feil 2"
-      },
-      "5a67ec7dfaefc1b07f7d": {
-        "key": "5a67ec7dfaefc1b07f7d",
-        "contentHash": "127df13bc6797bdfde38",
-        "text": "Flatanger Feil 25"
       },
       "acc93d524474bf843c9c": {
         "key": "acc93d524474bf843c9c",
@@ -48,14 +48,46 @@
         "contentHash": "196a8e19d742bb25d10e",
         "text": "scheduleStart2026-10-06 04:29history_toggle_offPlanlagt sluttUkjent"
       },
-      "fc6baa5d54d2996630d2": {
-        "key": "fc6baa5d54d2996630d2",
-        "contentHash": "9f600b741f8ddabbc124",
-        "text": "0 Berørte kunder0 Gjenopprettede kunder277 Berørte kunder980 Gjenopprettede kunder838 Gjenopprettede kunder426 Gjenopprettede kunder5 Gjenopprettede kunder"
+      "d88e7d7550333e160cd6": {
+        "key": "d88e7d7550333e160cd6",
+        "contentHash": "88bd6a1bd5344b845bef",
+        "text": "0 Berørte kunder0 Gjenopprettede kunder314 Berørte kunder277 Berørte kunder838 Gjenopprettede kunder666 Gjenopprettede kunder426 Gjenopprettede kunder5 Gjenopprettede kunder"
       }
     }
   },
   "events": [
+    {
+      "id": "89b5593417da355b1838",
+      "sourceId": "nettselskapet",
+      "title": "Strømbrudd avsluttet hos Nettselskapet AS",
+      "description": "0 Berørte kunder0 Gjenopprettede kunder277 Berørte kunder980 Gjenopprettede kunder838 Gjenopprettede kunder426 Gjenopprettede kunder5 Gjenopprettede kunder",
+      "date": "2026-10-06T04:19:31.362Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "0212faa3679718e9361b",
+      "sourceId": "nettselskapet",
+      "title": "Nytt strømbrudd hos Nettselskapet AS",
+      "description": "0 Berørte kunder0 Gjenopprettede kunder314 Berørte kunder277 Berørte kunder838 Gjenopprettede kunder666 Gjenopprettede kunder426 Gjenopprettede kunder5 Gjenopprettede kunder",
+      "date": "2026-10-06T04:19:31.362Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "946ecbaf1c7949237746",
+      "sourceId": "nettselskapet",
+      "title": "Oppdatert strømbrudd hos Nettselskapet AS",
+      "description": "history_toggle_offPlanlagt start2026-10-05 08:30history_toggle_offPlanlagt slutt2026-10-05 12:00",
+      "date": "2026-10-06T04:19:31.362Z",
+      "link": "https://nettselskapet.as/driftsmeldinger"
+    },
+    {
+      "id": "fb0dcb799fa54663c66d",
+      "sourceId": "tensio",
+      "title": "Oppdatert strømbrudd hos Tensio",
+      "description": "Steinkjer Feil 17",
+      "date": "2026-10-06T04:19:31.362Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "490c279e62f8b4383422",
       "sourceId": "nettselskapet",
@@ -4022,38 +4054,6 @@
       "title": "Oppdatert strømbrudd hos Tensio",
       "description": "Trondheim Vedlikehold 2",
       "date": "2026-09-22T09:57:30.177Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "876ebeb9e6b6e441c19b",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Trondheim Vedlikehold 1",
-      "date": "2026-09-22T09:43:28.151Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "5984d20f05d1fbc91c84",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Trondheim Vedlikehold 13",
-      "date": "2026-09-22T09:43:28.151Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "5c8956d00064f88d39f6",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Trondheim Vedlikehold 2",
-      "date": "2026-09-22T09:43:28.151Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "c1cc36df8b3917dd0b29",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Trondheim Vedlikehold 5",
-      "date": "2026-09-22T09:20:22.610Z",
       "link": "https://www.tensio.no/no/kunde/strombruddskart"
     }
   ]
