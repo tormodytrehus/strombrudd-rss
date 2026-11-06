@@ -1,9 +1,23 @@
 {
   "current": {
-    "tensio": {},
+    "tensio": {
+      "e14deee98bb30764948f": {
+        "key": "e14deee98bb30764948f",
+        "contentHash": "2b63c8deee4944799e57",
+        "text": "Malvik Vedlikehold 1132"
+      }
+    },
     "nettselskapet": {}
   },
   "events": [
+    {
+      "id": "8ecee000eb9e680a4e91",
+      "sourceId": "tensio",
+      "title": "Nytt strømbrudd hos Tensio",
+      "description": "Malvik Vedlikehold 1132",
+      "date": "2026-11-06T00:57:04.438Z",
+      "link": "https://www.tensio.no/no/kunde/strombruddskart"
+    },
     {
       "id": "342c3e484838713e48d7",
       "sourceId": "tensio",
@@ -3994,14 +4008,6 @@
       "title": "Oppdatert strømbrudd hos Tensio",
       "description": "Trondheim Vedlikehold 120",
       "date": "2026-09-23T09:58:29.235Z",
-      "link": "https://www.tensio.no/no/kunde/strombruddskart"
-    },
-    {
-      "id": "084504227cdec3540733",
-      "sourceId": "tensio",
-      "title": "Oppdatert strømbrudd hos Tensio",
-      "description": "Trondheim Vedlikehold 344",
-      "date": "2026-09-23T09:44:17.451Z",
       "link": "https://www.tensio.no/no/kunde/strombruddskart"
     }
   ]

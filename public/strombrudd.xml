@@ -4,7 +4,14 @@
     <title>Strømbrudd – samlet</title>
     <link>https://tormodytrehus.github.io/strombrudd-rss/strombrudd.xml</link>
     <description>Nye og oppdaterte strømbrudd fra Tensio og Nettselskapet AS.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 20:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:57:04 GMT</lastBuildDate>
+    <item>
+      <title>Nytt strømbrudd hos Tensio</title>
+      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
+      <guid isPermaLink="false">8ecee000eb9e680a4e91</guid>
+      <pubDate>Fri, 06 Nov 2026 00:57:04 GMT</pubDate>
+      <description>Malvik Vedlikehold 1132</description>
+    </item>
     <item>
       <title>Strømbrudd avsluttet hos Tensio</title>
       <link>https://www.tensio.no/no/kunde/strombruddskart</link>
@@ -697,13 +704,6 @@
       <guid isPermaLink="false">c0302d681a00d61b1bfd</guid>
       <pubDate>Tue, 06 Oct 2026 00:30:48 GMT</pubDate>
       <description>Steinkjer Feil 32</description>
-    </item>
-    <item>
-      <title>Oppdatert strømbrudd hos Tensio</title>
-      <link>https://www.tensio.no/no/kunde/strombruddskart</link>
-      <guid isPermaLink="false">8d959e8a936afef71358</guid>
-      <pubDate>Mon, 05 Oct 2026 23:43:27 GMT</pubDate>
-      <description>Åfjord Feil 228</description>
     </item>
   </channel>
 </rss>
